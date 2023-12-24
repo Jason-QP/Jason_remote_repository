@@ -1,0 +1,11 @@
+[t399]
+FileName1=t399_get_department_select.json
+URL1=http://192.168.129.196/api/index/get_department_select?keyword=
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_399.xml
+RequestHeaderFile=t399_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t399_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

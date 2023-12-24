@@ -1,0 +1,11 @@
+[t370]
+FileName1=t370_get_view_data.json
+URL1=http://192.168.129.196/home/api/get_view_data
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_370.xml
+RequestHeaderFile=t370_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t370_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

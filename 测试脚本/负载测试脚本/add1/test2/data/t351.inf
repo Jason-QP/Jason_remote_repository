@@ -1,0 +1,10 @@
+[t351]
+FileName1=t350.htm
+URL1=http://192.168.129.196/
+Total=1
+SnapshotXmlFile=snapshot_351.xml
+RequestHeaderFile=t351_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t351_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

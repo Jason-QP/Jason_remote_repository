@@ -1,0 +1,212 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP137",
+                "stepName": "Url: index.html",
+                "infFile": "t1.inf",
+                "time": 1703341092975
+            },
+            {
+                "stepId": "STEP138",
+                "stepName": "Submit Data: login_submit",
+                "infFile": "t2.inf",
+                "time": 1703341093165
+            },
+            {
+                "stepId": "STEP139",
+                "stepName": "Url: 192.168.129.196",
+                "infFile": "t3.inf",
+                "time": 1703341093734
+            },
+            {
+                "stepId": "STEP140",
+                "stepName": "Url: get_note_list",
+                "infFile": "t4.inf",
+                "time": 1703341093871
+            },
+            {
+                "stepId": "STEP141",
+                "stepName": "Url: get_article_list",
+                "infFile": "t5.inf",
+                "time": 1703341094091
+            },
+            {
+                "stepId": "STEP142",
+                "stepName": "Url: get_view_data",
+                "infFile": "t6.inf",
+                "time": 1703341094220
+            },
+            {
+                "stepId": "STEP143",
+                "stepName": "Url: get_view_log",
+                "infFile": "t7.inf",
+                "time": 1703341094326
+            },
+            {
+                "stepId": "STEP144",
+                "stepName": "Url: log_list",
+                "infFile": "t8.inf",
+                "time": 1703341094444
+            },
+            {
+                "stepId": "STEP145",
+                "stepName": "Url: get_article_list_2",
+                "infFile": "t9.inf",
+                "time": 1703341094708
+            },
+            {
+                "stepId": "STEP146",
+                "stepName": "Url: get_view_data_2",
+                "infFile": "t10.inf",
+                "time": 1703341094847
+            },
+            {
+                "stepId": "STEP147",
+                "stepName": "Custom Request: json",
+                "infFile": "t12.inf",
+                "time": 1703341095727
+            },
+            {
+                "stepId": "STEP148",
+                "stepName": "Url: flow_type",
+                "infFile": "t13.inf",
+                "time": 1703341095901
+            },
+            {
+                "stepId": "STEP149",
+                "stepName": "Url: flow_type_2",
+                "infFile": "t14.inf",
+                "time": 1703341096077
+            },
+            {
+                "stepId": "STEP150",
+                "stepName": "Url: flow_type_add",
+                "infFile": "t15.inf",
+                "time": 1703341096212
+            },
+            {
+                "stepId": "STEP151",
+                "stepName": "Url: get_department_select",
+                "infFile": "t16.inf",
+                "time": 1703341096338
+            },
+            {
+                "stepId": "STEP152",
+                "stepName": "Custom Request: index",
+                "infFile": "t18.inf",
+                "time": 1703341096423
+            },
+            {
+                "stepId": "STEP153",
+                "stepName": "Submit Data: flow_type_add_2",
+                "infFile": "t19.inf",
+                "time": 1703341096541
+            },
+            {
+                "stepId": "STEP154",
+                "stepName": "Url: geturl.php",
+                "infFile": "t20.inf",
+                "time": 1703341096779
+            },
+            {
+                "stepId": "STEP155",
+                "stepName": "Custom Request: json_2",
+                "infFile": "t21.inf",
+                "time": 1703341097099
+            },
+            {
+                "stepId": "STEP156",
+                "stepName": "Submit Data: flow_type_add_3",
+                "infFile": "t22.inf",
+                "time": 1703341097344
+            },
+            {
+                "stepId": "STEP157",
+                "stepName": "Submit Data: flow_type_add_4",
+                "infFile": "t23.inf",
+                "time": 1703341112918
+            },
+            {
+                "stepId": "STEP158",
+                "stepName": "Submit Data: flow_type_add_5",
+                "infFile": "t24.inf",
+                "time": 1703341113177
+            },
+            {
+                "stepId": "STEP159",
+                "stepName": "Submit Data: flow_type_add_6",
+                "infFile": "t25.inf",
+                "time": 1703341113568
+            },
+            {
+                "stepId": "STEP160",
+                "stepName": "Submit Data: flow_type_add_7",
+                "infFile": "t26.inf",
+                "time": 1703341113707
+            },
+            {
+                "stepId": "STEP161",
+                "stepName": "Submit Data: flow_type_add_8",
+                "infFile": "t27.inf",
+                "time": 1703341113852
+            },
+            {
+                "stepId": "STEP162",
+                "stepName": "Url: flow_type_3",
+                "infFile": "t28.inf",
+                "time": 1703341113994
+            },
+            {
+                "stepId": "STEP163",
+                "stepName": "Url: flow_type_add_9",
+                "infFile": "t29.inf",
+                "time": 1703341114179
+            },
+            {
+                "stepId": "STEP164",
+                "stepName": "Url: get_department_select_2",
+                "infFile": "t30.inf",
+                "time": 1703341114300
+            },
+            {
+                "stepId": "STEP165",
+                "stepName": "Submit Data: flow_type_add_10",
+                "infFile": "t31.inf",
+                "time": 1703341114443
+            },
+            {
+                "stepId": "STEP166",
+                "stepName": "Url: flow_type_4",
+                "infFile": "t32.inf",
+                "time": 1703341114567
+            },
+            {
+                "stepId": "STEP167",
+                "stepName": "Submit Data: flow_type_check",
+                "infFile": "t33.inf",
+                "time": 1703341114718
+            },
+            {
+                "stepId": "STEP168",
+                "stepName": "Url: flow_type_5",
+                "infFile": "t34.inf",
+                "time": 1703341114840
+            },
+            {
+                "stepId": "STEP169",
+                "stepName": "Submit Data: flow_type_check_2",
+                "infFile": "t36.inf",
+                "time": 1703341115042
+            },
+            {
+                "stepId": "STEP170",
+                "stepName": "Url: flow_type_6",
+                "infFile": "t37.inf",
+                "time": 1703341115176
+            }
+        ],
+        "transactions": []
+    }
+]

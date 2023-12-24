@@ -1,0 +1,11 @@
+[t368]
+FileName1=t368_get_note_list.json
+URL1=http://192.168.129.196/home/api/get_note_list?page=1&limit=10
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_368.xml
+RequestHeaderFile=t368_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t368_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

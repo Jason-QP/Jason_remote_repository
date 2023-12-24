@@ -1,0 +1,19 @@
+[t2]
+FileName2=t1_3_captcha.png
+FileName5=t1_0_login_logo.png
+FileName4=t1_1_layui.css
+RequestBodyFile=t2_RequestBody.txt
+ContentType=DummyContentType
+URL1=http://192.168.129.196/home/login/login_submit
+URL2=http://192.168.129.196/captcha.html
+URL3=http://192.168.129.196/static/assets/layui/layui.js?v=1.0.22
+ResponseHeaderFile=t2_ResponseHeader.txt
+URL4=http://192.168.129.196/static/assets/layui/css/layui.css?v=1.0.22
+URL5=http://192.168.129.196/static/home/images/login_logo.png
+SnapshotXmlFile=snapshot_2.xml
+RequestHeaderFile=t2_RequestHeader.txt
+SaveSnapshotResources=1
+Total=5
+StepName=Submit Data: login_submit
+FileName1=t2.UNK
+FileName3=t1_2_layui.UNK

@@ -1,0 +1,11 @@
+[t390]
+FileName1=t390.htm
+URL1=http://192.168.129.196/home/cate/flow_type
+Total=1
+RequestHeaderFile=t390_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t390_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_390.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

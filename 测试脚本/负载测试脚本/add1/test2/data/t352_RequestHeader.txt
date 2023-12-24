@@ -1,0 +1,10 @@
+GET /static/assets/icon/iconfont.css HTTP/1.1
+Accept: text/css, */*
+Referer: http://192.168.129.196/
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; LCTE; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 192.168.129.196
+Connection: Keep-Alive
+Cookie: PHPSESSID=e84a5d270b41f7c5f364b5d946cb2fa4
+

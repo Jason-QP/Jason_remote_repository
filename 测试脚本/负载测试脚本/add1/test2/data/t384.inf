@@ -1,0 +1,11 @@
+[t384]
+FileName1=t384_get_view_log.json
+URL1=http://192.168.129.196/home/api/get_view_log
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_384.xml
+RequestHeaderFile=t384_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t384_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

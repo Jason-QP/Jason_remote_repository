@@ -1,0 +1,11 @@
+[t455]
+FileName1=t455.json
+URL1=http://192.168.129.196/home/cate/flow_type_check
+Total=1
+RequestHeaderFile=t455_RequestHeader.txt
+RequestBodyFile=t455_RequestBody.txt
+ResponseHeaderFile=t455_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_455.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

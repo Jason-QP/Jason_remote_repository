@@ -1,0 +1,20 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: json",
+                "infFile": "t2.inf",
+                "time": 1703345280870
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: json_2",
+                "infFile": "t4.inf",
+                "time": 1703345281406
+            }
+        ],
+        "transactions": []
+    }
+]

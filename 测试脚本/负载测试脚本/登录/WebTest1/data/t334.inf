@@ -1,0 +1,11 @@
+[t334]
+FileName1=t334.json
+URL1=http://192.168.129.196/home/cate/flow_type_add
+Total=1
+RequestHeaderFile=t334_RequestHeader.txt
+RequestBodyFile=t334_RequestBody.txt
+ResponseHeaderFile=t334_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_334.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

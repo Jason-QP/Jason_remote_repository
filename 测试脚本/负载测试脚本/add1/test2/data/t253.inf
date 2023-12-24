@@ -1,0 +1,11 @@
+[t253]
+FileName1=t253.json
+URL1=http://192.168.129.196/home/index/index
+Total=1
+RequestHeaderFile=t253_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t253_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_253.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,10 @@
+[t280]
+FileName1=t279.txt
+URL1=http://clientservices.googleapis.com/uma/v2
+Total=1
+SnapshotXmlFile=snapshot_280.xml
+RequestHeaderFile=t280_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t280_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

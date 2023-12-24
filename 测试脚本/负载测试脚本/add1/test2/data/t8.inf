@@ -1,0 +1,14 @@
+[t8]
+FileName1=t3.htm
+URL1=http://192.168.129.196/
+Total=2
+FileName2=t3f0.htm
+URL2=http://192.168.129.196/home/index/main.html
+FrameIndex2=0.0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t376]
+FileName1=t376.htm
+URL1=http://192.168.129.196/home/cate/flow_type
+Total=1
+RequestHeaderFile=t376_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t376_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_376.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

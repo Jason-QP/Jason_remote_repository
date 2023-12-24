@@ -1,0 +1,17 @@
+[t132]
+FileName1=t131.htm
+URL1=http://localhost/
+Total=4
+SnapshotXmlFile=snapshot_132.xml
+RequestHeaderFile=t132_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t132_ResponseHeader.txt
+FileName2=t132_syslogo_small.png
+URL2=http://localhost/static/home/images/syslogo_small.png
+ContentType=image/png
+FileName3=t132_icon.png
+URL3=http://localhost/static/home/images/icon.png
+FileName4=t132_syslogo.png
+URL4=http://localhost/static/home/images/syslogo.png
+[ProtocolInfo]
+ProtocolId=QTWeb

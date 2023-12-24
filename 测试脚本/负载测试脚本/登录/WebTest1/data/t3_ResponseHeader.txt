@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 2562
+Content-Type: text/html; charset=utf-8
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Set-Cookie: MUID=271C95EDA6B56B7F1BF78609A7476A63; domain=.microsoft.com; expires=Sat, 04-Jan-2025 02:36:20 GMT; path=/; secure; SameSite=None
+Set-Cookie: MUIDB=271C95EDA6B56B7F1BF78609A7476A63; expires=Sat, 04-Jan-2025 02:36:20 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=F=1&SID=2CBF59BE38B9644919704A5A394B65C6; domain=.microsoft.com; path=/; HttpOnly
+Set-Cookie: _EDGE_V=1; domain=.microsoft.com; expires=Sat, 04-Jan-2025 02:36:20 GMT; path=/; HttpOnly
+Set-Cookie: SRCHD=AF=NOFORM; domain=.microsoft.com; expires=Thu, 11-Dec-2025 02:36:20 GMT; path=/
+Set-Cookie: SRCHUID=V=2&GUID=1187AD5E7E294E13B686BA2E4BA96BC3&dmnchg=1; domain=.microsoft.com; expires=Thu, 11-Dec-2025 02:36:20 GMT; path=/
+Set-Cookie: SRCHUSR=DOB=20231211; domain=.microsoft.com; expires=Thu, 11-Dec-2025 02:36:20 GMT; path=/
+Set-Cookie: SRCHHPGUSR=SRCHLANG=zh-Hans; domain=.microsoft.com; expires=Thu, 11-Dec-2025 02:36:20 GMT; path=/
+Set-Cookie: _SS=SID=2CBF59BE38B9644919704A5A394B65C6; domain=.microsoft.com; path=/
+X-EventID: 657675a475a847c19e1398fd814855cc
+UserAgentReductionOptOut: A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 97150FE7D6EF4116AE12C1A484F1EEAB Ref B: TYBEDGE0621 Ref C: 2023-12-11T02:36:20Z
+Date: Mon, 11 Dec 2023 02:36:20 GMT
+

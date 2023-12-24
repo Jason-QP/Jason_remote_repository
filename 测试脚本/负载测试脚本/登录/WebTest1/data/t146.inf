@@ -1,0 +1,15 @@
+[t146]
+FileName1=t145.htm
+URL1=http://192.168.133.196/home/login/index.html?username=admin&password=123456&captcha=1
+Total=3
+SnapshotXmlFile=snapshot_146.xml
+RequestHeaderFile=t146_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t146_ResponseHeader.txt
+FileName2=t146_captcha.png
+URL2=http://192.168.133.196/captcha.html
+ContentType=image/png
+FileName3=t146_layui.html
+URL3=http://192.168.133.196/static/assets/layui/layui.js?v=1.0.22
+[ProtocolInfo]
+ProtocolId=QTWeb

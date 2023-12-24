@@ -1,0 +1,11 @@
+GET http://192.168.133.196/api/index/get_department_select?keyword= HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Referer: http://192.168.133.196/home/cate/flow_type_add?type=1&title=test1&name=test&icon=icon-jichupeizhi&id=0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=da01abb61cd02059ab90686fdb4d5ba7; gougutab={"tab_id":"32","tab_array":[{"id":"32","url":"/home/cate/flow_type","title":"审批类型"}]}
+Host: 192.168.133.196
+Connection: Close
+

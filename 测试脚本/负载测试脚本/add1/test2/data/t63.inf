@@ -1,0 +1,11 @@
+[t63]
+FileName1=t63.txt
+URL1=http://clientservices.googleapis.com/uma/v2
+Total=1
+RequestHeaderFile=t63_RequestHeader.txt
+RequestBodyFile=t63_RequestBody.txt
+ResponseHeaderFile=t63_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_63.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

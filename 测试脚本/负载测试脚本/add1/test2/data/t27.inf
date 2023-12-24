@@ -1,0 +1,10 @@
+[t27]
+FileName1=t26.json
+URL1=http://192.168.129.196/home/index/index
+Total=1
+SnapshotXmlFile=snapshot_27.xml
+RequestHeaderFile=t27_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t27_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

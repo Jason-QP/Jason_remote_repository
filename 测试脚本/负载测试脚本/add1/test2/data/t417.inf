@@ -1,0 +1,11 @@
+[t417]
+FileName1=t417_get_article_list.json
+URL1=http://192.168.129.196/home/api/get_article_list?page=1&limit=10
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_417.xml
+RequestHeaderFile=t417_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t417_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

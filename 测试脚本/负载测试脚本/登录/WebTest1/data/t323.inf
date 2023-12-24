@@ -1,0 +1,11 @@
+[t323]
+FileName1=t323.json
+URL1=http://192.168.129.196/home/index/index
+Total=1
+RequestHeaderFile=t323_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t323_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_323.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

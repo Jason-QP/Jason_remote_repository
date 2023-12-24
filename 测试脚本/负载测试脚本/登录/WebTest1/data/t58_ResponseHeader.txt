@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: image/gif
+Content-Length: 43
+Connection: close
+Date: Mon, 18 Jul 2022 00:15:21 GMT
+Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+Ali-Swift-Global-Savetime: 1658103321
+Via: cache60.l2cn2627[0,0,200-0,H], cache51.l2cn2627[1,0], kunlun12.cn5222[0,0,200-0,H], kunlun4.cn5222[1,0]
+Age: 44930943
+X-Cache: HIT TCP_MEM_HIT dirn:11:200175070
+X-Swift-SaveTime: Wed, 15 Feb 2023 19:19:02 GMT
+X-Swift-CacheTime: 296974579
+Timing-Allow-Origin: *
+EagleId: b659c00417030342645203406e
+

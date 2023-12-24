@@ -1,0 +1,11 @@
+[t428]
+FileName1=t428.json
+URL1=http://192.168.129.196/home/index/index
+Total=1
+RequestHeaderFile=t428_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t428_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_428.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

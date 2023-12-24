@@ -1,0 +1,11 @@
+[t268]
+FileName1=t268.json
+URL1=http://192.168.129.196/home/cate/flow_type_add
+Total=1
+RequestHeaderFile=t268_RequestHeader.txt
+RequestBodyFile=t268_RequestBody.txt
+ResponseHeaderFile=t268_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_268.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

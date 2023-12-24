@@ -1,0 +1,11 @@
+[t256]
+FileName1=t256.json
+URL1=http://update.googleapis.com/service/update2/json
+Total=1
+RequestHeaderFile=t256_RequestHeader.txt
+RequestBodyFile=t256_RequestBody.txt
+ResponseHeaderFile=t256_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_256.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

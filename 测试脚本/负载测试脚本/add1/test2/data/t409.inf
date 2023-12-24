@@ -1,0 +1,13 @@
+[t409]
+FileName1=t409.htm
+URL1=http://192.168.129.196/home/login/index.html
+Total=2
+RequestHeaderFile=t409_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t409_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_409.xml
+FileName2=t409_captcha.png
+URL2=http://192.168.129.196/captcha.html
+[ProtocolInfo]
+ProtocolId=QTWeb

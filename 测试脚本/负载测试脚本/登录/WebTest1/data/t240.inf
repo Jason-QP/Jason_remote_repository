@@ -1,0 +1,10 @@
+[t240]
+FileName1=t238.json
+URL1=http://update.googleapis.com/service/update2/json?cup2key=13:itPH3u8ZButxTKNihIkYeHWdcQGbexpEKTN1e1jZz-w&cup2hreq=4e0ad16b843d1a9a92967a9a015f42243f41f26e15d6b8a67adc6c6356ff6050
+Total=1
+SnapshotXmlFile=snapshot_240.xml
+RequestHeaderFile=t240_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t240_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

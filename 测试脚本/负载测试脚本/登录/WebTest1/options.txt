@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IE:\SoftWareTesting\WebTest1
+-IE:\LoadRunner\include
+-ee:\softwaretesting\webtest1\\logfile.log
+e:\softwaretesting\webtest1\\combined_WebTest1.c
+e:\softwaretesting\webtest1\\pre_cci.c

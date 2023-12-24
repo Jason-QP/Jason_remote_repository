@@ -1,0 +1,11 @@
+[t108]
+FileName1=t108.json
+URL1=http://update.googleapis.com/service/update2/json?cup2key=13:ZmvOSi3QjDg53fRblSNe-uB8oJ4zOkXNwO7HCf_EDHA&cup2hreq=3e81188fff8d0c2fa52b7e1b6448805e53bb363505999d78e5fed04a79f88ba0
+Total=1
+RequestHeaderFile=t108_RequestHeader.txt
+RequestBodyFile=t108_RequestBody.txt
+ResponseHeaderFile=t108_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_108.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

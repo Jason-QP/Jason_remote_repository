@@ -1,0 +1,11 @@
+[t406]
+FileName1=t406.json
+URL1=http://192.168.129.196/home/cate/flow_type_check
+Total=1
+RequestHeaderFile=t406_RequestHeader.txt
+RequestBodyFile=t406_RequestBody.txt
+ResponseHeaderFile=t406_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_406.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t410]
+FileName1=t410.json
+URL1=http://192.168.129.196/home/login/login_submit
+Total=1
+RequestHeaderFile=t410_RequestHeader.txt
+RequestBodyFile=t410_RequestBody.txt
+ResponseHeaderFile=t410_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_410.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

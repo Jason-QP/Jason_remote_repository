@@ -1,0 +1,11 @@
+[t344]
+FileName1=t344.json
+URL1=http://192.168.129.196/home/login/login_submit
+Total=1
+RequestHeaderFile=t344_RequestHeader.txt
+RequestBodyFile=t344_RequestBody.txt
+ResponseHeaderFile=t344_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_344.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

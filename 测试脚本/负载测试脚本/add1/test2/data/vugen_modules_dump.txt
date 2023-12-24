@@ -1,0 +1,367 @@
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\VuGen.exe
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\ntdll.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\MSCOREE.DLL
+		10.0.19041.3155 (WinBuild.160101.0800)C:\WINDOWS\System32\KERNEL32.dll
+		10.0.19041.3155 (WinBuild.160101.0800)C:\WINDOWS\System32\KERNELBASE.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\ADVAPI32.dll
+		7.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\System32\msvcrt.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\System32\sechost.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\RPCRT4.dll
+		4.8.9093.0 built by: NET481REL1LAST_CC:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\SHLWAPI.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\VERSION.dll
+		4.8.9195.0 built by: NET481REL1LAST_BC:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\USER32.dll
+		10.0.19041.3271 (WinBuild.160101.0800)C:\WINDOWS\System32\win32u.dll
+		14.32.31326.0                 C:\WINDOWS\SYSTEM32\VCRUNTIME140_CLR0400.dll
+		10.0.19041.2913 (WinBuild.160101.0800)C:\WINDOWS\System32\GDI32.dll
+		10.0.19041.3324 (WinBuild.160101.0800)C:\WINDOWS\System32\gdi32full.dll
+		10.0.19041.789 (WinBuild.160101.0800)C:\WINDOWS\System32\msvcp_win.dll
+		10.0.19041.789 (WinBuild.160101.0800)C:\WINDOWS\System32\ucrtbase.dll
+		14.32.31326.0                 C:\WINDOWS\SYSTEM32\ucrtbase_clr0400.dll
+		10.0.19041.2673 (WinBuild.160101.0800)C:\WINDOWS\System32\IMM32.DLL
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\ole32.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\combase.dll
+		10.0.19041.2486 (WinBuild.160101.0800)C:\WINDOWS\System32\bcryptPrimitives.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\system32\uxtheme.dll
+		                              E:\rocketdock\RocketDock\RocketDock.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\System32\PSAPI.DLL
+		4.8.9195.0 built by: NET481REL1LAST_BC:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll
+		10.0.19041.3208 (WinBuild.160101.0800)C:\WINDOWS\System32\OLEAUT32.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\bcrypt.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\CRYPTSP.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\system32\rsaenh.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\shell32.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\windows.storage.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\Wldp.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\SHCORE.dll
+		10.0.19041.3155 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\profapi.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\dwrite.dll
+		4.8.9200.0 built by: NET481REL1LAST_CC:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\wpfgfx_v0400.dll
+		14.32.31326.0                 C:\WINDOWS\SYSTEM32\MSVCP140_CLR0400.dll
+		4.8.9200.0 built by: NET481REL1LAST_CC:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\PresentationNative_v0400.dll
+		5.82 (WinBuild.160101.0800)   C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_c0da534e38c01f4d\comctl32.dll
+		10.0.19041.2251 (WinBuild.160101.0800)C:\WINDOWS\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.2251_none_d9513b1fe1046fc7\gdiplus.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\MSCTF.dll
+		2001.12.10941.16384 (WinBuild.160101.0800)C:\WINDOWS\System32\clbcatq.dll
+		                              C:\WINDOWS\System32\TextShaping.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\RegistryUtil.dll
+		14.36.32532.0                 C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll
+		14.32.31332.0                 C:\WINDOWS\SYSTEM32\mfc140.dll
+		4.8.9195.0 built by: NET481REL1LAST_BC:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll
+		10.0.19041.1081 (WinBuild.160101.0800)C:\WINDOWS\System32\WS2_32.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\CRYPT32.dll
+		10.0.19041.1706 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\WindowsCodecs.dll
+		10.0.19041.3271 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\textinputframework.dll
+		10.0.19041.3324               C:\WINDOWS\System32\CoreMessaging.dll
+		10.0.19041.546                C:\WINDOWS\System32\CoreUIComponents.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\ntmarta.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\wintypes.dll
+		9.6.0.3568                    C:\WINDOWS\System32\sogoutsf.ime
+		10.0.19041.1466 (WinBuild.160101.0800)C:\WINDOWS\System32\MSIMG32.dll
+		9.6.0.3568                    C:\WINDOWS\system32\SogouPy.ime
+		7.2.19041.746 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\OLEACC.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\WINHTTP.dll
+		1.0.0.163                     C:\Program Files (x86)\SogouInput\Components\VoiceInput\1.0.0.163\VoiceInput.dll
+		9.6.0.3568                    C:\Program Files (x86)\SogouInput\9.6.0.3568\Resource.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\dwmapi.dll
+		1.1.0.1879                    C:\Program Files (x86)\SogouInput\Components\PicFace\1.1.0.1879\PicFace.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\COMDLG32.dll
+		6.10 (WinBuild.160101.0800)   C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.dll
+		1.0.1.4                       C:\Program Files (x86)\Sangfor\SSL\SangforPWEx\SangforUDProtectEx_202341718563321.dll
+		10.0.19041.3271 (WinBuild.160101.0800)C:\WINDOWS\System32\WINTRUST.dll
+		1.1.1g                        C:\Program Files (x86)\Sangfor\SSL\SangforPWEx\sangforvpnlibcrypto-1_1.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+		10.0.19041.2251 (WinBuild.160101.0800)C:\WINDOWS\System32\MSASN1.dll
+		11.00.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\urlmon.dll
+		11.00.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\iertutil.dll
+		10.0.19041.3155 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\srvcli.dll
+		10.0.19041.1466 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\netutils.dll
+		10.0.19041.2130 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\SspiCli.dll
+		7.0.19041.1708 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\PROPSYS.dll
+		10.0.19041.2311 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\virtdisk.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\FLTLIB.DLL
+		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\system32\IconCodecService.dll
+		10.0.19041.2788 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\d3d9.dll
+		10.0.19041.1415 (WinBuild.160101.0800)C:\WINDOWS\System32\imagehlp.dll
+		3.23.0.74                     C:\WINDOWS\system32\nvspcap.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\mscms.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\USERENV.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\ColorAdapterClient.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\WindowsCodecsExt.dll
+		10.0.19041.1387 (WinBuild.160101.0800)C:\WINDOWS\system32\dataexchange.dll
+		10.0.19041.2913 (WinBuild.160101.0800)C:\WINDOWS\system32\d3d11.dll
+		10.0.19041.2913 (WinBuild.160101.0800)C:\WINDOWS\system32\dcomp.dll
+		10.0.19041.2311 (WinBuild.160101.0800)C:\WINDOWS\system32\dxgi.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\system32\twinapi.appcore.dll
+		1.0.1462.37                   E:\LoadRunnerTemp\bin\WebView2Loader.dll
+		108.0.1462.46                 E:\LoadRunnerTemp\bin\WebView2Runtime\EBWebView\x86\EmbeddedBrowserWebView.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\sxs.dll
+		2023.0.0.206                  E:\LoadRunnerTemp\bin\RecentScripts.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\mosifs32.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\thrdutil.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\wrapicu.dll
+		69, 1, 0, 0                   E:\LoadRunnerTemp\bin\icuuc69.dll
+		14.36.32532.0                 C:\WINDOWS\SYSTEM32\MSVCP140.dll
+		69, 1, 0, 0                   E:\LoadRunnerTemp\bin\icudt69.dll
+		4.8.9206.0 built by: NET481REL1LAST_BC:\Windows\Microsoft.NET\Framework\v4.0.30319\webengine4.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\system32\mswsock.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\snapshotloaderwrap.dll
+		14.2.3792.0                   E:\LoadRunnerTemp\bin\ViewerGen.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\atlthunk.dll
+		11.00.19041.2546 (WinBuild.160101.0800)C:\Windows\System32\ieframe.dll
+		10.0.19041.2130 (WinBuild.160101.0800)C:\Windows\System32\NETAPI32.dll
+		10.0.19041.3155 (WinBuild.160101.0800)C:\Windows\System32\WKSCLI.DLL
+		11.00.19041.3324 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\msIso.dll
+		11.00.19041.2546 (WinBuild.160101.0800)C:\Windows\System32\mshtml.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\powrprof.dll
+		                              C:\WINDOWS\SYSTEM32\UMPDC.dll
+		11.00.19041.3691 (WinBuild.160101.0800)C:\Windows\System32\WININET.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\Windows\System32\srpapi.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\system32\mlang.dll
+		23.0.0.628                    E:\LoadRunnerTemp\bin\ielpview.dll
+		23.0.0.628                    E:\LoadRunnerTemp\bin\AsmHook.dll
+		14.8.9195.0 built by: NET481REL1LAST_BC:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll
+		23.0.0.628                    E:\LoadRunnerTemp\bin\VirFileSystemMng.dll
+		23.0.0.628                    E:\LoadRunnerTemp\bin\VirPrivateProfiles.dll
+		7, 6, 6, 304                  C:\Program Files (x86)\Sangfor\SSL\ClientComponent6\SangforNsp.dll
+		6.06.8063.0                   C:\WINDOWS\SYSTEM32\MFC42.DLL
+		7.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\MSVCP60.dll
+		10.0.16299.91 (WinBuild.160101.0800)E:\LoadRunnerTemp\bin\dbghelp.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\DNSAPI.dll
+		10.0.19041.610 (WinBuild.160101.0800)C:\WINDOWS\System32\NSI.dll
+		3,0,0,10                      C:\Program Files (x86)\Bonjour\mdnsNSP.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\rasadhlp.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\fwpuclnt.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\system32\msimtf.dll
+		3.10.349.0                    C:\Windows\System32\msls31.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\Windows\System32\d2d1.dll
+		10.0.19041.2788 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\d3d10warp.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\dxcore.dll
+		10.0.19041.3155 (WinBuild.160101.0800)C:\WINDOWS\System32\cfgmgr32.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\MsftEdit.DLL
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\Secur32.dll
+		7.2.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\UIAutomationCore.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\Windows\System32\appresolver.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\Windows\System32\SLC.dll
+		10.0.19041.1566 (WinBuild.160101.0800)C:\Windows\System32\Bcp47Langs.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\Windows\System32\sppc.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\LINKINFO.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\apphelp.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\system32\NetworkExplorer.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\MPR.dll
+		10.0.19041.2311 (WinBuild.160101.0800)C:\WINDOWS\System32\p9np.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\drprov.dll
+		10.0.19041.3155 (WinBuild.160101.0800)C:\WINDOWS\System32\WINSTA.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\ntlanman.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\System32\davclnt.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\System32\DAVHLPR.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\ntshrui.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\cscapi.dll
+		10.0.19041.3155 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\policymanager.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\msvcp110_win.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\system32\msctfui.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\WINMM.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\system32\explorerframe.dll
+		22.21.13.8554                 C:\WINDOWS\System32\DriverStore\FileRepository\nvlt.inf_amd64_fac133cca7790fd7\nvldumd.dll
+		22.21.13.8554                 C:\WINDOWS\System32\DriverStore\FileRepository\nvlt.inf_amd64_fac133cca7790fd7\nvd3dum.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\rasapi32.dll
+		10.0.19041.1949 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\rasman.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\rtutils.dll
+		21.20.16.4627                 C:\WINDOWS\System32\DriverStore\FileRepository\igdlh64.inf_amd64_0f964bdf59d03779\igdumdim32.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\SETUPAPI.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+		21.20.16.4627                 C:\WINDOWS\System32\DriverStore\FileRepository\igdlh64.inf_amd64_0f964bdf59d03779\igc32.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\D3DCOMPILER_47.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\WINNSI.DLL
+		10.0.19041.1708 (WinBuild.160101.0800)C:\Windows\System32\Windows.Globalization.dll
+		10.0.19041.1503 (WinBuild.160101.0800)C:\Windows\System32\bcp47mrm.dll
+		10.0.19041.1806 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\globinputhost.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\System32\schannel.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\mskeyprotect.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\NTASN1.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\ncrypt.dll
+		10.0.19041.2846 (WinBuild.160101.0800)C:\WINDOWS\system32\ncryptsslp.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\ArchiveManager.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\coparamui.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\paramui.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\parameng.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\dtable32.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\is32.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\PathResolver.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\lr_vug32.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\mlib_ds.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\msg_handler.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\libxdrutil.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\config.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\inifile.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\runlogic.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\MultiVuser.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\run_time_context.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\vusercfg.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\xdr.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\comm_util.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\rtc_protocol.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\paramlr.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\paramtbl.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\mmdtable.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\mmdbigtable.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\libmemmap.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\paramcst.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\paramunq.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\paramfnc.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\paramss.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\paramdte.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\paramvar.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\paramrnd.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\runlogicview.ocx
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\ParamUINotification.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\HP.LR.VuGen.ScriptHandlerComWrapper.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\lrscripthandler.DLL
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\webscripthandler.DLL
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WebStepClsDesign.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WebStepClsShared.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\mshtmtr.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\DynWininet.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\wraplwcrypto.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\LrXmlScriptHandler.DLL
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\ReplayBinaryUtils32.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\WSOCK32.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\websteps_scripthandler.DLL
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\base_scripthandler.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\RICHED32.DLL
+		5.31.23.1231                  C:\WINDOWS\SYSTEM32\RICHED20.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\USP10.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WebUIRes.DLL
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\webservice_scripthandler.DLL
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WSDLSDK.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WebServicesSDK.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WsJniUtil.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\SoapRecordFilter.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WSDLUtilsU.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WSDLParser.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WsCommonLogger.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\ServiceManagementLight.dll
+		                              E:\LoadRunnerTemp\bin\java_search.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\XmlParserInterface.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WSDLToolkits.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\HttpUtils.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\ConfigurationUtil.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\MicXMLDiffTool.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\mic_regex.dll
+		                              E:\LoadRunnerTemp\bin\xerces-c_3_2.dll
+		1, 12, 0, 0                   E:\LoadRunnerTemp\bin\Xalan-C_1_12.dll
+		1, 12, 0, 0                   E:\LoadRunnerTemp\bin\XalanMessages_1_12.dll
+		69, 1, 0, 0                   E:\LoadRunnerTemp\bin\icuin69.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\soap_scripthandler.DLL
+		0.28.4                        E:\LoadRunnerTemp\bin\lib\win32\x86\git2-106a5f2.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\HP.LR.VuGen.LrVugHelper.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\TextContainer.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\System32\coml2.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\Windows\System32\Windows.ApplicationModel.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\Windows\System32\twinapi.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\DUI70.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\DUser.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\edputil.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\Windows\System32\thumbcache.dll
+		10.0.19041.1566 (WinBuild.160101.0800)C:\Windows\System32\Windows.UI.FileExplorer.dll
+		7.0.19041.746 (WinBuild.160101.0800)C:\WINDOWS\System32\StructuredQuery.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\Windows\System32\Windows.FileExplorer.Common.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\WINDOWS\system32\Windows.Storage.Search.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\Windows\System32\dlnashext.dll
+		10.0.19041.3691 (WinBuild.160101.0800)C:\Windows\System32\DevDispItemProvider.dll
+		10.0.19041.2546 (WinBuild.160101.0800)C:\Windows\System32\ActXPrxy.dll
+		7.36.0.3                      C:\Users\lenovo\AppData\Roaming\baidu\BaiduNetdisk\YunShellExtV1.dll
+		10.0.19041.3155 (WinBuild.160101.0800)C:\WINDOWS\System32\DEVOBJ.dll
+		23.246.1127.0002              C:\Users\lenovo\AppData\Local\Microsoft\OneDrive\23.246.1127.0002\i386\FileSyncShell.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\HP.LR.VuGen.VugenIconOverlayHandler.dll
+		10.0.19041.1566 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\MrmCoreR.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\vugen_record_api.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\insp_gen.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\inspdll.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\pefile.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\script_language_helper.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\wrapzlib.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\api_scrinfo.dll
+		1.2.13                        E:\LoadRunnerTemp\bin\zlib.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\HTTPSnapshotsWrapper.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\Api_Filter_Helper.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\unknown_only_helper.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\type_info_pool.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\CodeGenerationAPI.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\LRSDKUtilities.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\InternalSDKUtils.dll
+		                              E:\LoadRunnerTemp\bin\WebEventTrafficMap.dll
+		3.0.7                         E:\LoadRunnerTemp\bin\libcrypto-lt-3.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\VuGenCallback.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\traffic_filter.dll
+		                              E:\LoadRunnerTemp\bin\pcre-8.44.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\ipng_utils.dll
+		3.0.7                         E:\LoadRunnerTemp\bin\libssl-lt-3.dll
+		                              E:\LoadRunnerTemp\bin\duktape.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\lrun50.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\merc_uuid.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\faserver.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\trans.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\trans_server.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\libdatatypes.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\JsonParser.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\lr_exp.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\timediff_ext.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\jrequestor_srv.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\dc_requests.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\data_types_ifs.dll
+		10.0.16299.91 (WinBuild.160101.0800)E:\LoadRunnerTemp\bin\dbgcore.DLL
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\threadsafefileoperator.dll
+		23.0.0.628                    E:\LoadRunnerTemp\bin\TulipAppInfo.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\JsonParserWrapper.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\MicSocket.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\icm32.dll
+		2023.0.0.65                   E:\LoadRunnerTemp\bin\rtsxdlg.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\comrec_tab.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\tlb_query.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\xmlstorage.dll
+		8.110.19041.844               C:\WINDOWS\System32\msxml3.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\system32\xmllite.dll
+		10.0.19041.2546 (WinBuild.160101.0800)C:\Windows\System32\OneCoreCommonProxyStub.dll
+		10.0.19041.3031 (WinBuild.160101.0800)C:\Windows\System32\OneCoreUAPCommonProxyStub.dll
+		4.8.9037.0 built by: NET481REL1C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\api_inspector.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\trpfnc32.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\lrc_basic_filters.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\api_event_parser.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\api_sock_filter.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WebDataFormatsCodeGen.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\DataFormatsEngine.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WebSnapshotsCommon.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WebSocketFilter.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\VnpLog.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\VnpUtils.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WebHTMLCodeGen.dll
+		2.9.0                         E:\LoadRunnerTemp\bin\cpprest140_2_9.dll
+		                              E:\LoadRunnerTemp\bin\boost_filesystem-vc143-mt-x32-1_81.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WebRecorder.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\HTTPAPI.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\LrwiWebInfra.dll
+		14.36.32532.0                 C:\WINDOWS\SYSTEM32\CONCRT140.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WebCorrelation.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\LrwiStreamingParser.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\jconv_str.dll
+		2023.0.0.152                  E:\LoadRunnerTemp\bin\http_auth.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\LrJson.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\LrXml.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\DPAPI.DLL
+		                              E:\LoadRunnerTemp\bin\boost_filesystem-vc140-mt-1_60.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\VnpReport.dll
+		                              E:\LoadRunnerTemp\bin\boost_system-vc140-mt-1_60.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WebConvertFromFormattedFilter.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WebConvertFromFormattedPostFilter.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WebExtractServerNameFilter.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\lrc_com_filters.dll
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\WebRemoveLongBodyFilter.DLL
+		2023.0.0.506                  E:\LoadRunnerTemp\bin\lrc_code_gen_filter.dll

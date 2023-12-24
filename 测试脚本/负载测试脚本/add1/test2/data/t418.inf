@@ -1,0 +1,11 @@
+[t418]
+FileName1=t418_get_view_data.json
+URL1=http://192.168.129.196/home/api/get_view_data
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_418.xml
+RequestHeaderFile=t418_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t418_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

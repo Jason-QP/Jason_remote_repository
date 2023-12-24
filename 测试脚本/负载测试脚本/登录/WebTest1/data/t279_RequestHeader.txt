@@ -1,0 +1,12 @@
+POST http://clientservices.googleapis.com/uma/v2 HTTP/1.1
+X-Chrome-UMA-Log-SHA1: CkiQBy3l2K9HZnVR0zcdrzJDVP7OM9AeB5jNJwEpfqRNXOx17taQvvB0Z2Y6tMMLNhgO9kIMAFyBP78wwZMY7+aAqE1KUgALH1AQARogO7MT7y/NAvIPq0uXBvz/v14A5u1iWKPNdABufUVzWQYgAQ==
+X-Chrome-UMA-Log-HMAC-SHA256: CkzyJ46gESDnd2VcO2Gw9EST5+yLRnx8MNWoGppQt4qMs9xWnp6YR07AWf+B8v0HDjTiIGzIS3b5PNDKwmtMzWdXR593KQM2QJrfJevREAEaIMl82HVGsSDcEe6n/a9UJprNORpuzSZOKKOHS3Wgu68eIAE=
+X-Chrome-UMA-ReportingInfo: CkT7ENb4CDRX+Wdx/40pnq6RQ0kRIIMk9b8DyzS/Nq5I+fLtaf/La3TaY2eBEc5xMMGOGPex6ln1uUnASeVErHngAE1GxxABGiA6tT78Dds1RvGWYXc9j7R7nt8YDUbTVmpaKeeP6FUNLyAB
+Content-Type: application/vnd.chrome.uma
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Host: clientservices.googleapis.com
+Content-Length: 2547
+Expect: 100-continue
+Connection: Close
+

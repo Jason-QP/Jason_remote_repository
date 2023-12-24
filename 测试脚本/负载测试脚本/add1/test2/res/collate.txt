@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=D:\CÅÌ×ÀÃæ\Èí¼ş²âÊÔ\¸ºÔØ²âÊÔ\add1\add1.lrs
+Completed=0

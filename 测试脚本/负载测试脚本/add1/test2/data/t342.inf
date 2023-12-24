@@ -1,0 +1,11 @@
+[t342]
+FileName1=t342.htm
+URL1=http://192.168.129.196/home/login/index.html
+Total=1
+RequestHeaderFile=t342_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t342_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_342.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

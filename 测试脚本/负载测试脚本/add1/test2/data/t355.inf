@@ -1,0 +1,17 @@
+[t355]
+FileName1=t350.htm
+URL1=http://192.168.129.196/
+Total=3
+SnapshotXmlFile=snapshot_355.xml
+RequestHeaderFile=t355_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t355_ResponseHeader.txt
+FileName2=t355f0.htm
+URL2=http://192.168.129.196/home/index/main.html
+ContentType=text/html
+FrameIndex2=0.0
+UseFrameIndex=1
+FileName3=t355_echarts.min.html
+URL3=http://192.168.129.196/static/assets/third_party/echart/echarts.min.js
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,15 @@
+POST http://192.168.133.196/home/login/login_submit HTTP/1.1
+Accept: */*
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Origin: http://192.168.133.196
+Referer: http://192.168.133.196/home/login/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=da01abb61cd02059ab90686fdb4d5ba7
+Host: 192.168.133.196
+Content-Length: 41
+Expect: 100-continue
+Connection: Close
+

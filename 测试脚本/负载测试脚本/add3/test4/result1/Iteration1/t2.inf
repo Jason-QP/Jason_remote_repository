@@ -1,0 +1,13 @@
+[t2]
+SnapshotXmlFile=snapshot_2.xml
+ContentType=application/json
+StepName=Custom Request: json
+Total=1
+FileName1=t2.json
+RequestHeaderFile=t2_RequestHeader.txt
+ResponseHeaderFile=t2_ResponseHeader.txt
+RawStepEndTime=1703345280861
+RawStepName=json
+RequestBodyFile=t2_RequestBody.txt
+RawStepStartTime=1703345280564
+URL1=https://update.googleapis.com/service/update2/json?cup2key=13:z0ABhXR-IGLhj7TIeQ49HBXEV4pIpnyFXtKN7X4xFxk&cup2hreq=0614ac4522c691f792910822e891eb5d6fbdff5911499ca1102d338432268b91

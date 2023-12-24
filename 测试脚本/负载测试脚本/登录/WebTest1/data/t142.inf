@@ -1,0 +1,17 @@
+[t142]
+FileName1=t142.htm
+URL1=http://192.168.133.196/home/login/index.html
+Total=4
+RequestHeaderFile=t142_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t142_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_142.xml
+FileName2=t142_layui.css
+URL2=http://192.168.133.196/static/assets/layui/css/layui.css?v=1.0.22
+FileName3=t142_login_logo.png
+URL3=http://192.168.133.196/static/home/images/login_logo.png
+FileName4=t142_layui.html
+URL4=http://192.168.133.196/static/assets/layui/layui.js?v=1.0.22
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,16 @@
+[t3]
+SnapshotXmlFile=snapshot_3.xml
+ContentType=application/x-gzip
+StepName=Url: group.png
+Total=2
+FileName1=t1.gz
+FileName2=t3_1_group.png
+RequestHeaderFile=t3_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t3_ResponseHeader.txt
+RawStepEndTime=1703345281038
+RawStepName=group.png
+RequestBodyFile=t3_RequestBody.txt
+RawStepStartTime=1703345280904
+URL1=file:
+URL2=https://pub.idqqimg.com/wpa/images/group.png

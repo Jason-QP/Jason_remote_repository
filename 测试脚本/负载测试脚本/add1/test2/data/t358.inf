@@ -1,0 +1,11 @@
+[t358]
+FileName1=t358.htm
+URL1=http://detectportal.firefox.com/canonical.html
+Total=1
+RequestHeaderFile=t358_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t358_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_358.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

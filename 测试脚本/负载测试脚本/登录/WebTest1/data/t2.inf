@@ -1,0 +1,11 @@
+[t2]
+FileName1=t2.htm
+URL1=https://ieonline.microsoft.com/EUPP/v1/service?action=signvalue&appid=Microsoft_IE_EUPP&clientkey=9sfPQY/JkmuR2FE7/B%2bskQ%3d%3d&mac=YroVncse9es%3d
+Total=1
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=t2_RequestBody.txt
+ResponseHeaderFile=t2_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_2.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

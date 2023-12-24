@@ -1,0 +1,11 @@
+[t141]
+FileName1=t141.json
+URL1=http://192.168.129.196/home/cate/flow_type_add
+Total=1
+RequestHeaderFile=t141_RequestHeader.txt
+RequestBodyFile=t141_RequestBody.txt
+ResponseHeaderFile=t141_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_141.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

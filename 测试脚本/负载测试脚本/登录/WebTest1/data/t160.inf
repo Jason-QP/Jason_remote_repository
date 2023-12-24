@@ -1,0 +1,11 @@
+[t160]
+FileName1=t160.htm
+URL1=http://detectportal.firefox.com/canonical.html
+Total=1
+RequestHeaderFile=t160_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t160_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_160.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

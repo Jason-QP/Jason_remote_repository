@@ -1,0 +1,11 @@
+[t450]
+FileName1=t450.htm
+URL1=http://192.168.129.196/home/cate/flow_type_add?id=29
+Total=1
+RequestHeaderFile=t450_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t450_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_450.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

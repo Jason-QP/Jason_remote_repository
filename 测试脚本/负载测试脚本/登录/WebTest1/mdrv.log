@@ -1,0 +1,61 @@
+Virtual User Script started at : 2023-12-23 15:29:02
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.0.0 for Windows 8; build 2739 (Nov 30 2014 23:13:05)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Run-Time Settings file: "E:\SoftWareTesting\WebTest1\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 2  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_add_cookie started  	[MsgId: MMSG-26355]
+Action.c(4): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(6): web_add_auto_header("Accept") started  	[MsgId: MMSG-26355]
+Action.c(6): web_add_auto_header("Accept") was successful  	[MsgId: MMSG-26392]
+Action.c(9): web_add_auto_header("Accept-Encoding") started  	[MsgId: MMSG-26355]
+Action.c(9): web_add_auto_header("Accept-Encoding") was successful  	[MsgId: MMSG-26392]
+Action.c(12): web_add_auto_header("Accept-Language") started  	[MsgId: MMSG-26355]
+Action.c(12): web_add_auto_header("Accept-Language") was successful  	[MsgId: MMSG-26392]
+Action.c(15): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(15): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(18): web_add_auto_header("User-Agent") started  	[MsgId: MMSG-26355]
+Action.c(18): web_add_auto_header("User-Agent") was successful  	[MsgId: MMSG-26392]
+Action.c(21): web_url("index.html") started  	[MsgId: MMSG-26355]
+Action.c(21): Found resource "http://192.168.129.196/static/assets/layui/css/layui.css?v=1.0.22" in HTML "http://192.168.129.196/home/login/index.html"  	[MsgId: MMSG-26659]
+Action.c(21): Found resource "http://192.168.129.196/static/home/images/login_logo.png" in HTML "http://192.168.129.196/home/login/index.html"  	[MsgId: MMSG-26659]
+Action.c(21): Found resource "http://192.168.129.196/captcha.html" in HTML "http://192.168.129.196/home/login/index.html"  	[MsgId: MMSG-26659]
+Action.c(21): Found resource "http://192.168.129.196/static/assets/layui/layui.js?v=1.0.22" in HTML "http://192.168.129.196/home/login/index.html"  	[MsgId: MMSG-26659]
+Action.c(21): web_url("index.html") was successful, 395253 body bytes, 1835 header bytes  	[MsgId: MMSG-26386]
+Action.c(30): Notify: Transaction "1_transaction_login" started.
+Action.c(32): web_add_auto_header("Accept") started  	[MsgId: MMSG-26355]
+Action.c(32): web_add_auto_header("Accept") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_add_header("Expect") started  	[MsgId: MMSG-26355]
+Action.c(35): web_add_header("Expect") was successful  	[MsgId: MMSG-26392]
+Action.c(38): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(38): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(41): web_add_header("X-Requested-With") started  	[MsgId: MMSG-26355]
+Action.c(41): web_add_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
+Action.c(46): web_submit_data("login_submit") started  	[MsgId: MMSG-26355]
+Action.c(46): web_submit_data("login_submit") was successful, 57 body bytes, 412 header bytes  	[MsgId: MMSG-26386]
+Action.c(59): web_add_auto_header("Accept") started  	[MsgId: MMSG-26355]
+Action.c(59): web_add_auto_header("Accept") was successful  	[MsgId: MMSG-26392]
+Action.c(62): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(62): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(67): web_url("192.168.129.196") started  	[MsgId: MMSG-26355]
+Action.c(67): Found resource "http://192.168.129.196/static/assets/gougu/css/gougu.css?v=1.0.22" in HTML "http://192.168.129.196/"  	[MsgId: MMSG-26659]
+Action.c(67): Found resource "http://192.168.129.196/static/assets/gougu/css/layout.css" in HTML "http://192.168.129.196/"  	[MsgId: MMSG-26659]
+Action.c(67): Found resource "http://192.168.129.196/storage/avatars/avatar_256_hjgwpb0qts1703163185.png" in HTML "http://192.168.129.196/"  	[MsgId: MMSG-26659]
+Action.c(67): Found resource "http://192.168.129.196/static/home/images/syslogo.png" in HTML "http://192.168.129.196/"  	[MsgId: MMSG-26659]
+Action.c(67): Found resource "http://192.168.129.196/static/home/images/syslogo_small.png" in HTML "http://192.168.129.196/"  	[MsgId: MMSG-26659]
+Action.c(67): Detected non-resource "http://192.168.129.196/home/index/main.html" in "http://192.168.129.196/"  	[MsgId: MMSG-26574]
+Action.c(67): Found resource "http://192.168.129.196/static/assets/layui/layui.js" in HTML "http://192.168.129.196/"  	[MsgId: MMSG-26659]
+Action.c(67): Found resource "http://192.168.129.196/static/assets/gougu/gouguInit.js" in HTML "http://192.168.129.196/"  	[MsgId: MMSG-26659]
+Action.c(67): Found resource "http://192.168.129.196/static/assets/third_party/echart/echarts.min.js" in HTML "http://192.168.129.196/home/index/main.html"  	[MsgId: MMSG-26659]
+Action.c(67): web_url("192.168.129.196") was successful, 1413195 body bytes, 3552 header bytes  	[MsgId: MMSG-26386]
+Action.c(76): Notify: Transaction "1_transaction_login" ended with a "Pass" status (Duration: 0.5756 Wasted Time: 0.1154).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

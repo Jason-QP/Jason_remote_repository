@@ -1,0 +1,10 @@
+[t24]
+FileName1=t23.htm
+URL1=http://192.168.129.196/home/cate/flow_type
+Total=1
+SnapshotXmlFile=snapshot_24.xml
+RequestHeaderFile=t24_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t24_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,13 @@
+[t143]
+FileName1=t142.htm
+URL1=http://192.168.133.196/home/login/index.html
+Total=2
+SnapshotXmlFile=snapshot_143.xml
+RequestHeaderFile=t143_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t143_ResponseHeader.txt
+FileName2=t143_captcha.png
+URL2=http://192.168.133.196/captcha.html
+ContentType=image/png
+[ProtocolInfo]
+ProtocolId=QTWeb

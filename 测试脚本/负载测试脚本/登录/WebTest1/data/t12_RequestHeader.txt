@@ -1,0 +1,8 @@
+GET http://addons.g-fox.cn/coba-webext.gif?action=disconnect&random=0.34749473124264807 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Host: addons.g-fox.cn
+Connection: Close
+

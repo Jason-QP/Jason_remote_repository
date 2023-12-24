@@ -1,0 +1,11 @@
+[t432]
+FileName1=t432.json
+URL1=https://update.googleapis.com/service/update2/json?cup2key=13:tyO8g3HPQnDy5HqefINxc_h4slULESO7mORPQ2ayBvc&cup2hreq=a867f0ef9a506af7dcf98f12fe671663610beb3c767d5b739a69b9c646589279
+Total=1
+RequestHeaderFile=t432_RequestHeader.txt
+RequestBodyFile=t432_RequestBody.txt
+ResponseHeaderFile=t432_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_432.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

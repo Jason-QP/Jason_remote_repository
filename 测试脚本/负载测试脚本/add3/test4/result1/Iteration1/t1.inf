@@ -1,0 +1,13 @@
+[t1]
+SnapshotXmlFile=snapshot_1.xml
+ContentType=application/x-gzip
+StepName=Url: seed
+Total=1
+FileName1=t1.gz
+RequestHeaderFile=t1_RequestHeader.txt
+ResponseHeaderFile=t1_ResponseHeader.txt
+RawStepEndTime=1703345280507
+RawStepName=seed
+RequestBodyFile=t1_RequestBody.txt
+RawStepStartTime=1703345279616
+URL1=file:

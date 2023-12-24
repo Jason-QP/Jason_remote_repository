@@ -1,0 +1,10 @@
+[t207]
+FileName1=t205.htm
+URL1=http://192.168.129.196/home/login/index.html?username=lixiaobin&password=123456&captcha=23
+Total=1
+SnapshotXmlFile=snapshot_207.xml
+RequestHeaderFile=t207_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t207_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

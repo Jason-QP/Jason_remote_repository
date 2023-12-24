@@ -1,0 +1,11 @@
+GET http://192.168.129.196/static/assets/layui/css/modules/laydate/default/laydate.css?v=5.3.1 HTTP/1.1
+Accept: text/css, */*
+Referer: http://192.168.129.196/home/login/index.html?username=lixiaobin&password=123456&captcha=23
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; LCTE; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Cookie: PHPSESSID=e84a5d270b41f7c5f364b5d946cb2fa4
+Host: 192.168.129.196
+Connection: Close
+

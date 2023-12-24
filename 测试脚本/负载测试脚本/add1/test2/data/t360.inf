@@ -1,0 +1,11 @@
+[t360]
+FileName1=t360.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/telemetry/0d2567c3-1938-4721-b605-a82f16688cf3/event/Firefox/121.0/release/20231211174248?v=4
+Total=1
+RequestHeaderFile=t360_RequestHeader.txt
+RequestBodyFile=t360_RequestBody.txt
+ResponseHeaderFile=t360_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_360.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

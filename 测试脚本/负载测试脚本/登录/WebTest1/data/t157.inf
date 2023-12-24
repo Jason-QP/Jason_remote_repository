@@ -1,0 +1,15 @@
+[t157]
+FileName1=t156.htm
+URL1=http://detectportal.firefox.com/canonical.html
+Total=3
+SnapshotXmlFile=snapshot_157.xml
+RequestHeaderFile=t157_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t157_ResponseHeader.txt
+FileName2=t157_captcha.png
+URL2=http://192.168.133.196/captcha.html
+ContentType=image/png
+FileName3=t157_login_logo.png
+URL3=http://192.168.133.196/static/home/images/login_logo.png
+[ProtocolInfo]
+ProtocolId=QTWeb

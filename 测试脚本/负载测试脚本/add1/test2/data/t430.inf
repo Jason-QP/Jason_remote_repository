@@ -1,0 +1,11 @@
+[t430]
+FileName1=t430.txt
+URL1=https://clientservices.googleapis.com/uma/v2
+Total=1
+RequestHeaderFile=t430_RequestHeader.txt
+RequestBodyFile=t430_RequestBody.txt
+ResponseHeaderFile=t430_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_430.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

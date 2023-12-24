@@ -1,0 +1,11 @@
+[t321]
+FileName1=t321.json
+URL1=http://192.168.129.196/home/index/index
+Total=1
+RequestHeaderFile=t321_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t321_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_321.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

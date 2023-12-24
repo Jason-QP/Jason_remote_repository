@@ -1,0 +1,663 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-requested-with",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-goog-update-updater",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-goog-update-interactivity",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-goog-update-appid",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-chrome-uma-reportinginfo",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-chrome-uma-log-sha1",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-chrome-uma-log-hmac-sha256",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "content-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "a-im",
+      "IncludeInScript": true
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/octet-stream"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 53,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "12��-23-2023",
+    "RecordingDuration": 125500,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1703321435,
+    "RecordingType": "Proxy",
+    "TotalBytesReceived": 110115,
+    "TotalBytesSent": 245696,
+    "TotalRequests": 53,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "sogou.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "157.148.58.72",
+          "IncludeInScript": true,
+          "Name": "config.pinyin.sogou.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 0,
+              "EventId": 2600,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://config.pinyin.sogou.com/api/toolbox/geturl.php?h=CCC53520B843C480D6E5E83629CE8383&v=9.6.0.3568&r=0000_11_5c22aa18aacd73dbeb4ce82881547dd31"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "58.254.149.226",
+          "IncludeInScript": true,
+          "Name": "update.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2604,
+              "HttpStatus": 200,
+              "Size": 2340,
+              "URL": "https://update.googleapis.com/service/update2/json?cup2key=13:tyO8g3HPQnDy5HqefINxc_h4slULESO7mORPQ2ayBvc&cup2hreq=a867f0ef9a506af7dcf98f12fe671663610beb3c767d5b739a69b9c646589279"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 2555,
+              "HttpStatus": 200,
+              "Size": 265,
+              "URL": "https://update.googleapis.com/service/update2/json?cup2key=13:p4M8zla1dQn0uXNjFESRzZEorgtGCyc3Ax7MqxMaqBY&cup2hreq=51c083df509b0fc7281010b305a4ffba95e029afbb9dad8e655d4f2af51457d3"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "58.254.149.226",
+          "IncludeInScript": true,
+          "Name": "clientservices.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 2649,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://clientservices.googleapis.com/uma/v2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 2640,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://clientservices.googleapis.com/uma/v2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 2631,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://clientservices.googleapis.com/uma/v2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 2622,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://clientservices.googleapis.com/uma/v2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 2613,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://clientservices.googleapis.com/uma/v2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 2596,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://clientservices.googleapis.com/uma/v2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 0,
+              "EventId": 2551,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=120"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "192.168.129.196",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "192.168.129.196",
+          "IncludeInScript": true,
+          "Name": "192.168.129.196",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 2717,
+              "HttpStatus": 200,
+              "Size": 5920,
+              "URL": "http://192.168.129.196/home/cate/flow_type?page=1&limit=10"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2713,
+              "HttpStatus": 200,
+              "Size": 50,
+              "URL": "http://192.168.129.196/home/cate/flow_type_check"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 2709,
+              "HttpStatus": 200,
+              "Size": 218,
+              "URL": "http://192.168.129.196/home/index/index"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2705,
+              "HttpStatus": 200,
+              "Size": 5920,
+              "URL": "http://192.168.129.196/home/cate/flow_type?page=1&limit=10"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2701,
+              "HttpStatus": 200,
+              "Size": 50,
+              "URL": "http://192.168.129.196/home/cate/flow_type_check"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 2697,
+              "HttpStatus": 200,
+              "Size": 5920,
+              "URL": "http://192.168.129.196/home/cate/flow_type?page=1&limit=10"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2693,
+              "HttpStatus": 200,
+              "Size": 50,
+              "URL": "http://192.168.129.196/home/cate/flow_type_add"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2689,
+              "HttpStatus": 200,
+              "Size": 218,
+              "URL": "http://192.168.129.196/home/index/index"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2685,
+              "HttpStatus": 200,
+              "Size": 1311,
+              "URL": "http://192.168.129.196/api/index/get_department_select?keyword="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 2681,
+              "HttpStatus": 200,
+              "Size": 4398,
+              "URL": "http://192.168.129.196/home/cate/flow_type_add?id=29"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2677,
+              "HttpStatus": 200,
+              "Size": 218,
+              "URL": "http://192.168.129.196/home/index/index"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 2673,
+              "HttpStatus": 200,
+              "Size": 5919,
+              "URL": "http://192.168.129.196/home/cate/flow_type?page=1&limit=10"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2669,
+              "HttpStatus": 200,
+              "Size": 50,
+              "URL": "http://192.168.129.196/home/cate/flow_type_add"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 2665,
+              "HttpStatus": 200,
+              "Size": 65,
+              "URL": "http://192.168.129.196/home/cate/flow_type_add"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2661,
+              "HttpStatus": 200,
+              "Size": 218,
+              "URL": "http://192.168.129.196/home/index/index"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2657,
+              "HttpStatus": 200,
+              "Size": 65,
+              "URL": "http://192.168.129.196/home/cate/flow_type_add"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 2653,
+              "HttpStatus": 200,
+              "Size": 218,
+              "URL": "http://192.168.129.196/home/index/index"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 2644,
+              "HttpStatus": 200,
+              "Size": 218,
+              "URL": "http://192.168.129.196/home/index/index"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2635,
+              "HttpStatus": 200,
+              "Size": 65,
+              "URL": "http://192.168.129.196/home/cate/flow_type_add"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 2626,
+              "HttpStatus": 200,
+              "Size": 65,
+              "URL": "http://192.168.129.196/home/cate/flow_type_add"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 2617,
+              "HttpStatus": 200,
+              "Size": 218,
+              "URL": "http://192.168.129.196/home/index/index"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 2608,
+              "HttpStatus": 200,
+              "Size": 65,
+              "URL": "http://192.168.129.196/home/cate/flow_type_add"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2591,
+              "HttpStatus": 200,
+              "Size": 65,
+              "URL": "http://192.168.129.196/home/cate/flow_type_add"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2587,
+              "HttpStatus": 200,
+              "Size": 218,
+              "URL": "http://192.168.129.196/home/index/index"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 2583,
+              "HttpStatus": 200,
+              "Size": 218,
+              "URL": "http://192.168.129.196/home/index/index"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2579,
+              "HttpStatus": 200,
+              "Size": 218,
+              "URL": "http://192.168.129.196/home/index/index"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 2575,
+              "HttpStatus": 200,
+              "Size": 218,
+              "URL": "http://192.168.129.196/home/index/index"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2571,
+              "HttpStatus": 200,
+              "Size": 1311,
+              "URL": "http://192.168.129.196/api/index/get_department_select?keyword="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 2567,
+              "HttpStatus": 200,
+              "Size": 4636,
+              "URL": "http://192.168.129.196/home/cate/flow_type_add"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2563,
+              "HttpStatus": 200,
+              "Size": 5719,
+              "URL": "http://192.168.129.196/home/cate/flow_type?page=1&limit=10"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 2559,
+              "HttpStatus": 200,
+              "Size": 4316,
+              "URL": "http://192.168.129.196/home/cate/flow_type"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2546,
+              "HttpStatus": 200,
+              "Size": 269,
+              "URL": "http://192.168.129.196/home/api/get_view_data"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 2542,
+              "HttpStatus": 200,
+              "Size": 780,
+              "URL": "http://192.168.129.196/home/api/get_article_list?page=1&limit=10"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 2538,
+              "HttpStatus": 200,
+              "Size": 7529,
+              "URL": "http://192.168.129.196/home/api/log_list?page=1&limit=20"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2534,
+              "HttpStatus": 200,
+              "Size": 206,
+              "URL": "http://192.168.129.196/home/api/get_view_log"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2530,
+              "HttpStatus": 200,
+              "Size": 269,
+              "URL": "http://192.168.129.196/home/api/get_view_data"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2526,
+              "HttpStatus": 200,
+              "Size": 780,
+              "URL": "http://192.168.129.196/home/api/get_article_list?page=1&limit=10"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 2522,
+              "HttpStatus": 200,
+              "Size": 393,
+              "URL": "http://192.168.129.196/home/api/get_note_list?page=1&limit=10"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 2518,
+              "HttpStatus": 200,
+              "Size": 21142,
+              "URL": "http://192.168.129.196/home/index/main.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 2514,
+              "HttpStatus": 200,
+              "Size": 21143,
+              "URL": "http://192.168.129.196/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 0,
+              "EventId": 2510,
+              "HttpStatus": 200,
+              "Size": 57,
+              "URL": "http://192.168.129.196/home/login/login_submit"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 2506,
+              "HttpStatus": 200,
+              "Size": 1614,
+              "URL": "http://192.168.129.196/captcha.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 2502,
+              "HttpStatus": 200,
+              "Size": 4838,
+              "URL": "http://192.168.129.196/home/login/index.html"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

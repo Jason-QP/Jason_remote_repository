@@ -1,0 +1,11 @@
+[t393]
+FileName1=t393_get_department_select.json
+URL1=http://192.168.129.196/api/index/get_department_select?keyword=
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_393.xml
+RequestHeaderFile=t393_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t393_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t385]
+FileName1=t385_log_list.json
+URL1=http://192.168.129.196/home/api/log_list?page=1&limit=20
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_385.xml
+RequestHeaderFile=t385_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t385_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

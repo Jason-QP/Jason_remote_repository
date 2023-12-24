@@ -1,0 +1,321 @@
+[API Trapper      (5bb8:4ebc)] Recording in 32-bit mode: E:\LoadRunnerTemp\Bin\HP.LR.ProxyRecorderStarter.exe
+[Network Analyzer (4644:5788)] ------------------------------------------------------------------------------------------
+[Network Analyzer (4644:5788)] Load Network Traffic Analyzers:
+[Network Analyzer (4644:5788)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (4644:5788)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (4644:5788)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (4644:5788)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (4644:5788)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (4644:5788)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (4644:5788)]     Analyzer Module: local_server (value=)
+[Network Analyzer (4644:5788)] ------------------------------------------------------------------------------------------
+[Proxy Recording  (4644:5788)] Started proxy on port 8889 listening IP 192.168.137.1, 127.0.0.1, in synchronous mode
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10025
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10028
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10029
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10030
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10033
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10034
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10035
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10036
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10037
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10038
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10039
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10040
+[Proxy Recording.Error (4644:5434)] Exception is caught while trying to connect to https://clientservices.googleapis.com:443, message=ÎÞ·¨´Ó´«ÊäÁ¬½ÓÖÐ¶ÁÈ¡Êý¾Ý: ÄãµÄÖ÷»úÖ
+[Proxy Recording.Error (4644:5434)] Exception is caught while connecting to , message=Á÷²»¿
+[Proxy Recording.Error (4644:5050)] Exception is caught while trying to connect to https://www.googleapis.com:443, message=ÎÞ·¨´Ó´«ÊäÁ¬½ÓÖÐ¶ÁÈ¡Êý¾Ý: ÄãµÄÖ÷»úÖ
+[Proxy Recording.Error (4644:5050)] Exception is caught while connecting to , message=Á÷²»¿
+[Proxy Recording.Error (4644:5c24)] Exception is caught while trying to connect to https://content-autofill.googleapis.com:443, message=ÎÞ·¨´Ó´«ÊäÁ¬½ÓÖÐ¶ÁÈ¡Êý¾Ý: ÄãµÄÖ÷»úÖ
+[Proxy Recording.Error (4644:5c24)] Exception is caught while connecting to , message=Á÷²»¿
+[Proxy Recording.Error (4644:5588)] Exception is caught while trying to connect to https://update.googleapis.com:443, message=ÎÞ·¨´Ó´«ÊäÁ¬½ÓÖÐ¶ÁÈ¡Êý¾Ý: ÄãµÄÖ÷»úÖ
+[Proxy Recording.Error (4644:5588)] Exception is caught while connecting to , message=Á÷²»¿
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10044
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10045
+[Proxy Recording.Error (4644:5434)] Exception is caught while trying to connect to https://android.clients.google.com:443, message=ÎÞ·¨´Ó´«ÊäÁ¬½ÓÖÐ¶ÁÈ¡Êý¾Ý: ÄãµÄÖ÷»úÖ
+[Proxy Recording.Error (4644:5434)] Exception is caught while connecting to , message=Á÷²»¿
+[Proxy Recording  (4644:1450)] Trying to connect to https://clientservices.googleapis.com:443/chrome-variations/seed?osname=win&channel=stable&milestone=120 ...
+[Proxy Recording  (4644:5c24)] Trying to connect to https://update.googleapis.com:443/service/update2/json?cup2key=13:z0ABhXR-IGLhj7TIeQ49HBXEV4pIpnyFXtKN7X4xFxk&cup2hreq=0614ac4522c691f792910822e891eb5d6fbdff5911499ca1102d338432268b91 ...
+[Proxy Recording  (4644:1450)] Trying to connect to https://clientservices.googleapis.com:443/chrome-variations/seed?osname=win&channel=stable&milestone=120 ...
+[Proxy Recording  (4644:5c24)] Trying to connect to https://update.googleapis.com:443/service/update2/json?cup2key=13:z0ABhXR-IGLhj7TIeQ49HBXEV4pIpnyFXtKN7X4xFxk&cup2hreq=0614ac4522c691f792910822e891eb5d6fbdff5911499ca1102d338432268b91 ...
+[Proxy Recording  (4644:1450)] Received response of 179 header and 0 body bytes from https://clientservices.googleapis.com:443/chrome-variations/seed?osname=win&channel=stable&milestone=120
+[Proxy Recording  (4644:5c24)] Received response of 1136 header and 265 body bytes from https://update.googleapis.com:443/service/update2/json?cup2key=13:z0ABhXR-IGLhj7TIeQ49HBXEV4pIpnyFXtKN7X4xFxk&cup2hreq=0614ac4522c691f792910822e891eb5d6fbdff5911499ca1102d338432268b91
+[Web Request      (4644:1450)] "GET https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=120"   
+[Network Analyzer (4644:1450)]   (Sid:  1) Client -> Server @ : 502 bytes (SSL)(Service=HTTP)
+[Network Analyzer (4644:1450)]   (Sid:  1) Server -> Client : 206 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (4644:1450)] Sent 0 bytes to client @ 192.168.137.1:10036
+[Network Analyzer (4644:5c24)]   (Sid:  2) Client -> Server @ : 767 bytes (SSL)(Service=HTTP)
+[Web Request      (4644:5c24)] "POST https://update.googleapis.com/service/update2/json?cup2key=13:z0ABhXR-IGLhj7TIeQ49HBXEV4pIpnyFXtKN7X4xFxk&cup2hreq=0614ac4522c691f792910822e891eb5d6fbdff5911499ca1102d338432268b91"   
+[Network Analyzer (4644:5c24)]   (Sid:  2) Client -> Server @ : 1576 bytes (SSL)(Service=HTTP)
+[Network Analyzer (4644:5c24)]   (Sid:  2) Server -> Client : 1125 bytes (SSL) (Service=HTTP)
+[Network Analyzer (4644:5c24)]   (Sid:  2) Server -> Client : 265 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (4644:5c24)] Sent 265 bytes to client @ 192.168.137.1:10039
+[Proxy Recording  (4644:562c)] Trying to connect to https://accounts.google.com:443/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard ...
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10064
+[Proxy Recording.Error (4644:1450)] Exception is caught while connecting to , message=½âÃÜ²Ù×÷Ê§°Ü£¬Ç
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10066
+[Proxy Recording.Error (4644:5434)] Cannot establish a secure connection to the application being recorded.
+Message=µ÷ÓÃ SSPI Ê§°Ü£¬Çë²Î¼ûÄÚ²¿Òì³£¡£
+Import the LoadRunner SSL certificate to the client machine. For details, see "Use Case 3" of "https://admhelp.microfocus.com/vugen/en/2023/help/WebHelp/Content/VuGen/t_HowToRecordVi
+[Proxy Recording.Error (4644:5434)] µ÷ÓÃ SSPI Ê§°Ü£¬Çë²
+[Proxy Recording.Error (4644:5434)] ¸øº¯ÊýÌá¹©
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10072
+[Proxy Recording.Error (4644:5c24)] Exception is caught while connecting to , message=½âÃÜ²Ù×÷Ê§°Ü£¬Ç
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10073
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10083
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10092
+[Proxy Recording.Error (4644:5c24)] Cannot establish a secure connection to the application being recorded.
+Message=µ÷ÓÃ SSPI Ê§°Ü£¬Çë²Î¼ûÄÚ²¿Òì³£¡£
+Import the LoadRunner SSL certificate to the client machine. For details, see "Use Case 3" of "https://admhelp.microfocus.com/vugen/en/2023/help/WebHelp/Content/VuGen/t_HowToRecordVi
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10101
+[Proxy Recording  (4644:5434)] Trying to connect to https://pub.idqqimg.com:443/wpa/images/group.png ...
+[Proxy Recording  (4644:5434)] Trying to connect to https://pub.idqqimg.com:443/wpa/images/group.png ...
+[Proxy Recording  (4644:5434)] Received response of 328 header and 0 body bytes from https://pub.idqqimg.com:443/wpa/images/group.png
+[Web Request      (4644:5434)] "GET https://pub.idqqimg.com/wpa/images/group.png"   
+[Network Analyzer (4644:5434)]   (Sid:  3) Client -> Server @ : 526 bytes (SSL)(Service=HTTP)
+[Network Analyzer (4644:5434)]   (Sid:  3) Server -> Client : 355 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (4644:5434)] Sent 0 bytes to client @ 192.168.137.1:10083
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10104
+[Proxy Recording.Error (4644:5c24)] µ÷ÓÃ SSPI Ê§°Ü£¬Çë²
+[Proxy Recording.Error (4644:5c24)] ¸øº¯ÊýÌá¹©
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10109
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10110
+[Proxy Recording  (4644:5c24)] Trying to connect to http://download.windowsupdate.com/msdownload/update/common/2012/05/5574325_9c5797d0cd744ceb00b36ca6295f292c5cc30c2d.cab ...
+[Proxy Recording  (4644:5c24)] Trying to connect to http://download.windowsupdate.com/msdownload/update/common/2012/05/5574325_9c5797d0cd744ceb00b36ca6295f292c5cc30c2d.cab ...
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10111
+[Proxy Recording  (4644:5c24)] Received response of 553 header and 7032 body bytes from http://download.windowsupdate.com/msdownload/update/common/2012/05/5574325_9c5797d0cd744ceb00b36ca6295f292c5cc30c2d.cab
+[Proxy Recording  (4644:5c24)] Sent 7032 bytes to client @ 192.168.137.1:10110
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10114
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10116
+[Proxy Recording.Error (4644:5624)] Exception is caught while connecting to , message=½âÃÜ²Ù×÷Ê§°Ü£¬Ç
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/c/msdownload/update/others/2018/02/26237014_816afe36f6a4f1ed6c8aa488b61fe551e0b9e3d3.cab ...
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/c/msdownload/update/others/2018/02/26237014_816afe36f6a4f1ed6c8aa488b61fe551e0b9e3d3.cab ...
+[Proxy Recording  (4644:5624)] Received response of 553 header and 7597 body bytes from http://download.windowsupdate.com/c/msdownload/update/others/2018/02/26237014_816afe36f6a4f1ed6c8aa488b61fe551e0b9e3d3.cab
+[Proxy Recording  (4644:54f4)] Empty http command received from client's ssl connection
+[Proxy Recording  (4644:5624)] Sent 7597 bytes to client @ 192.168.137.1:10116
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10120
+[Proxy Recording  (4644:54f4)] Trying to connect to http://download.windowsupdate.com/d/msdownload/update/others/2016/09/22193465_0761e439884ca51f013000b9a50a1a1db30a1641.cab ...
+[Proxy Recording  (4644:54f4)] Trying to connect to http://download.windowsupdate.com/d/msdownload/update/others/2016/09/22193465_0761e439884ca51f013000b9a50a1a1db30a1641.cab ...
+[Proxy Recording  (4644:54f4)] Received response of 532 header and 38053 body bytes from http://download.windowsupdate.com/d/msdownload/update/others/2016/09/22193465_0761e439884ca51f013000b9a50a1a1db30a1641.cab
+[Proxy Recording  (4644:54f4)] Sent 38053 bytes to client @ 192.168.137.1:10120
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10122
+[Proxy Recording  (4644:54f4)] Trying to connect to http://download.windowsupdate.com/c/msdownload/update/others/2013/10/9656362_67acafdebc61d5ad705c46a0bc8c5c6327f5f912.cab ...
+[Proxy Recording  (4644:54f4)] Trying to connect to http://download.windowsupdate.com/c/msdownload/update/others/2013/10/9656362_67acafdebc61d5ad705c46a0bc8c5c6327f5f912.cab ...
+[Proxy Recording  (4644:54f4)] Received response of 553 header and 18710 body bytes from http://download.windowsupdate.com/c/msdownload/update/others/2013/10/9656362_67acafdebc61d5ad705c46a0bc8c5c6327f5f912.cab
+[Proxy Recording  (4644:54f4)] Sent 18710 bytes to client @ 192.168.137.1:10122
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10124
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/c/msdownload/update/others/2013/12/10255724_d30dfd7354a1fd4f7f8869d2355a0abbe5cc8bbd.cab ...
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/c/msdownload/update/others/2013/12/10255724_d30dfd7354a1fd4f7f8869d2355a0abbe5cc8bbd.cab ...
+[Proxy Recording  (4644:5624)] Received response of 561 header and 6897 body bytes from http://download.windowsupdate.com/c/msdownload/update/others/2013/12/10255724_d30dfd7354a1fd4f7f8869d2355a0abbe5cc8bbd.cab
+[Proxy Recording  (4644:5624)] Sent 6897 bytes to client @ 192.168.137.1:10124
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10125
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/msdownload/update/common/2012/12/6380828_a0c627f404dcdbd99cc87e65c7773a167a6af463.cab ...
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/msdownload/update/common/2012/12/6380828_a0c627f404dcdbd99cc87e65c7773a167a6af463.cab ...
+[Proxy Recording  (4644:5624)] Received response of 540 header and 6900 body bytes from http://download.windowsupdate.com/msdownload/update/common/2012/12/6380828_a0c627f404dcdbd99cc87e65c7773a167a6af463.cab
+[Proxy Recording  (4644:5624)] Sent 6900 bytes to client @ 192.168.137.1:10125
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10126
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/msdownload/update/common/2012/04/4970296_ca03258c4140d420d28973ac55f091a93e1a9efd.cab ...
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/msdownload/update/common/2012/04/4970296_ca03258c4140d420d28973ac55f091a93e1a9efd.cab ...
+[Proxy Recording  (4644:5624)] Received response of 552 header and 6892 body bytes from http://download.windowsupdate.com/msdownload/update/common/2012/04/4970296_ca03258c4140d420d28973ac55f091a93e1a9efd.cab
+[Proxy Recording  (4644:5624)] Sent 6892 bytes to client @ 192.168.137.1:10126
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10127
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/d/msdownload/update/others/2015/05/17930914_a3b333eff1f0428f5a2c87724c542504821cdbd8.cab ...
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/d/msdownload/update/others/2015/05/17930914_a3b333eff1f0428f5a2c87724c542504821cdbd8.cab ...
+[Proxy Recording  (4644:5624)] Received response of 562 header and 8047 body bytes from http://download.windowsupdate.com/d/msdownload/update/others/2015/05/17930914_a3b333eff1f0428f5a2c87724c542504821cdbd8.cab
+[Proxy Recording  (4644:5624)] Sent 8047 bytes to client @ 192.168.137.1:10127
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10128
+[Proxy Recording  (4644:54f4)] Trying to connect to http://wxapp.tc.qq.com/262/20304/stodownload?m=70949e71d385c6db80f915e6616ccd5a&filekey=30340201010420301e020201060402535a041070949e71d385c6db80f915e6616ccd5a02026910040d00000004627466730000000132&hy=SZ&storeid=26347a80600075214328124c90000010600004f50535a28c0c950b63d3232c&bizid=1023 ...
+[Proxy Recording  (4644:54f4)] Trying to connect to http://wxapp.tc.qq.com/262/20304/stodownload?m=70949e71d385c6db80f915e6616ccd5a&filekey=30340201010420301e020201060402535a041070949e71d385c6db80f915e6616ccd5a02026910040d00000004627466730000000132&hy=SZ&storeid=26347a80600075214328124c90000010600004f50535a28c0c950b63d3232c&bizid=1023 ...
+[Proxy Recording  (4644:54f4)] Received response of 537 header and 26896 body bytes from http://wxapp.tc.qq.com/262/20304/stodownload?m=70949e71d385c6db80f915e6616ccd5a&filekey=30340201010420301e020201060402535a041070949e71d385c6db80f915e6616ccd5a02026910040d00000004627466730000000132&hy=SZ&storeid=26347a80600075214328124c90000010600004f50535a28c0c950b63d3232c&bizid=1023
+[Proxy Recording  (4644:54f4)] Sent 26896 bytes to client @ 192.168.137.1:10128
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10131
+[Proxy Recording  (4644:54f4)] Empty http command received from client's ssl connection
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10133
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/msdownload/update/common/2012/04/4970675_39eae51524a75908200dd145f3999ad3dff62dc8.cab ...
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/msdownload/update/common/2012/04/4970675_39eae51524a75908200dd145f3999ad3dff62dc8.cab ...
+[Proxy Recording  (4644:5624)] Received response of 543 header and 11846 body bytes from http://download.windowsupdate.com/msdownload/update/common/2012/04/4970675_39eae51524a75908200dd145f3999ad3dff62dc8.cab
+[Proxy Recording  (4644:5624)] Sent 11846 bytes to client @ 192.168.137.1:10133
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10134
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/msdownload/update/common/2012/08/5773073_d08fe4fa80f1351cfe42d917e78f269289aba9b4.cab ...
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/msdownload/update/common/2012/08/5773073_d08fe4fa80f1351cfe42d917e78f269289aba9b4.cab ...
+[Proxy Recording  (4644:5624)] Received response of 560 header and 7458 body bytes from http://download.windowsupdate.com/msdownload/update/common/2012/08/5773073_d08fe4fa80f1351cfe42d917e78f269289aba9b4.cab
+[Proxy Recording  (4644:5624)] Sent 7458 bytes to client @ 192.168.137.1:10134
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10135
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/msdownload/update/common/2012/08/5773075_cc384e6a46984a8fbb4c6ad9535456c33154c7b1.cab ...
+[Proxy Recording  (4644:5624)] Trying to connect to http://download.windowsupdate.com/msdownload/update/common/2012/08/5773075_cc384e6a46984a8fbb4c6ad9535456c33154c7b1.cab ...
+[Proxy Recording  (4644:5624)] Received response of 542 header and 7506 body bytes from http://download.windowsupdate.com/msdownload/update/common/2012/08/5773075_cc384e6a46984a8fbb4c6ad9535456c33154c7b1.cab
+[Proxy Recording  (4644:5624)] Sent 7506 bytes to client @ 192.168.137.1:10135
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10138
+[Proxy Recording.Error (4644:5624)] Cannot establish a secure connection to the application being recorded.
+Message=µ÷ÓÃ SSPI Ê§°Ü£¬Çë²Î¼ûÄÚ²¿Òì³£¡£
+Import the LoadRunner SSL certificate to the client machine. For details, see "Use Case 3" of "https://admhelp.microfocus.com/vugen/en/2023/help/WebHelp/Content/VuGen/t_HowToRecordVi
+[Proxy Recording.Error (4644:562c)] Exception is caught while connecting to https://accounts.google.com:443/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard, message=ÎÞ·¨Á¬½Óµ½
+[Proxy Recording.Error (4644:5624)] µ÷ÓÃ SSPI Ê§°Ü£¬Çë²
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10140
+[Proxy Recording.Error (4644:5624)] ¸øº¯ÊýÌá¹©
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10144
+[Proxy Recording.Error (4644:5624)] Exception is caught while connecting to , message=½âÃÜ²Ù×÷Ê§°Ü£¬Ç
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10149
+[Proxy Recording  (4644:562c)] Empty http command received from client's ssl connection
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10151
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10154
+[Proxy Recording.Error (4644:5624)] Cannot establish a secure connection to the application being recorded.
+Message=µ÷ÓÃ SSPI Ê§°Ü£¬Çë²Î¼ûÄÚ²¿Òì³£¡£
+Import the LoadRunner SSL certificate to the client machine. For details, see "Use Case 3" of "https://admhelp.microfocus.com/vugen/en/2023/help/WebHelp/Content/VuGen/t_HowToRecordVi
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10155
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10156
+[Proxy Recording.Error (4644:5624)] µ÷ÓÃ SSPI Ê§°Ü£¬Çë²
+[Proxy Recording.Error (4644:5624)] ¸øº¯ÊýÌá¹©
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10162
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10163
+[Proxy Recording  (4644:5624)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (4644:5624)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (4644:5624)] Received response of 319 header and 22 body bytes from https://clientservices.googleapis.com:443/uma/v2
+[Network Analyzer (4644:5624)]   (Sid:  4) Client -> Server @ : 589 bytes (SSL)(Service=HTTP)
+[Web Request      (4644:5624)] "POST https://clientservices.googleapis.com/uma/v2"   
+[Network Analyzer (4644:5624)]   (Sid:  4) Client -> Server @ : 2489 bytes (SSL)(Service=HTTP)
+[Network Analyzer (4644:5624)]   (Sid:  4) Server -> Client : 308 bytes (SSL) (Service=HTTP)
+[Network Analyzer (4644:5624)]   (Sid:  4) Server -> Client : 22 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (4644:5624)] Sent 22 bytes to client @ 192.168.137.1:10162
+[Proxy Recording  (4644:5624)] Trying to connect to https://update.googleapis.com:443/service/update2/json?cup2key=13:zJ7pqy4GJlrJrg5-XoOMjQ0SqKnE715u_-g79SsSWrM&cup2hreq=bd6327e31e294b327ec54e54cb3c63b30955df7ae13bf295079e814416e5e71b ...
+[Proxy Recording  (4644:5624)] Trying to connect to https://update.googleapis.com:443/service/update2/json?cup2key=13:zJ7pqy4GJlrJrg5-XoOMjQ0SqKnE715u_-g79SsSWrM&cup2hreq=bd6327e31e294b327ec54e54cb3c63b30955df7ae13bf295079e814416e5e71b ...
+[Proxy Recording  (4644:4270)] Trying to connect to https://www.googleapis.com:443/oauth2/v4/token ...
+[Proxy Recording  (4644:5624)] Received response of 1136 header and 2348 body bytes from https://update.googleapis.com:443/service/update2/json?cup2key=13:zJ7pqy4GJlrJrg5-XoOMjQ0SqKnE715u_-g79SsSWrM&cup2hreq=bd6327e31e294b327ec54e54cb3c63b30955df7ae13bf295079e814416e5e71b
+[Web Request      (4644:5624)] "POST https://update.googleapis.com/service/update2/json?cup2key=13:zJ7pqy4GJlrJrg5-XoOMjQ0SqKnE715u_-g79SsSWrM&cup2hreq=bd6327e31e294b327ec54e54cb3c63b30955df7ae13bf295079e814416e5e71b"
+[Network Analyzer (4644:5624)]   (Sid:  5) Client -> Server @ : 1334 bytes (SSL)(Service=HTTP)
+[Network Analyzer (4644:5624)]   (Sid:  5) Client -> Server @ : 8587 bytes (SSL)(Service=HTTP)
+[Network Analyzer (4644:5624)]   (Sid:  5) Server -> Client : 1125 bytes (SSL) (Service=HTTP)
+[Network Analyzer (4644:5624)]   (Sid:  5) Server -> Client : 2348 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (4644:5624)] Sent 2348 bytes to client @ 192.168.137.1:10163
+[Proxy Recording.Error (4644:52b4)] Exception is caught while connecting to , message=Ë÷Òý³¬³öÁË
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10177
+[Proxy Recording  (4644:52b4)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (4644:52b4)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (4644:52b4)] Received response of 319 header and 22 body bytes from https://clientservices.googleapis.com:443/uma/v2
+[Web Request      (4644:52b4)] "POST https://clientservices.googleapis.com/uma/v2"
+[Network Analyzer (4644:52b4)]   (Sid:  6) Client -> Server @ : 598 bytes (SSL)(Service=HTTP)
+[Network Analyzer (4644:52b4)]   (Sid:  6) Client -> Server @ : 40010 bytes (SSL)(Service=HTTP)
+[Network Analyzer (4644:52b4)]   (Sid:  6) Server -> Client : 308 bytes (SSL) (Service=HTTP)
+[Network Analyzer (4644:52b4)]   (Sid:  6) Server -> Client : 22 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (4644:52b4)] Sent 22 bytes to client @ 192.168.137.1:10177
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10179
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10181
+[Proxy Recording  (4644:52b4)] Trying to connect to http://redirector.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Proxy Recording  (4644:52b4)] Trying to connect to http://redirector.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10183
+[Proxy Recording  (4644:52b4)] Received response of 801 header and 0 body bytes from http://redirector.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff
+[Proxy Recording  (4644:52b4)] Sent 0 bytes to client @ 192.168.137.1:10181
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10184
+[Proxy Recording  (4644:33f8)] Trying to connect to http://r2---sn-j5o7dn7s.gvt1-cn.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff?cms_redirect=yes&mh=II&mip=120.85.142.91&mm=28&mn=sn-j5o7dn7s&ms=nvh&mt=1703344580&mv=m&mvi=2&pl=23&rmhost=r3---sn-j5o7dn7s.gvt1-cn.com&shardbypass=sd&smhost=r4---sn-j5o7dn7z.gvt1-cn.com ...
+[Proxy Recording  (4644:33f8)] Trying to connect to http://r2---sn-j5o7dn7s.gvt1-cn.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff?cms_redirect=yes&mh=II&mip=120.85.142.91&mm=28&mn=sn-j5o7dn7s&ms=nvh&mt=1703344580&mv=m&mvi=2&pl=23&rmhost=r3---sn-j5o7dn7s.gvt1-cn.com&shardbypass=sd&smhost=r4---sn-j5o7dn7z.gvt1-cn.com ...
+[Proxy Recording  (4644:33f8)] Received response of 498 header and 0 body bytes from http://r2---sn-j5o7dn7s.gvt1-cn.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff?cms_redirect=yes&mh=II&mip=120.85.142.91&mm=28&mn=sn-j5o7dn7s&ms=nvh&mt=1703344580&mv=m&mvi=2&pl=23&rmhost=r3---sn-j5o7dn7s.gvt1-cn.com&shardbypass=sd&smhost=r4---sn-j5o7dn7z.gvt1-cn.com
+[Proxy Recording  (4644:33f8)] Sent 0 bytes to client @ 192.168.137.1:10184
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10186
+[Proxy Recording  (4644:54f4)] Trying to connect to https://accounts.google.com:443/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard ...
+[Proxy Recording.Error (4644:52b4)] Exception is caught while connecting to , message=½âÃÜ²Ù×÷Ê§°Ü£¬Ç
+[Proxy Recording  (4644:33f8)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (4644:33f8)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (4644:33f8)] Received response of 319 header and 22 body bytes from https://clientservices.googleapis.com:443/uma/v2
+[Web Request      (4644:33f8)] "POST https://clientservices.googleapis.com/uma/v2"
+[Network Analyzer (4644:33f8)]   (Sid:  7) Client -> Server @ : 598 bytes (SSL)(Service=HTTP)
+[Network Analyzer (4644:33f8)]   (Sid:  7) Client -> Server @ : 13360 bytes (SSL)(Service=HTTP)
+[Network Analyzer (4644:33f8)]   (Sid:  7) Server -> Client : 308 bytes (SSL) (Service=HTTP)
+[Network Analyzer (4644:33f8)]   (Sid:  7) Server -> Client : 22 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (4644:33f8)] Sent 22 bytes to client @ 192.168.137.1:10186
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10191
+[Proxy Recording.Error (4644:52b4)] Exception is caught while connecting to , message=Êä³ö×Ö·û»º³åÇøÌ«Ð¡£¬ÎÞ·¨°üº¬½âÂëºóµÄ×Ö·û£¬±àÂë¡°Unicode (UTF-8)¡±µÄ²Ù×÷»ØÍË¡°System.Text.DecoderRe
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10193
+[Proxy Recording  (4644:2574)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Proxy Recording  (4644:2574)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Proxy Recording  (4644:2574)] Received response of 530 header and 0 body bytes from http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff
+[Proxy Recording  (4644:2574)] Sent 0 bytes to client @ 192.168.137.1:10193
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10196
+[Proxy Recording  (4644:33f8)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Proxy Recording.Error (4644:33f8)] Cannot add request header message:±ØÐëÊ¹ÓÃÊÊµ±µÄÊôÐÔ»ò·½·¨ÐÞ¸Ä¡°Range
+[Proxy Recording  (4644:33f8)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Proxy Recording  (4644:33f8)] Received response of 530 header and 2745 body bytes from http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff
+[Proxy Recording  (4644:33f8)] Sent 2745 bytes to client @ 192.168.137.1:10196
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10198
+[Proxy Recording  (4644:2574)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (4644:2574)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (4644:2574)] Received response of 319 header and 22 body bytes from https://clientservices.googleapis.com:443/uma/v2
+[Web Request      (4644:2574)] "POST https://clientservices.googleapis.com/uma/v2"
+[Network Analyzer (4644:2574)]   (Sid:  8) Client -> Server @ : 598 bytes (SSL)(Service=HTTP)
+[Network Analyzer (4644:2574)]   (Sid:  8) Client -> Server @ : 13443 bytes (SSL)(Service=HTTP)
+[Network Analyzer (4644:2574)]   (Sid:  8) Server -> Client : 308 bytes (SSL) (Service=HTTP)
+[Network Analyzer (4644:2574)]   (Sid:  8) Server -> Client : 22 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (4644:2574)] Sent 22 bytes to client @ 192.168.137.1:10198
+[Proxy Recording  (4644:5588)] Trying to connect to https://optimizationguide-pa.googleapis.com:443/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw ...
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10210
+[Proxy Recording.Error (4644:33f8)] Cannot establish a secure connection to the application being recorded.
+Message=µ÷ÓÃ SSPI Ê§°Ü£¬Çë²Î¼ûÄÚ²¿Òì³£¡£
+Import the LoadRunner SSL certificate to the client machine. For details, see "Use Case 3" of "https://admhelp.microfocus.com/vugen/en/2023/help/WebHelp/Content/VuGen/t_HowToRecordVi
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10211
+[Proxy Recording.Error (4644:33f8)] µ÷ÓÃ SSPI Ê§°Ü£¬Çë²
+[Proxy Recording  (4644:52b4)] Empty http command received from client's ssl connection
+[Proxy Recording.Error (4644:33f8)] ¸øº¯ÊýÌá¹©
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10213
+[Proxy Recording  (4644:52b4)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Proxy Recording  (4644:52b4)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Proxy Recording  (4644:52b4)] Received response of 530 header and 2745 body bytes from http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff
+[Proxy Recording  (4644:52b4)] Sent 2745 bytes to client @ 192.168.137.1:10213
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10217
+[Proxy Recording  (4644:2574)] Trying to connect to http://redirector.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (4644:2574)] Trying to connect to http://redirector.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (4644:2574)] Received response of 645 header and 0 body bytes from http://redirector.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording  (4644:2574)] Sent 0 bytes to client @ 192.168.137.1:10217
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10218
+[Proxy Recording  (4644:52b4)] Trying to connect to http://r1---sn-j5o76n7s.gvt1-cn.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3?cms_redirect=yes&mh=KC&mip=120.85.142.91&mm=28&mn=sn-j5o76n7s&ms=nvh&mt=1703344580&mv=m&mvi=1&pl=23&shardbypass=sd&smhost=r2---sn-j5o7dn7z.gvt1-cn.com ...
+[Proxy Recording  (4644:52b4)] Trying to connect to http://r1---sn-j5o76n7s.gvt1-cn.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3?cms_redirect=yes&mh=KC&mip=120.85.142.91&mm=28&mn=sn-j5o76n7s&ms=nvh&mt=1703344580&mv=m&mvi=1&pl=23&shardbypass=sd&smhost=r2---sn-j5o7dn7z.gvt1-cn.com ...
+[Proxy Recording  (4644:52b4)] Received response of 500 header and 0 body bytes from http://r1---sn-j5o76n7s.gvt1-cn.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3?cms_redirect=yes&mh=KC&mip=120.85.142.91&mm=28&mn=sn-j5o76n7s&ms=nvh&mt=1703344580&mv=m&mvi=1&pl=23&shardbypass=sd&smhost=r2---sn-j5o7dn7z.gvt1-cn.com
+[Proxy Recording  (4644:5c24)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSiQEJpdBhAV6TQKYSBQ2UVPrPEgUNHUE1pRIFDZFhlU4SBQ0DX4xGEgUNkWGVThIFDcjS5bUSBQ3dp95DEgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNOS7fxxIFDSGF6fwSBQ2RYZVOEgUNC0E79hIFDWhvUN0SBQ0Ug4qbEgUN1ANapiG1aMELFubmYQ==?alt=proto ...
+[Proxy Recording  (4644:5c24)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSiQEJpdBhAV6TQKYSBQ2UVPrPEgUNHUE1pRIFDZFhlU4SBQ0DX4xGEgUNkWGVThIFDcjS5bUSBQ3dp95DEgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNOS7fxxIFDSGF6fwSBQ2RYZVOEgUNC0E79hIFDWhvUN0SBQ0Ug4qbEgUN1ANapiG1aMELFubmYQ==?alt=proto ...
+[Proxy Recording  (4644:52b4)] Sent 0 bytes to client @ 192.168.137.1:10218
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10222
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10223
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10231
+[Proxy Recording.Error (4644:2574)] Exception is caught while connecting to , message=½âÃÜ²Ù×÷Ê§°Ü£¬Ç
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10233
+[Proxy Recording  (4644:2574)] Trying to connect to http://x1.c.lencr.org/ ...
+[Proxy Recording  (4644:2574)] Trying to connect to http://x1.c.lencr.org/ ...
+[Proxy Recording  (4644:2574)] Received response of 236 header and 0 body bytes from http://x1.c.lencr.org/
+[Proxy Recording  (4644:2574)] Sent 0 bytes to client @ 192.168.137.1:10233
+[Proxy Recording.Error (4644:54f4)] Exception is caught while connecting to https://accounts.google.com:443/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard, message=ÎÞ·¨Á¬½Óµ½
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10242
+[Proxy Recording  (4644:5d1c)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSJwk9FciAmdoo-RIFDeeNQA4SBQ3OQUx6EgUN_wMUuSHW55WfdnuShA==?alt=proto ...
+[Proxy Recording  (4644:5050)] Trying to connect to https://android.clients.google.com:443/checkin ...
+[Proxy Recording  (4644:5704)] Trying to connect to https://www.googleapis.com:443/oauth2/v4/token ...
+[Proxy Recording  (4644:5d1c)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSJwk9FciAmdoo-RIFDeeNQA4SBQ3OQUx6EgUN_wMUuSHW55WfdnuShA==?alt=proto ...
+[Proxy Recording  (4644:54f4)] Trying to connect to https://accounts.google.com:443/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard ...
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10254
+[Proxy Recording.Error (4644:2574)] Cannot establish a secure connection to the application being recorded.
+Message=µ÷ÓÃ SSPI Ê§°Ü£¬Çë²Î¼ûÄÚ²¿Òì³£¡£
+Import the LoadRunner SSL certificate to the client machine. For details, see "Use Case 3" of "https://admhelp.microfocus.com/vugen/en/2023/help/WebHelp/Content/VuGen/t_HowToRecordVi
+[Proxy Recording.Error (4644:2574)] µ÷ÓÃ SSPI Ê§°Ü£¬Çë²
+[Proxy Recording  (4644:5434)] Trying to connect to https://www.googleapis.com:443/oauth2/v4/token ...
+[Proxy Recording.Error (4644:2574)] ¸øº¯ÊýÌá¹©
+[Proxy Recording  (4644:4f7c)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSdAnlmjH6DcdCjBIFDZRU-s8SBQ0dQTWlEgUNkWGVThIFDQNfjEYSBQ2RYZVOEgUNyNLltRIFDZFhlU4SBQ05Lt_HEgUNIYXp_BIFDZFhlU4SBQ0LQTv2EgUNaG9Q3RIFDRSDipsSBQ3UA1qmIZ00ksQHErMZ?alt=proto ...
+[Proxy Recording  (4644:4f7c)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSdAnlmjH6DcdCjBIFDZRU-s8SBQ0dQTWlEgUNkWGVThIFDQNfjEYSBQ2RYZVOEgUNyNLltRIFDZFhlU4SBQ05Lt_HEgUNIYXp_BIFDZFhlU4SBQ0LQTv2EgUNaG9Q3RIFDRSDipsSBQ3UA1qmIZ00ksQHErMZ?alt=proto ...
+[Proxy Recording  (4644:562c)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSngEJbS854Q8dIboSBQ2UVPrPEgUNHUE1pRIFDZFhlU4SBQ0DX4xGEgUNkWGVThIFDcjS5bUSBQ3dp95DEgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNOS7fxxIFDSGF6fwSBQ2RYZVOEgUNC0E79hIFDSGF6fwSBQ2RYZVOEgUNB7MPchIFDWhvUN0SBQ0Ug4qbEgUN1ANapiHulUpKo_6gUg==?alt=proto ...
+[Proxy Recording  (4644:562c)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSngEJbS854Q8dIboSBQ2UVPrPEgUNHUE1pRIFDZFhlU4SBQ0DX4xGEgUNkWGVThIFDcjS5bUSBQ3dp95DEgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNOS7fxxIFDSGF6fwSBQ2RYZVOEgUNC0E79hIFDSGF6fwSBQ2RYZVOEgUNB7MPchIFDWhvUN0SBQ0Ug4qbEgUN1ANapiHulUpKo_6gUg==?alt=proto ...
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10265
+[Proxy Recording  (4644:5e90)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording.Error (4644:5e90)] Cannot add request header message:±ØÐëÊ¹ÓÃÊÊµ±µÄÊôÐÔ»ò·½·¨ÐÞ¸Ä¡°Range
+[Proxy Recording  (4644:5e90)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (4644:5e90)] Received response of 532 header and 152480 body bytes from http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording  (4644:5e90)] Sent 152480 bytes to client @ 192.168.137.1:10265
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10268
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10271
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10272
+[Proxy Recording.Error (4644:50ac)] Exception is caught while connecting to , message=½âÃÜ²Ù×÷Ê§°Ü£¬Ç
+[Proxy Recording  (4644:5e90)] Trying to connect to https://redirector.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (4644:5e90)] Trying to connect to https://redirector.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (4644:5e90)] Received response of 703 header and 0 body bytes from https://redirector.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording  (4644:5e90)] Sent 0 bytes to client @ 192.168.137.1:10271
+[Proxy Recording  (4644:3f88)] Client request from @ 192.168.137.1:10276
+[Proxy Recording  (4644:50ac)] Trying to connect to https://r1---sn-j5o76n7s.gvt1-cn.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3?cms_redirect=yes&mh=KC&mip=120.85.142.91&mm=28&mn=sn-j5o76n7s&ms=nvh&mt=1703344580&mv=m&mvi=1&pl=23&shardbypass=sd&smhost=r2---sn-j5o7dn7z.gvt1-cn.com ...
+[Proxy Recording  (4644:50ac)] Trying to connect to https://r1---sn-j5o76n7s.gvt1-cn.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3?cms_redirect=yes&mh=KC&mip=120.85.142.91&mm=28&mn=sn-j5o76n7s&ms=nvh&mt=1703344580&mv=m&mvi=1&pl=23&shardbypass=sd&smhost=r2---sn-j5o7dn7z.gvt1-cn.com ...
+[Proxy Recording  (4644:50ac)] Received response of 606 header and 0 body bytes from https://r1---sn-j5o76n7s.gvt1-cn.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3?cms_redirect=yes&mh=KC&mip=120.85.142.91&mm=28&mn=sn-j5o76n7s&ms=nvh&mt=1703344580&mv=m&mvi=1&pl=23&shardbypass=sd&smhost=r2---sn-j5o7dn7z.gvt1-cn.com
+[Proxy Recording  (4644:50ac)] Sent 0 bytes to client @ 192.168.137.1:10276
+[Proxy Recording  (4644:53e4)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSdAnlmjH6DcdCjBIFDZRU-s8SBQ0dQTWlEgUNkWGVThIFDQNfjEYSBQ2RYZVOEgUNyNLltRIFDZFhlU4SBQ05Lt_HEgUNIYXp_BIFDZFhlU4SBQ0LQTv2EgUNaG9Q3RIFDRSDipsSBQ3UA1qmIZ00ksQHErMZ?alt=proto ...
+[Proxy Recording  (4644:53e4)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSdAnlmjH6DcdCjBIFDZRU-s8SBQ0dQTWlEgUNkWGVThIFDQNfjEYSBQ2RYZVOEgUNyNLltRIFDZFhlU4SBQ05Lt_HEgUNIYXp_BIFDZFhlU4SBQ0LQTv2EgUNaG9Q3RIFDRSDipsSBQ3UA1qmIZ00ksQHErMZ?alt=proto ...

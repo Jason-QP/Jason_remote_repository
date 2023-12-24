@@ -1,0 +1,10 @@
+[t144]
+FileName1=t142.htm
+URL1=http://192.168.133.196/home/login/index.html
+Total=1
+SnapshotXmlFile=snapshot_144.xml
+RequestHeaderFile=t144_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t144_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,10 @@
+GET http://192.168.133.196/static/assets/layui/css/modules/layer/default/loading-1.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://192.168.133.196/static/assets/layui/css/modules/layer/default/layer.css?v=3.5.1
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: PHPSESSID=da01abb61cd02059ab90686fdb4d5ba7; gougutab={"tab_id":"32","tab_array":[{"id":"32","url":"/home/cate/flow_type","title":"审批类型"}]}
+Host: 192.168.133.196
+Connection: Close
+

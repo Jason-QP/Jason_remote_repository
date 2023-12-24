@@ -1,0 +1,11 @@
+[t145]
+FileName1=t145.htm
+URL1=http://192.168.133.196/home/login/index.html?username=admin&password=123456&captcha=1
+Total=1
+RequestHeaderFile=t145_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t145_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_145.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

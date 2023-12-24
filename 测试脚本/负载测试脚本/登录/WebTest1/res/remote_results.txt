@@ -1,0 +1,2 @@
+[Hosts]
+localhost=E:\SoftWareTesting\WebTest1\res\localhost_1.eve

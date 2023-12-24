@@ -1,0 +1,741 @@
+[API Trapper      (2df4:19cc)] Recording in 32-bit mode: E:\LoadRunnerTemp\Bin\HP.LR.ProxyRecorderStarter.exe
+[Network Analyzer (32d8:174c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (32d8:174c)] Load Network Traffic Analyzers:
+[Network Analyzer (32d8:174c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (32d8:174c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (32d8:174c)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (32d8:174c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (32d8:174c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (32d8:174c)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (32d8:174c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (32d8:174c)] ------------------------------------------------------------------------------------------
+[Proxy Recording  (32d8:174c)] Started proxy on port 8890 listening IP 192.168.137.1, 127.0.0.1, in synchronous mode
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23412
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23413
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23414
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23415
+[Proxy Recording  (32d8: 378)] Trying to connect to http://192.168.129.196/home/login/index.html ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23416
+[Proxy Recording  (32d8: 378)] Trying to connect to http://192.168.129.196/home/login/index.html ...
+[Proxy Recording  (32d8: 378)] Received response of 389 header and 4838 body bytes from http://192.168.129.196/home/login/index.html
+[Web Request      (32d8: 378)] "GET http://192.168.129.196/home/login/index.html"   
+[Network Analyzer (32d8: 378)]   (Sid:  1) Client -> Server @ : 525 bytes (Service=HTTP)
+[Network Analyzer (32d8: 378)]   (Sid:  1) Server -> Client : 378 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 378)]   (Sid:  1) Server -> Client : 4838 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 378)] Sent 4838 bytes to client @ 192.168.137.1:23414
+[Proxy Recording  (32d8: 8dc)] Trying to connect to http://192.168.129.196/captcha.html ...
+[Proxy Recording  (32d8: 8dc)] Trying to connect to http://192.168.129.196/captcha.html ...
+[Proxy Recording  (32d8: 8dc)] Received response of 327 header and 1614 body bytes from http://192.168.129.196/captcha.html
+[Web Request      (32d8: 8dc)] "GET http://192.168.129.196/captcha.html"   
+[Network Analyzer (32d8: 8dc)]   (Sid:  2) Client -> Server @ : 446 bytes (Service=HTTP)
+[Network Analyzer (32d8: 8dc)]   (Sid:  2) Server -> Client : 344 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23418
+[Network Analyzer (32d8: 8dc)]   (Sid:  2) Server -> Client : 1614 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 8dc)] Sent 1614 bytes to client @ 192.168.137.1:23413
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23419
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23420
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23421
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23422
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23423
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23424
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23425
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23426
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23427
+[Proxy Recording.Error (32d8:2650)] Exception is caught while trying to connect to https://clientservices.googleapis.com:443, message=ÎÞ·¨´Ó´«ÊäÁ¬½ÓÖÐ¶ÁÈ¡Êý¾Ý: ÄãµÄÖ÷»úÖ
+[Proxy Recording.Error (32d8:2650)] Exception is caught while connecting to , message=Á÷²»¿
+[Proxy Recording.Error (32d8:3fb8)] Exception is caught while trying to connect to https://accounts.google.com:443, message=ÎÞ·¨´Ó´«ÊäÁ¬½ÓÖÐ¶ÁÈ¡Êý¾Ý: ÄãµÄÖ÷»úÖ
+[Proxy Recording.Error (32d8:3fb8)] Exception is caught while connecting to , message=Á÷²»¿
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23429
+[Proxy Recording.Error (32d8: 378)] Exception is caught while trying to connect to https://www.googleapis.com:443, message=ÎÞ·¨´Ó´«ÊäÁ¬½ÓÖÐ¶ÁÈ¡Êý¾Ý: ÄãµÄÖ÷»úÖ
+[Proxy Recording.Error (32d8: 378)] Exception is caught while connecting to , message=Á÷²»¿
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23430
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23431
+[Proxy Recording.Error (32d8: 8dc)] Exception is caught while trying to connect to https://content-autofill.googleapis.com:443, message=ÎÞ·¨´Ó´«ÊäÁ¬½ÓÖÐ¶ÁÈ¡Êý¾Ý: ÄãµÄÖ÷»úÖ
+[Proxy Recording.Error (32d8: 8dc)] Exception is caught while connecting to , message=Á÷²»¿
+[Proxy Recording.Error (32d8: 6d4)] Exception is caught while trying to connect to https://update.googleapis.com:443, message=ÎÞ·¨´Ó´«ÊäÁ¬½ÓÖÐ¶ÁÈ¡Êý¾Ý: ÄãµÄÖ÷»úÖ
+[Proxy Recording.Error (32d8: 6d4)] Exception is caught while connecting to , message=Á÷²»¿
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23432
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/login/login_submit ...
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/login/login_submit ...
+[Proxy Recording  (32d8: 6d4)] Received response of 340 header and 57 body bytes from http://192.168.129.196/home/login/login_submit
+[Network Analyzer (32d8: 6d4)]   (Sid:  3) Client -> Server @ : 547 bytes (Service=HTTP)
+[Web Request      (32d8: 6d4)] "POST http://192.168.129.196/home/login/login_submit"   
+[Network Analyzer (32d8: 6d4)]   (Sid:  3) Client -> Server @ : 45 bytes (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid:  3) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid:  3) Server -> Client : 57 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 6d4)] Sent 57 bytes to client @ 192.168.137.1:23432
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23434
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23435
+[Proxy Recording  (32d8:3360)] Trying to connect to http://192.168.129.196/ ...
+[Proxy Recording  (32d8:3360)] Trying to connect to http://192.168.129.196/ ...
+[Proxy Recording  (32d8:3360)] Received response of 333 header and 21143 body bytes from http://192.168.129.196/
+[Web Request      (32d8:3360)] "GET http://192.168.129.196/"   
+[Network Analyzer (32d8:3360)]   (Sid:  4) Client -> Server @ : 535 bytes (Service=HTTP)
+[Network Analyzer (32d8:3360)]   (Sid:  4) Server -> Client : 322 bytes  (Service=HTTP)
+[Network Analyzer (32d8:3360)]   (Sid:  4) Server -> Client : 21143 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:3360)] Sent 21143 bytes to client @ 192.168.137.1:23435
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/index/main.html ...
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/index/main.html ...
+[Proxy Recording  (32d8: 6d4)] Received response of 333 header and 21142 body bytes from http://192.168.129.196/home/index/main.html
+[Web Request      (32d8: 6d4)] "GET http://192.168.129.196/home/index/main.html"   
+[Network Analyzer (32d8: 6d4)]   (Sid:  5) Client -> Server @ : 534 bytes (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid:  5) Server -> Client : 322 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid:  5) Server -> Client : 21142 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 6d4)] Sent 21142 bytes to client @ 192.168.137.1:23434
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23436
+[Proxy Recording  (32d8:3360)] Trying to connect to http://192.168.129.196/home/api/get_note_list?page=1&limit=10 ...
+[Proxy Recording  (32d8:3360)] Trying to connect to http://192.168.129.196/home/api/get_note_list?page=1&limit=10 ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23437
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/api/get_article_list?page=1&limit=10 ...
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/api/get_article_list?page=1&limit=10 ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23439
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23440
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23441
+[Proxy Recording  (32d8:3360)] Received response of 340 header and 393 body bytes from http://192.168.129.196/home/api/get_note_list?page=1&limit=10
+[Web Request      (32d8:3360)] "GET http://192.168.129.196/home/api/get_note_list?page=1&limit=10"   
+[Network Analyzer (32d8:3360)]   (Sid:  6) Client -> Server @ : 487 bytes (Service=HTTP)
+[Network Analyzer (32d8:3360)]   (Sid:  6) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:3360)]   (Sid:  6) Server -> Client : 393 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:3360)] Sent 393 bytes to client @ 192.168.137.1:23436
+[Proxy Recording  (32d8:3360)] Trying to connect to http://192.168.129.196/home/api/get_view_data ...
+[Proxy Recording  (32d8:3360)] Trying to connect to http://192.168.129.196/home/api/get_view_data ...
+[Proxy Recording  (32d8: 6d4)] Received response of 340 header and 780 body bytes from http://192.168.129.196/home/api/get_article_list?page=1&limit=10
+[Web Request      (32d8: 6d4)] "GET http://192.168.129.196/home/api/get_article_list?page=1&limit=10"   
+[Network Analyzer (32d8: 6d4)]   (Sid:  7) Client -> Server @ : 490 bytes (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid:  7) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid:  7) Server -> Client : 780 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 6d4)] Sent 780 bytes to client @ 192.168.137.1:23437
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23442
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/api/get_view_log ...
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/api/get_view_log ...
+[Proxy Recording  (32d8:3360)] Received response of 340 header and 269 body bytes from http://192.168.129.196/home/api/get_view_data
+[Proxy Recording  (32d8: 6d4)] Received response of 340 header and 206 body bytes from http://192.168.129.196/home/api/get_view_log
+[Web Request      (32d8:3360)] "GET http://192.168.129.196/home/api/get_view_data"   
+[Network Analyzer (32d8:3360)]   (Sid:  8) Client -> Server @ : 428 bytes (Service=HTTP)
+[Network Analyzer (32d8:3360)]   (Sid:  8) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:3360)]   (Sid:  8) Server -> Client : 269 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:3360)] Sent 269 bytes to client @ 192.168.137.1:23439
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23443
+[Proxy Recording  (32d8:3360)] Trying to connect to http://192.168.129.196/home/api/log_list?page=1&limit=20 ...
+[Proxy Recording  (32d8:3360)] Trying to connect to http://192.168.129.196/home/api/log_list?page=1&limit=20 ...
+[Web Request      (32d8: 6d4)] "GET http://192.168.129.196/home/api/get_view_log"   
+[Network Analyzer (32d8: 6d4)]   (Sid:  9) Client -> Server @ : 427 bytes (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid:  9) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid:  9) Server -> Client : 206 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 6d4)] Sent 206 bytes to client @ 192.168.137.1:23440
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/api/get_article_list?page=1&limit=10 ...
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/api/get_article_list?page=1&limit=10 ...
+[Proxy Recording.Error (32d8:39dc)] Exception is caught while trying to connect to https://android.clients.google.com:443, message=ÎÞ·¨´Ó´«ÊäÁ¬½ÓÖÐ¶ÁÈ¡Êý¾Ý: ÄãµÄÖ÷»úÖ
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23444
+[Proxy Recording  (32d8:3360)] Received response of 340 header and 7529 body bytes from http://192.168.129.196/home/api/log_list?page=1&limit=20
+[Proxy Recording.Error (32d8:39dc)] Exception is caught while connecting to , message=Á÷²»¿
+[Proxy Recording  (32d8:39dc)] Trying to connect to http://192.168.129.196/home/api/get_view_data ...
+[Web Request      (32d8:3360)] "GET http://192.168.129.196/home/api/log_list?page=1&limit=20"   
+[Proxy Recording  (32d8:39dc)] Trying to connect to http://192.168.129.196/home/api/get_view_data ...
+[Proxy Recording  (32d8: 6d4)] Received response of 340 header and 780 body bytes from http://192.168.129.196/home/api/get_article_list?page=1&limit=10
+[Network Analyzer (32d8:3360)]   (Sid: 10) Client -> Server @ : 439 bytes (Service=HTTP)
+[Network Analyzer (32d8:3360)]   (Sid: 10) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:3360)]   (Sid: 10) Server -> Client : 7529 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:3360)] Sent 7529 bytes to client @ 192.168.137.1:23441
+[Web Request      (32d8: 6d4)] "GET http://192.168.129.196/home/api/get_article_list?page=1&limit=10"   
+[Network Analyzer (32d8: 6d4)]   (Sid: 11) Client -> Server @ : 490 bytes (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid: 11) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid: 11) Server -> Client : 780 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 6d4)] Sent 780 bytes to client @ 192.168.137.1:23442
+[Proxy Recording  (32d8:39dc)] Received response of 340 header and 269 body bytes from http://192.168.129.196/home/api/get_view_data
+[Web Request      (32d8:39dc)] "GET http://192.168.129.196/home/api/get_view_data"   
+[Network Analyzer (32d8:39dc)]   (Sid: 12) Client -> Server @ : 428 bytes (Service=HTTP)
+[Network Analyzer (32d8:39dc)]   (Sid: 12) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:39dc)]   (Sid: 12) Server -> Client : 269 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:39dc)] Sent 269 bytes to client @ 192.168.137.1:23443
+[Proxy Recording  (32d8:3fb8)] Trying to connect to https://clientservices.googleapis.com:443/chrome-variations/seed?osname=win&channel=stable&milestone=120 ...
+[Proxy Recording  (32d8: 378)] Trying to connect to https://update.googleapis.com:443/service/update2/json?cup2key=13:p4M8zla1dQn0uXNjFESRzZEorgtGCyc3Ax7MqxMaqBY&cup2hreq=51c083df509b0fc7281010b305a4ffba95e029afbb9dad8e655d4f2af51457d3 ...
+[Proxy Recording  (32d8:3fb8)] Trying to connect to https://clientservices.googleapis.com:443/chrome-variations/seed?osname=win&channel=stable&milestone=120 ...
+[Proxy Recording  (32d8: 378)] Trying to connect to https://update.googleapis.com:443/service/update2/json?cup2key=13:p4M8zla1dQn0uXNjFESRzZEorgtGCyc3Ax7MqxMaqBY&cup2hreq=51c083df509b0fc7281010b305a4ffba95e029afbb9dad8e655d4f2af51457d3 ...
+[Proxy Recording  (32d8:3fb8)] Received response of 179 header and 0 body bytes from https://clientservices.googleapis.com:443/chrome-variations/seed?osname=win&channel=stable&milestone=120
+[Proxy Recording  (32d8: 378)] Received response of 1136 header and 265 body bytes from https://update.googleapis.com:443/service/update2/json?cup2key=13:p4M8zla1dQn0uXNjFESRzZEorgtGCyc3Ax7MqxMaqBY&cup2hreq=51c083df509b0fc7281010b305a4ffba95e029afbb9dad8e655d4f2af51457d3
+[Web Request      (32d8:3fb8)] "GET https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=120"   
+[Network Analyzer (32d8:3fb8)]   (Sid: 13) Client -> Server @ : 502 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32d8:3fb8)]   (Sid: 13) Server -> Client : 206 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (32d8:3fb8)] Sent 0 bytes to client @ 192.168.137.1:23422
+[Network Analyzer (32d8: 378)]   (Sid: 14) Client -> Server @ : 767 bytes (SSL)(Service=HTTP)
+[Web Request      (32d8: 378)] "POST https://update.googleapis.com/service/update2/json?cup2key=13:p4M8zla1dQn0uXNjFESRzZEorgtGCyc3Ax7MqxMaqBY&cup2hreq=51c083df509b0fc7281010b305a4ffba95e029afbb9dad8e655d4f2af51457d3"   
+[Network Analyzer (32d8: 378)]   (Sid: 14) Client -> Server @ : 1576 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32d8: 378)]   (Sid: 14) Server -> Client : 1125 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32d8: 378)]   (Sid: 14) Server -> Client : 265 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (32d8: 378)] Sent 265 bytes to client @ 192.168.137.1:23426
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23453
+[Proxy Recording  (32d8:3fb8)] Trying to connect to http://192.168.129.196/home/cate/flow_type ...
+[Proxy Recording  (32d8:3fb8)] Trying to connect to http://192.168.129.196/home/cate/flow_type ...
+[Proxy Recording  (32d8:3fb8)] Received response of 333 header and 4316 body bytes from http://192.168.129.196/home/cate/flow_type
+[Web Request      (32d8:3fb8)] "GET http://192.168.129.196/home/cate/flow_type"   
+[Network Analyzer (32d8:3fb8)]   (Sid: 15) Client -> Server @ : 533 bytes (Service=HTTP)
+[Network Analyzer (32d8:3fb8)]   (Sid: 15) Server -> Client : 322 bytes  (Service=HTTP)
+[Network Analyzer (32d8:3fb8)]   (Sid: 15) Server -> Client : 4316 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:3fb8)] Sent 4316 bytes to client @ 192.168.137.1:23453
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23454
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/cate/flow_type?page=1&limit=10 ...
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/cate/flow_type?page=1&limit=10 ...
+[Proxy Recording  (32d8: 6d4)] Received response of 340 header and 5719 body bytes from http://192.168.129.196/home/cate/flow_type?page=1&limit=10
+[Web Request      (32d8: 6d4)] "GET http://192.168.129.196/home/cate/flow_type?page=1&limit=10"   
+[Network Analyzer (32d8: 6d4)]   (Sid: 16) Client -> Server @ : 587 bytes (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid: 16) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid: 16) Server -> Client : 5719 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 6d4)] Sent 5719 bytes to client @ 192.168.137.1:23454
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23455
+[Proxy Recording  (32d8:3fb8)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8:3fb8)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8:3fb8)] Received response of 333 header and 4636 body bytes from http://192.168.129.196/home/cate/flow_type_add
+[Web Request      (32d8:3fb8)] "GET http://192.168.129.196/home/cate/flow_type_add"   
+[Network Analyzer (32d8:3fb8)]   (Sid: 17) Client -> Server @ : 660 bytes (Service=HTTP)
+[Network Analyzer (32d8:3fb8)]   (Sid: 17) Server -> Client : 322 bytes  (Service=HTTP)
+[Network Analyzer (32d8:3fb8)]   (Sid: 17) Server -> Client : 4636 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:3fb8)] Sent 4636 bytes to client @ 192.168.137.1:23455
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23456
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23457
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/api/index/get_department_select?keyword= ...
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/api/index/get_department_select?keyword= ...
+[Proxy Recording  (32d8: 6d4)] Received response of 340 header and 1311 body bytes from http://192.168.129.196/api/index/get_department_select?keyword=
+[Web Request      (32d8: 6d4)] "GET http://192.168.129.196/api/index/get_department_select?keyword="   
+[Network Analyzer (32d8: 6d4)]   (Sid: 18) Client -> Server @ : 553 bytes (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid: 18) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid: 18) Server -> Client : 1311 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 6d4)] Sent 1311 bytes to client @ 192.168.137.1:23457
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23458
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23464
+[Proxy Recording.Error (32d8:39dc)] Exception is caught while connecting to , message=½âÃÜ²Ù×÷Ê§°Ü£¬Ç
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23465
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8: 6d4)] Received response of 340 header and 218 body bytes from http://192.168.129.196/home/index/index
+[Web Request      (32d8: 6d4)] "POST http://192.168.129.196/home/index/index"   
+[Network Analyzer (32d8: 6d4)]   (Sid: 19) Client -> Server @ : 558 bytes (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid: 19) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid: 19) Server -> Client : 218 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 6d4)] Sent 218 bytes to client @ 192.168.137.1:23465
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23467
+[Proxy Recording.Error (32d8: 6d4)] Cannot establish a secure connection to the application being recorded.
+Message=µ÷ÓÃ SSPI Ê§°Ü£¬Çë²Î¼ûÄÚ²¿Òì³£¡£
+Import the LoadRunner SSL certificate to the client machine. For details, see "Use Case 3" of "https://admhelp.microfocus.com/vugen/en/2023/help/WebHelp/Content/VuGen/t_HowToRecordVi
+[Proxy Recording.Error (32d8: 6d4)] µ÷ÓÃ SSPI Ê§°Ü£¬Çë²
+[Proxy Recording.Error (32d8: 6d4)] ¸øº¯ÊýÌá¹©
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23472
+[Proxy Recording.Error (32d8:39dc)] Exception is caught while connecting to , message=½âÃÜ²Ù×÷Ê§°Ü£¬Ç
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23475
+[Proxy Recording.Error (32d8: 6d4)] Cannot establish a secure connection to the application being recorded.
+Message=µ÷ÓÃ SSPI Ê§°Ü£¬Çë²Î¼ûÄÚ²¿Òì³£¡£
+Import the LoadRunner SSL certificate to the client machine. For details, see "Use Case 3" of "https://admhelp.microfocus.com/vugen/en/2023/help/WebHelp/Content/VuGen/t_HowToRecordVi
+[Proxy Recording.Error (32d8: 6d4)] µ÷ÓÃ SSPI Ê§°Ü£¬Çë²
+[Proxy Recording.Error (32d8: 6d4)] ¸øº¯ÊýÌá¹©
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23476
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23478
+[Proxy Recording.Error (32d8: 6d4)] Exception is caught while connecting to , message=½âÃÜ²Ù×÷Ê§°Ü£¬Ç
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23479
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8: 6d4)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8: 6d4)] Received response of 340 header and 218 body bytes from http://192.168.129.196/home/index/index
+[Web Request      (32d8: 6d4)] "POST http://192.168.129.196/home/index/index"   
+[Network Analyzer (32d8: 6d4)]   (Sid: 20) Client -> Server @ : 558 bytes (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid: 20) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 6d4)]   (Sid: 20) Server -> Client : 218 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 6d4)] Sent 218 bytes to client @ 192.168.137.1:23479
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://accounts.google.com:443/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23482
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23484
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23485
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23486
+[Proxy Recording.Error (32d8: de8)] Cannot establish a secure connection to the application being recorded.
+Message=µ÷ÓÃ SSPI Ê§°Ü£¬Çë²Î¼ûÄÚ²¿Òì³£¡£
+Import the LoadRunner SSL certificate to the client machine. For details, see "Use Case 3" of "https://admhelp.microfocus.com/vugen/en/2023/help/WebHelp/Content/VuGen/t_HowToRecordVi
+[Proxy Recording.Error (32d8: de8)] µ÷ÓÃ SSPI Ê§°Ü£¬Çë²
+[Proxy Recording.Error (32d8: de8)] ¸øº¯ÊýÌá¹©
+[Proxy Recording.Error (32d8:2650)] Exception is caught while connecting to , message=Ë÷Òý³¬³öÁË
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23490
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8:42c0)] Received response of 340 header and 218 body bytes from http://192.168.129.196/home/index/index
+[Web Request      (32d8:42c0)] "POST http://192.168.129.196/home/index/index"   
+[Network Analyzer (32d8:42c0)]   (Sid: 21) Client -> Server @ : 558 bytes (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 21) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 21) Server -> Client : 218 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:42c0)] Sent 218 bytes to client @ 192.168.137.1:23490
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23492
+[Proxy Recording.Error (32d8:2650)] Exception is caught while connecting to , message=½âÃÜ²Ù×÷Ê§°Ü£¬Ç
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23494
+[Proxy Recording.Error (32d8:2650)] Cannot establish a secure connection to the application being recorded.
+Message=µ÷ÓÃ SSPI Ê§°Ü£¬Çë²Î¼ûÄÚ²¿Òì³£¡£
+Import the LoadRunner SSL certificate to the client machine. For details, see "Use Case 3" of "https://admhelp.microfocus.com/vugen/en/2023/help/WebHelp/Content/VuGen/t_HowToRecordVi
+[Proxy Recording.Error (32d8:2650)] µ÷ÓÃ SSPI Ê§°Ü£¬Çë²
+[Proxy Recording.Error (32d8:2650)] ¸øº¯ÊýÌá¹©
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23495
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8:42c0)] Received response of 340 header and 218 body bytes from http://192.168.129.196/home/index/index
+[Web Request      (32d8:42c0)] "POST http://192.168.129.196/home/index/index"   
+[Network Analyzer (32d8:42c0)]   (Sid: 22) Client -> Server @ : 558 bytes (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 22) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 22) Server -> Client : 218 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:42c0)] Sent 218 bytes to client @ 192.168.137.1:23495
+[Proxy Recording.Error (32d8: 7f8)] Exception is caught while connecting to https://accounts.google.com:443/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard, message=ÎÞ·¨Á¬½Óµ½
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23497
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23499
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8: 7f8)] Received response of 340 header and 65 body bytes from http://192.168.129.196/home/cate/flow_type_add
+[Network Analyzer (32d8: 7f8)]   (Sid: 23) Client -> Server @ : 653 bytes (Service=HTTP)
+[Web Request      (32d8: 7f8)] "POST http://192.168.129.196/home/cate/flow_type_add"   
+[Network Analyzer (32d8: 7f8)]   (Sid: 23) Client -> Server @ : 70 bytes (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 23) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 23) Server -> Client : 65 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 7f8)] Sent 65 bytes to client @ 192.168.137.1:23499
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23500
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (32d8: 7f8)] Received response of 319 header and 22 body bytes from https://clientservices.googleapis.com:443/uma/v2
+[Network Analyzer (32d8: 7f8)]   (Sid: 24) Client -> Server @ : 589 bytes (SSL)(Service=HTTP)
+[Web Request      (32d8: 7f8)] "POST https://clientservices.googleapis.com/uma/v2"   
+[Network Analyzer (32d8: 7f8)]   (Sid: 24) Client -> Server @ : 1130 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 24) Server -> Client : 308 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 24) Server -> Client : 22 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (32d8: 7f8)] Sent 22 bytes to client @ 192.168.137.1:23500
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23502
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23504
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://config.pinyin.sogou.com/api/toolbox/geturl.php?h=CCC53520B843C480D6E5E83629CE8383&v=9.6.0.3568&r=0000_11_5c22aa18aacd73dbeb4ce82881547dd31 ...
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://config.pinyin.sogou.com/api/toolbox/geturl.php?h=CCC53520B843C480D6E5E83629CE8383&v=9.6.0.3568&r=0000_11_5c22aa18aacd73dbeb4ce82881547dd31 ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://update.googleapis.com:443/service/update2/json?cup2key=13:tyO8g3HPQnDy5HqefINxc_h4slULESO7mORPQ2ayBvc&cup2hreq=a867f0ef9a506af7dcf98f12fe671663610beb3c767d5b739a69b9c646589279 ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://update.googleapis.com:443/service/update2/json?cup2key=13:tyO8g3HPQnDy5HqefINxc_h4slULESO7mORPQ2ayBvc&cup2hreq=a867f0ef9a506af7dcf98f12fe671663610beb3c767d5b739a69b9c646589279 ...
+[Proxy Recording  (32d8:42c0)] Received response of 144 header and 0 body bytes from http://config.pinyin.sogou.com/api/toolbox/geturl.php?h=CCC53520B843C480D6E5E83629CE8383&v=9.6.0.3568&r=0000_11_5c22aa18aacd73dbeb4ce82881547dd31
+[Web Request      (32d8:42c0)] "GET http://config.pinyin.sogou.com/api/toolbox/geturl.php?h=CCC53520B843C480D6E5E83629CE8383&v=9.6.0.3568&r=0000_11_5c22aa18aacd73dbeb4ce82881547dd31"   
+[Network Analyzer (32d8:42c0)]   (Sid: 25) Client -> Server @ : 257 bytes (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 25) Server -> Client : 161 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:42c0)] Sent 0 bytes to client @ 192.168.137.1:23504
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23506
+[Proxy Recording  (32d8: 7f8)] Received response of 1132 header and 2340 body bytes from https://update.googleapis.com:443/service/update2/json?cup2key=13:tyO8g3HPQnDy5HqefINxc_h4slULESO7mORPQ2ayBvc&cup2hreq=a867f0ef9a506af7dcf98f12fe671663610beb3c767d5b739a69b9c646589279
+[Proxy Recording.Error (32d8:42c0)] Exception is caught while connecting to , message=½âÃÜ²Ù×÷Ê§°Ü£¬Ç
+[Web Request      (32d8: 7f8)] "POST https://update.googleapis.com/service/update2/json?cup2key=13:tyO8g3HPQnDy5HqefINxc_h4slULESO7mORPQ2ayBvc&cup2hreq=a867f0ef9a506af7dcf98f12fe671663610beb3c767d5b739a69b9c646589279"
+[Network Analyzer (32d8: 7f8)]   (Sid: 26) Client -> Server @ : 1334 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 26) Client -> Server @ : 8587 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 26) Server -> Client : 1121 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 26) Server -> Client : 2340 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (32d8: 7f8)] Sent 2340 bytes to client @ 192.168.137.1:23502
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23510
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23511
+[Proxy Recording  (32d8:42c0)] Received response of 340 header and 65 body bytes from http://192.168.129.196/home/cate/flow_type_add
+[Network Analyzer (32d8:42c0)]   (Sid: 27) Client -> Server @ : 653 bytes (Service=HTTP)
+[Web Request      (32d8:42c0)] "POST http://192.168.129.196/home/cate/flow_type_add"   
+[Network Analyzer (32d8:42c0)]   (Sid: 27) Client -> Server @ : 71 bytes (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 27) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 27) Server -> Client : 65 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:42c0)] Sent 65 bytes to client @ 192.168.137.1:23510
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (32d8: 7f8)] Received response of 319 header and 22 body bytes from https://clientservices.googleapis.com:443/uma/v2
+[Network Analyzer (32d8: 7f8)]   (Sid: 28) Client -> Server @ : 597 bytes (SSL)(Service=HTTP)
+[Web Request      (32d8: 7f8)] "POST https://clientservices.googleapis.com/uma/v2"   
+[Network Analyzer (32d8: 7f8)]   (Sid: 28) Client -> Server @ : 2511 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 28) Server -> Client : 308 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 28) Server -> Client : 22 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (32d8: 7f8)] Sent 22 bytes to client @ 192.168.137.1:23511
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23513
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8: 7f8)] Received response of 340 header and 218 body bytes from http://192.168.129.196/home/index/index
+[Web Request      (32d8: 7f8)] "POST http://192.168.129.196/home/index/index"   
+[Network Analyzer (32d8: 7f8)]   (Sid: 29) Client -> Server @ : 558 bytes (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 29) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 29) Server -> Client : 218 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 7f8)] Sent 218 bytes to client @ 192.168.137.1:23513
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23514
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://redirector.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://redirector.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Proxy Recording  (32d8: 7f8)] Received response of 801 header and 0 body bytes from http://redirector.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff
+[Proxy Recording  (32d8: 7f8)] Sent 0 bytes to client @ 192.168.137.1:23514
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23516
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://r2---sn-j5o7dn7s.gvt1-cn.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff?cms_redirect=yes&mh=II&mip=120.85.142.91&mm=28&mn=sn-j5o7dn7s&ms=nvh&mt=1703340258&mv=m&mvi=2&pl=23&rmhost=r3---sn-j5o7dn7s.gvt1-cn.com&shardbypass=sd&smhost=r4---sn-j5o7dn7z.gvt1-cn.com ...
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://r2---sn-j5o7dn7s.gvt1-cn.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff?cms_redirect=yes&mh=II&mip=120.85.142.91&mm=28&mn=sn-j5o7dn7s&ms=nvh&mt=1703340258&mv=m&mvi=2&pl=23&rmhost=r3---sn-j5o7dn7s.gvt1-cn.com&shardbypass=sd&smhost=r4---sn-j5o7dn7z.gvt1-cn.com ...
+[Proxy Recording  (32d8:42c0)] Received response of 498 header and 0 body bytes from http://r2---sn-j5o7dn7s.gvt1-cn.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff?cms_redirect=yes&mh=II&mip=120.85.142.91&mm=28&mn=sn-j5o7dn7s&ms=nvh&mt=1703340258&mv=m&mvi=2&pl=23&rmhost=r3---sn-j5o7dn7s.gvt1-cn.com&shardbypass=sd&smhost=r4---sn-j5o7dn7z.gvt1-cn.com
+[Proxy Recording  (32d8:42c0)] Sent 0 bytes to client @ 192.168.137.1:23516
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23518
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23519
+[Proxy Recording  (32d8:42c0)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (32d8:42c0)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (32d8:42c0)] Received response of 319 header and 22 body bytes from https://clientservices.googleapis.com:443/uma/v2
+[Web Request      (32d8:42c0)] "POST https://clientservices.googleapis.com/uma/v2"
+[Network Analyzer (32d8:42c0)]   (Sid: 30) Client -> Server @ : 598 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 30) Client -> Server @ : 29819 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 30) Server -> Client : 308 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 30) Server -> Client : 22 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (32d8:42c0)] Sent 22 bytes to client @ 192.168.137.1:23519
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://activity.windows.com:443/v3/feeds/me/$batch ...
+[Proxy Recording.Error (32d8: 7f8)] Cannot add request header message:±ØÐëÊ¹ÓÃÊÊµ±µÄÊôÐÔ»ò·½·¨ÐÞ¸Ä¡°Date
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://activity.windows.com:443/v3/feeds/me/$batch ...
+[Proxy Recording  (32d8: 7f8)] Received response of 434 header and 1643 body bytes from https://activity.windows.com:443/v3/feeds/me/$batch
+[Proxy Recording  (32d8: 7f8)] Sent 1643 bytes to client @ 192.168.137.1:23518
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23523
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23525
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Proxy Recording  (32d8:42c0)] Trying to connect to https://activity.windows.com:443/v3/feeds/me/views/628086c9-584d-237c-5469-808ffb8647c6/activities?pageSize=100 ...
+[Proxy Recording.Error (32d8:42c0)] Cannot add request header message:±ØÐëÊ¹ÓÃÊÊµ±µÄÊôÐÔ»ò·½·¨ÐÞ¸Ä¡°Date
+[Proxy Recording  (32d8:42c0)] Trying to connect to https://activity.windows.com:443/v3/feeds/me/views/628086c9-584d-237c-5469-808ffb8647c6/activities?pageSize=100 ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23527
+[Proxy Recording  (32d8: 7f8)] Received response of 491 header and 0 body bytes from http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff
+[Proxy Recording  (32d8: 7f8)] Sent 0 bytes to client @ 192.168.137.1:23525
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23529
+[Proxy Recording  (32d8: 7f8)] Received response of 340 header and 65 body bytes from http://192.168.129.196/home/cate/flow_type_add
+[Network Analyzer (32d8: 7f8)]   (Sid: 31) Client -> Server @ : 653 bytes (Service=HTTP)
+[Web Request      (32d8: 7f8)] "POST http://192.168.129.196/home/cate/flow_type_add"   
+[Network Analyzer (32d8: 7f8)]   (Sid: 31) Client -> Server @ : 71 bytes (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 31) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 31) Server -> Client : 65 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 7f8)] Sent 65 bytes to client @ 192.168.137.1:23527
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Proxy Recording.Error (32d8: 7f8)] Cannot add request header message:±ØÐëÊ¹ÓÃÊÊµ±µÄÊôÐÔ»ò·½·¨ÐÞ¸Ä¡°Range
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23530
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23531
+[Proxy Recording  (32d8:42c0)] Received response of 305 header and 139 body bytes from https://activity.windows.com:443/v3/feeds/me/views/628086c9-584d-237c-5469-808ffb8647c6/activities?pageSize=100
+[Proxy Recording  (32d8: 7f8)] Received response of 491 header and 2745 body bytes from http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff
+[Proxy Recording  (32d8:42c0)] Sent 139 bytes to client @ 192.168.137.1:23523
+[Proxy Recording.Error (32d8:42c0)] Cannot establish a secure connection to the application being recorded.
+Message=µ÷ÓÃ SSPI Ê§°Ü£¬Çë²Î¼ûÄÚ²¿Òì³£¡£
+Import the LoadRunner SSL certificate to the client machine. For details, see "Use Case 3" of "https://admhelp.microfocus.com/vugen/en/2023/help/WebHelp/Content/VuGen/t_HowToRecordVi
+[Proxy Recording.Error (32d8:42c0)] µ÷ÓÃ SSPI Ê§°Ü£¬Çë²
+[Proxy Recording.Error (32d8:42c0)] ¸øº¯ÊýÌá¹©
+[Proxy Recording  (32d8: 7f8)] Sent 2745 bytes to client @ 192.168.137.1:23529
+[Proxy Recording.Error (32d8:42c0)] Exception is caught while connecting to , message=Êä³ö×Ö·û»º³åÇøÌ«Ð¡£¬ÎÞ·¨°üº¬½âÂëºóµÄ×Ö·û£¬±àÂë¡°Unicode (UTF-8)¡±µÄ²Ù×÷»ØÍË¡°System.Text.DecoderRe
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23532
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (32d8: 7f8)] Received response of 319 header and 22 body bytes from https://clientservices.googleapis.com:443/uma/v2
+[Web Request      (32d8: 7f8)] "POST https://clientservices.googleapis.com/uma/v2"
+[Network Analyzer (32d8: 7f8)]   (Sid: 32) Client -> Server @ : 598 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 32) Client -> Server @ : 38933 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 32) Server -> Client : 308 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 32) Server -> Client : 22 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (32d8: 7f8)] Sent 22 bytes to client @ 192.168.137.1:23532
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23534
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8:42c0)] Received response of 340 header and 65 body bytes from http://192.168.129.196/home/cate/flow_type_add
+[Network Analyzer (32d8:42c0)]   (Sid: 33) Client -> Server @ : 653 bytes (Service=HTTP)
+[Web Request      (32d8:42c0)] "POST http://192.168.129.196/home/cate/flow_type_add"   
+[Network Analyzer (32d8:42c0)]   (Sid: 33) Client -> Server @ : 71 bytes (Service=HTTP)
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23535
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Network Analyzer (32d8:42c0)]   (Sid: 33) Server -> Client : 329 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff ...
+[Network Analyzer (32d8:42c0)]   (Sid: 33) Server -> Client : 65 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:42c0)] Sent 65 bytes to client @ 192.168.137.1:23534
+[Proxy Recording  (32d8: 7f8)] Received response of 491 header and 2745 body bytes from http://edgedl.me.gvt1.com/edgedl/diffgen-puffin/efniojlnjndmcbiieegkicadnoecjjef/1.fe3a79c733c823d911966165fb68619f44789642d9953cbf25c5a383f832d55a/1.d6ba1124f51bb0d5449d9c3dfb7677f6a8daaebb32b2e9be4c5b9f683d9323af/b5c4a673075f024bdf460cb827047a2684c6c812d4a97988955fcd0623044922.puff
+[Proxy Recording  (32d8: 7f8)] Sent 2745 bytes to client @ 192.168.137.1:23535
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23536
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (32d8: 7f8)] Received response of 319 header and 22 body bytes from https://clientservices.googleapis.com:443/uma/v2
+[Web Request      (32d8: 7f8)] "POST https://clientservices.googleapis.com/uma/v2"
+[Network Analyzer (32d8: 7f8)]   (Sid: 34) Client -> Server @ : 598 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 34) Client -> Server @ : 16081 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 34) Server -> Client : 308 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 34) Server -> Client : 22 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (32d8: 7f8)] Sent 22 bytes to client @ 192.168.137.1:23536
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23538
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8: 7f8)] Received response of 340 header and 218 body bytes from http://192.168.129.196/home/index/index
+[Web Request      (32d8: 7f8)] "POST http://192.168.129.196/home/index/index"   
+[Network Analyzer (32d8: 7f8)]   (Sid: 35) Client -> Server @ : 558 bytes (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 35) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 35) Server -> Client : 218 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 7f8)] Sent 218 bytes to client @ 192.168.137.1:23538
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23539
+[Proxy Recording  (32d8:42c0)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (32d8:42c0)] Trying to connect to https://clientservices.googleapis.com:443/uma/v2 ...
+[Proxy Recording  (32d8:42c0)] Received response of 319 header and 22 body bytes from https://clientservices.googleapis.com:443/uma/v2
+[Web Request      (32d8:42c0)] "POST https://clientservices.googleapis.com/uma/v2"
+[Network Analyzer (32d8:42c0)]   (Sid: 36) Client -> Server @ : 598 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 36) Client -> Server @ : 37566 bytes (SSL)(Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 36) Server -> Client : 308 bytes (SSL) (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 36) Server -> Client : 22 bytes (SSL) (Service=HTTP)
+[Proxy Recording  (32d8:42c0)] Sent 22 bytes to client @ 192.168.137.1:23539
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23541
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://redirector.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://redirector.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8: 7f8)] Received response of 645 header and 0 body bytes from http://redirector.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording  (32d8: 7f8)] Sent 0 bytes to client @ 192.168.137.1:23541
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23542
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://r1---sn-j5o76n7s.gvt1-cn.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3?cms_redirect=yes&mh=KC&mip=120.85.142.91&mm=28&mn=sn-j5o76n7s&ms=nvh&mt=1703340258&mv=m&mvi=1&pl=23&shardbypass=sd&smhost=r2---sn-j5o7dn7z.gvt1-cn.com ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://r1---sn-j5o76n7s.gvt1-cn.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3?cms_redirect=yes&mh=KC&mip=120.85.142.91&mm=28&mn=sn-j5o76n7s&ms=nvh&mt=1703340258&mv=m&mvi=1&pl=23&shardbypass=sd&smhost=r2---sn-j5o7dn7z.gvt1-cn.com ...
+[Proxy Recording  (32d8: 7f8)] Received response of 500 header and 0 body bytes from http://r1---sn-j5o76n7s.gvt1-cn.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3?cms_redirect=yes&mh=KC&mip=120.85.142.91&mm=28&mn=sn-j5o76n7s&ms=nvh&mt=1703340258&mv=m&mvi=1&pl=23&shardbypass=sd&smhost=r2---sn-j5o7dn7z.gvt1-cn.com
+[Proxy Recording  (32d8: 7f8)] Sent 0 bytes to client @ 192.168.137.1:23542
+[Proxy Recording  (32d8:41cc)] Trying to connect to https://www.googleapis.com:443/oauth2/v4/token ...
+[Proxy Recording  (32d8:14e8)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSJwlU9qLHeFWaBxIFDeeNQA4SBQ3OQUx6EgUN_wMUuSHF4DjB_HY8Pw==?alt=proto ...
+[Proxy Recording  (32d8:14e8)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSJwlU9qLHeFWaBxIFDeeNQA4SBQ3OQUx6EgUN_wMUuSHF4DjB_HY8Pw==?alt=proto ...
+[Proxy Recording  (32d8:2650)] Trying to connect to https://accounts.google.com:443/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23547
+[Proxy Recording.Error (32d8:42c0)] Exception is caught while connecting to , message=½âÃÜ²Ù×÷Ê§°Ü£¬Ç
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23548
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8: 7f8)] Received response of 532 header and 0 body bytes from http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording  (32d8: 7f8)] Sent 0 bytes to client @ 192.168.137.1:23548
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23549
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording.Error (32d8: 7f8)] Cannot add request header message:±ØÐëÊ¹ÓÃÊÊµ±µÄÊôÐÔ»ò·½·¨ÐÞ¸Ä¡°Range
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8: 7f8)] Received response of 493 header and 152480 body bytes from http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording  (32d8: 7f8)] Sent 152480 bytes to client @ 192.168.137.1:23549
+[Proxy Recording  (32d8:3360)] Trying to connect to https://www.googleapis.com:443/oauth2/v4/token ...
+[Proxy Recording  (32d8: 8dc)] Trying to connect to https://www.googleapis.com:443/oauth2/v4/token ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23551
+[Proxy Recording  (32d8:3584)] Empty http command received from client's ssl connection
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8:42c0)] Received response of 340 header and 218 body bytes from http://192.168.129.196/home/index/index
+[Web Request      (32d8:42c0)] "POST http://192.168.129.196/home/index/index"   
+[Network Analyzer (32d8:42c0)]   (Sid: 37) Client -> Server @ : 558 bytes (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 37) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 37) Server -> Client : 218 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:42c0)] Sent 218 bytes to client @ 192.168.137.1:23551
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23559
+[Proxy Recording  (32d8:3584)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording.Error (32d8:3584)] Cannot add request header message:±ØÐëÊ¹ÓÃÊÊµ±µÄÊôÐÔ»ò·½·¨ÐÞ¸Ä¡°Range
+[Proxy Recording  (32d8:3584)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8:3584)] Received response of 532 header and 152480 body bytes from http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording  (32d8:3584)] Sent 152480 bytes to client @ 192.168.137.1:23559
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23561
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8:42c0)] Received response of 340 header and 65 body bytes from http://192.168.129.196/home/cate/flow_type_add
+[Network Analyzer (32d8:42c0)]   (Sid: 38) Client -> Server @ : 653 bytes (Service=HTTP)
+[Web Request      (32d8:42c0)] "POST http://192.168.129.196/home/cate/flow_type_add"   
+[Network Analyzer (32d8:42c0)]   (Sid: 38) Client -> Server @ : 81 bytes (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 38) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 38) Server -> Client : 65 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:42c0)] Sent 65 bytes to client @ 192.168.137.1:23561
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23563
+[Proxy Recording.Error (32d8: 7f8)] Cannot establish a secure connection to the application being recorded.
+Message=µ÷ÓÃ SSPI Ê§°Ü£¬Çë²Î¼ûÄÚ²¿Òì³£¡£
+Import the LoadRunner SSL certificate to the client machine. For details, see "Use Case 3" of "https://admhelp.microfocus.com/vugen/en/2023/help/WebHelp/Content/VuGen/t_HowToRecordVi
+[Proxy Recording.Error (32d8: 7f8)] µ÷ÓÃ SSPI Ê§°Ü£¬Çë²
+[Proxy Recording.Error (32d8: 7f8)] ¸øº¯ÊýÌá¹©
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23564
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording.Error (32d8:42c0)] Cannot add request header message:±ØÐëÊ¹ÓÃÊÊµ±µÄÊôÐÔ»ò·½·¨ÐÞ¸Ä¡°Range
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8:42c0)] Received response of 493 header and 152480 body bytes from http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording  (32d8:42c0)] Sent 152480 bytes to client @ 192.168.137.1:23564
+[Proxy Recording  (32d8:39dc)] Trying to connect to https://www.googleapis.com:443/affiliation/v1/affiliation:lookupByHashPrefix?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23565
+[Proxy Recording  (32d8:3584)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8:3584)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8:3584)] Received response of 340 header and 218 body bytes from http://192.168.129.196/home/index/index
+[Web Request      (32d8:3584)] "POST http://192.168.129.196/home/index/index"   
+[Network Analyzer (32d8:3584)]   (Sid: 39) Client -> Server @ : 558 bytes (Service=HTTP)
+[Network Analyzer (32d8:3584)]   (Sid: 39) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:3584)]   (Sid: 39) Server -> Client : 218 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:3584)] Sent 218 bytes to client @ 192.168.137.1:23565
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23566
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8:42c0)] Received response of 340 header and 65 body bytes from http://192.168.129.196/home/cate/flow_type_add
+[Network Analyzer (32d8:42c0)]   (Sid: 40) Client -> Server @ : 653 bytes (Service=HTTP)
+[Web Request      (32d8:42c0)] "POST http://192.168.129.196/home/cate/flow_type_add"   
+[Network Analyzer (32d8:42c0)]   (Sid: 40) Client -> Server @ : 81 bytes (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 40) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:42c0)]   (Sid: 40) Server -> Client : 65 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:42c0)] Sent 65 bytes to client @ 192.168.137.1:23566
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23567
+[Proxy Recording  (32d8:3584)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording.Error (32d8:3584)] Cannot add request header message:±ØÐëÊ¹ÓÃÊÊµ±µÄÊôÐÔ»ò·½·¨ÐÞ¸Ä¡°Range
+[Proxy Recording  (32d8:3584)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8:3584)] Received response of 493 header and 152480 body bytes from http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording  (32d8:3584)] Sent 152480 bytes to client @ 192.168.137.1:23567
+[Proxy Recording.Error (32d8:2650)] Exception is caught while connecting to https://accounts.google.com:443/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard, message=ÎÞ·¨Á¬½Óµ½
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23568
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording.Error (32d8:42c0)] Cannot add request header message:±ØÐëÊ¹ÓÃÊÊµ±µÄÊôÐÔ»ò·½·¨ÐÞ¸Ä¡°Range
+[Proxy Recording  (32d8:42c0)] Trying to connect to http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8:42c0)] Received response of 532 header and 152480 body bytes from http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording  (32d8:42c0)] Sent 152480 bytes to client @ 192.168.137.1:23568
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23569
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23570
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://redirector.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://redirector.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23574
+[Proxy Recording  (32d8: 7f8)] Received response of 703 header and 0 body bytes from https://redirector.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording.Error (32d8:3584)] Exception is caught while connecting to , message=½âÃÜ²Ù×÷Ê§°Ü£¬Ç
+[Proxy Recording  (32d8: 7f8)] Sent 0 bytes to client @ 192.168.137.1:23569
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23575
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23576
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8: 7f8)] Received response of 340 header and 50 body bytes from http://192.168.129.196/home/cate/flow_type_add
+[Network Analyzer (32d8: 7f8)]   (Sid: 41) Client -> Server @ : 653 bytes (Service=HTTP)
+[Web Request      (32d8: 7f8)] "POST http://192.168.129.196/home/cate/flow_type_add"   
+[Network Analyzer (32d8: 7f8)]   (Sid: 41) Client -> Server @ : 78 bytes (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 41) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 41) Server -> Client : 50 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 7f8)] Sent 50 bytes to client @ 192.168.137.1:23576
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23578
+[Proxy Recording  (32d8:2650)] Trying to connect to http://192.168.129.196/home/cate/flow_type?page=1&limit=10 ...
+[Proxy Recording  (32d8:2650)] Trying to connect to http://192.168.129.196/home/cate/flow_type?page=1&limit=10 ...
+[Proxy Recording  (32d8:2650)] Received response of 340 header and 5919 body bytes from http://192.168.129.196/home/cate/flow_type?page=1&limit=10
+[Web Request      (32d8:2650)] "GET http://192.168.129.196/home/cate/flow_type?page=1&limit=10"   
+[Network Analyzer (32d8:2650)]   (Sid: 42) Client -> Server @ : 587 bytes (Service=HTTP)
+[Network Analyzer (32d8:2650)]   (Sid: 42) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:2650)]   (Sid: 42) Server -> Client : 5919 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:2650)] Sent 5919 bytes to client @ 192.168.137.1:23578
+[Proxy Recording  (32d8:3584)] Trying to connect to https://r1---sn-j5o76n7s.gvt1-cn.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3?cms_redirect=yes&mh=KC&mip=120.85.142.91&mm=28&mn=sn-j5o76n7s&ms=nvh&mt=1703340258&mv=m&mvi=1&pl=23&shardbypass=sd&smhost=r2---sn-j5o7dn7z.gvt1-cn.com ...
+[Proxy Recording  (32d8:3584)] Trying to connect to https://r1---sn-j5o76n7s.gvt1-cn.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3?cms_redirect=yes&mh=KC&mip=120.85.142.91&mm=28&mn=sn-j5o76n7s&ms=nvh&mt=1703340258&mv=m&mvi=1&pl=23&shardbypass=sd&smhost=r2---sn-j5o7dn7z.gvt1-cn.com ...
+[Proxy Recording  (32d8:3584)] Received response of 606 header and 0 body bytes from https://r1---sn-j5o76n7s.gvt1-cn.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3?cms_redirect=yes&mh=KC&mip=120.85.142.91&mm=28&mn=sn-j5o76n7s&ms=nvh&mt=1703340258&mv=m&mvi=1&pl=23&shardbypass=sd&smhost=r2---sn-j5o7dn7z.gvt1-cn.com
+[Proxy Recording  (32d8:3584)] Sent 0 bytes to client @ 192.168.137.1:23575
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23581
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8: 7f8)] Received response of 340 header and 218 body bytes from http://192.168.129.196/home/index/index
+[Web Request      (32d8: 7f8)] "POST http://192.168.129.196/home/index/index"   
+[Network Analyzer (32d8: 7f8)]   (Sid: 43) Client -> Server @ : 558 bytes (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 43) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 43) Server -> Client : 218 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 7f8)] Sent 218 bytes to client @ 192.168.137.1:23581
+[Proxy Recording  (32d8:3fb8)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSWAkcENkUTWdYnxIFDR1BNaUSBQ2RYZVOEgUNo19UVRIFDcjS5bUSBQ3dp95DEgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNlFT6zxIFDUA24LMhYKA3sCoBmLc=?alt=proto ...
+[Proxy Recording  (32d8: 378)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSQwmngX9dWse--RIFDR1BNaUSBQ2RYZVOEgUNo19UVRIFDcjS5bUSBQ2RYZVOEgUNlFT6zxIFDUA24LMhBKEnj3oRaZg=?alt=proto ...
+[Proxy Recording  (32d8:3fb8)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSWAkcENkUTWdYnxIFDR1BNaUSBQ2RYZVOEgUNo19UVRIFDcjS5bUSBQ3dp95DEgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNlFT6zxIFDUA24LMhYKA3sCoBmLc=?alt=proto ...
+[Proxy Recording  (32d8: 378)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSQwmngX9dWse--RIFDR1BNaUSBQ2RYZVOEgUNo19UVRIFDcjS5bUSBQ2RYZVOEgUNlFT6zxIFDUA24LMhBKEnj3oRaZg=?alt=proto ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23583
+[Proxy Recording  (32d8:3584)] Trying to connect to https://edgedl.me.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8:3584)] Trying to connect to https://edgedl.me.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8:3584)] Received response of 532 header and 0 body bytes from https://edgedl.me.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording  (32d8:3584)] Sent 0 bytes to client @ 192.168.137.1:23583
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23588
+[Proxy Recording  (32d8:2650)] Trying to connect to https://edgedl.me.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording.Error (32d8:2650)] Cannot add request header message:±ØÐëÊ¹ÓÃÊÊµ±µÄÊôÐÔ»ò·½·¨ÐÞ¸Ä¡°Range
+[Proxy Recording  (32d8:2650)] Trying to connect to https://edgedl.me.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8:2650)] Received response of 532 header and 152480 body bytes from https://edgedl.me.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording  (32d8:2650)] Sent 152480 bytes to client @ 192.168.137.1:23588
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23590
+[Proxy Recording  (32d8:3584)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add?id=29 ...
+[Proxy Recording  (32d8:3584)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add?id=29 ...
+[Proxy Recording  (32d8:3584)] Received response of 333 header and 4398 body bytes from http://192.168.129.196/home/cate/flow_type_add?id=29
+[Web Request      (32d8:3584)] "GET http://192.168.129.196/home/cate/flow_type_add?id=29"   
+[Network Analyzer (32d8:3584)]   (Sid: 44) Client -> Server @ : 666 bytes (Service=HTTP)
+[Network Analyzer (32d8:3584)]   (Sid: 44) Server -> Client : 322 bytes  (Service=HTTP)
+[Network Analyzer (32d8:3584)]   (Sid: 44) Server -> Client : 4398 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:3584)] Sent 4398 bytes to client @ 192.168.137.1:23590
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23592
+[Proxy Recording  (32d8:2650)] Trying to connect to http://192.168.129.196/api/index/get_department_select?keyword= ...
+[Proxy Recording  (32d8:2650)] Trying to connect to http://192.168.129.196/api/index/get_department_select?keyword= ...
+[Proxy Recording  (32d8:2650)] Received response of 340 header and 1311 body bytes from http://192.168.129.196/api/index/get_department_select?keyword=
+[Web Request      (32d8:2650)] "GET http://192.168.129.196/api/index/get_department_select?keyword="   
+[Network Analyzer (32d8:2650)]   (Sid: 45) Client -> Server @ : 559 bytes (Service=HTTP)
+[Network Analyzer (32d8:2650)]   (Sid: 45) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:2650)]   (Sid: 45) Server -> Client : 1311 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:2650)] Sent 1311 bytes to client @ 192.168.137.1:23592
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23593
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8: 7f8)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8: 7f8)] Received response of 340 header and 218 body bytes from http://192.168.129.196/home/index/index
+[Web Request      (32d8: 7f8)] "POST http://192.168.129.196/home/index/index"   
+[Network Analyzer (32d8: 7f8)]   (Sid: 46) Client -> Server @ : 558 bytes (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 46) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8: 7f8)]   (Sid: 46) Server -> Client : 218 bytes  (Service=HTTP)
+[Proxy Recording  (32d8: 7f8)] Sent 218 bytes to client @ 192.168.137.1:23593
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23594
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://edgedl.me.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording.Error (32d8: 7f8)] Cannot add request header message:±ØÐëÊ¹ÓÃÊÊµ±µÄÊôÐÔ»ò·½·¨ÐÞ¸Ä¡°Range
+[Proxy Recording  (32d8: 7f8)] Trying to connect to https://edgedl.me.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8: 7f8)] Received response of 532 header and 152480 body bytes from https://edgedl.me.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording  (32d8: 7f8)] Sent 152480 bytes to client @ 192.168.137.1:23594
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23596
+[Proxy Recording.Error (32d8:3584)] Cannot establish a secure connection to the application being recorded.
+Message=µ÷ÓÃ SSPI Ê§°Ü£¬Çë²Î¼ûÄÚ²¿Òì³£¡£
+Import the LoadRunner SSL certificate to the client machine. For details, see "Use Case 3" of "https://admhelp.microfocus.com/vugen/en/2023/help/WebHelp/Content/VuGen/t_HowToRecordVi
+[Proxy Recording.Error (32d8:3584)] µ÷ÓÃ SSPI Ê§°Ü£¬Çë²
+[Proxy Recording.Error (32d8:3584)] ¸øº¯ÊýÌá¹©
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23597
+[Proxy Recording  (32d8:2650)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8:2650)] Trying to connect to http://192.168.129.196/home/cate/flow_type_add ...
+[Proxy Recording  (32d8:2650)] Received response of 340 header and 50 body bytes from http://192.168.129.196/home/cate/flow_type_add
+[Network Analyzer (32d8:2650)]   (Sid: 47) Client -> Server @ : 659 bytes (Service=HTTP)
+[Web Request      (32d8:2650)] "POST http://192.168.129.196/home/cate/flow_type_add"   
+[Network Analyzer (32d8:2650)]   (Sid: 47) Client -> Server @ : 80 bytes (Service=HTTP)
+[Network Analyzer (32d8:2650)]   (Sid: 47) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:2650)]   (Sid: 47) Server -> Client : 50 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:2650)] Sent 50 bytes to client @ 192.168.137.1:23597
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23598
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23599
+[Proxy Recording  (32d8:3584)] Trying to connect to http://192.168.129.196/home/cate/flow_type?page=1&limit=10 ...
+[Proxy Recording  (32d8:3584)] Trying to connect to http://192.168.129.196/home/cate/flow_type?page=1&limit=10 ...
+[Proxy Recording  (32d8:3584)] Received response of 340 header and 5920 body bytes from http://192.168.129.196/home/cate/flow_type?page=1&limit=10
+[Web Request      (32d8:3584)] "GET http://192.168.129.196/home/cate/flow_type?page=1&limit=10"   
+[Network Analyzer (32d8:3584)]   (Sid: 48) Client -> Server @ : 587 bytes (Service=HTTP)
+[Network Analyzer (32d8:3584)]   (Sid: 48) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:3584)]   (Sid: 48) Server -> Client : 5920 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:3584)] Sent 5920 bytes to client @ 192.168.137.1:23599
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23601
+[Proxy Recording.Error (32d8:2650)] Exception is caught while connecting to , message=Êä³ö×Ö·û»º³åÇøÌ«Ð¡£¬ÎÞ·¨°üº¬½âÂëºóµÄ×Ö·û£¬±àÂë¡°Unicode (UTF-8)¡±µÄ²Ù×÷»ØÍË¡°System.Text.DecoderRe
+[Proxy Recording  (32d8:3ea8)] Trying to connect to https://android.clients.google.com:443/checkin ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23603
+[Proxy Recording  (32d8:2650)] Trying to connect to https://edgedl.me.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording.Error (32d8:2650)] Cannot add request header message:±ØÐëÊ¹ÓÃÊÊµ±µÄÊôÐÔ»ò·½·¨ÐÞ¸Ä¡°Range
+[Proxy Recording  (32d8:2650)] Trying to connect to https://edgedl.me.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3 ...
+[Proxy Recording  (32d8:2650)] Received response of 493 header and 152480 body bytes from https://edgedl.me.gvt1.com:443/edgedl/release2/chrome_component/bgezzctvzew4vp5i2jlodtevbi_807/efniojlnjndmcbiieegkicadnoecjjef_807_all_ac55rcl6bv7voxqcdltqnsuuz3vq.crx3
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23605
+[Proxy Recording  (32d8:3584)] Trying to connect to http://192.168.129.196/home/cate/flow_type_check ...
+[Proxy Recording  (32d8:3584)] Trying to connect to http://192.168.129.196/home/cate/flow_type_check ...
+[Proxy Recording  (32d8:3584)] Received response of 340 header and 50 body bytes from http://192.168.129.196/home/cate/flow_type_check
+[Network Analyzer (32d8:3584)]   (Sid: 49) Client -> Server @ : 651 bytes (Service=HTTP)
+[Web Request      (32d8:3584)] "POST http://192.168.129.196/home/cate/flow_type_check"   
+[Network Analyzer (32d8:3584)]   (Sid: 49) Client -> Server @ : 14 bytes (Service=HTTP)
+[Network Analyzer (32d8:3584)]   (Sid: 49) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:3584)]   (Sid: 49) Server -> Client : 50 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:3584)] Sent 50 bytes to client @ 192.168.137.1:23605
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23606
+[Proxy Recording  (32d8:3584)] Trying to connect to http://192.168.129.196/home/cate/flow_type?page=1&limit=10 ...
+[Proxy Recording  (32d8:3584)] Trying to connect to http://192.168.129.196/home/cate/flow_type?page=1&limit=10 ...
+[Proxy Recording  (32d8:3584)] Received response of 340 header and 5920 body bytes from http://192.168.129.196/home/cate/flow_type?page=1&limit=10
+[Web Request      (32d8:3584)] "GET http://192.168.129.196/home/cate/flow_type?page=1&limit=10"   
+[Network Analyzer (32d8:3584)]   (Sid: 50) Client -> Server @ : 587 bytes (Service=HTTP)
+[Network Analyzer (32d8:3584)]   (Sid: 50) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:3584)]   (Sid: 50) Server -> Client : 5920 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:3584)] Sent 5920 bytes to client @ 192.168.137.1:23606
+[Proxy Recording  (32d8:42c0)] Trying to connect to https://accounts.google.com:443/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard ...
+[Proxy Recording  (32d8: de8)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSWAkcENkUTWdYnxIFDR1BNaUSBQ2RYZVOEgUNo19UVRIFDcjS5bUSBQ3dp95DEgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNlFT6zxIFDUA24LMhYKA3sCoBmLc=?alt=proto ...
+[Proxy Recording  (32d8: de8)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSWAkcENkUTWdYnxIFDR1BNaUSBQ2RYZVOEgUNo19UVRIFDcjS5bUSBQ3dp95DEgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNlFT6zxIFDUA24LMhYKA3sCoBmLc=?alt=proto ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23608
+[Proxy Recording  (32d8:3584)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8:3584)] Trying to connect to http://192.168.129.196/home/index/index ...
+[Proxy Recording  (32d8:3584)] Received response of 340 header and 218 body bytes from http://192.168.129.196/home/index/index
+[Web Request      (32d8:3584)] "POST http://192.168.129.196/home/index/index"   
+[Network Analyzer (32d8:3584)]   (Sid: 51) Client -> Server @ : 558 bytes (Service=HTTP)
+[Network Analyzer (32d8:3584)]   (Sid: 51) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:3584)]   (Sid: 51) Server -> Client : 218 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:3584)] Sent 218 bytes to client @ 192.168.137.1:23608
+[Proxy Recording  (32d8: d5c)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSWAkcENkUTWdYnxIFDR1BNaUSBQ2RYZVOEgUNo19UVRIFDcjS5bUSBQ3dp95DEgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNlFT6zxIFDUA24LMhYKA3sCoBmLc=?alt=proto ...
+[Proxy Recording  (32d8: d5c)] Trying to connect to https://content-autofill.googleapis.com:443/v1/pages/ChVDaHJvbWUvMTIwLjAuNjA5OS4xMjkSWAkcENkUTWdYnxIFDR1BNaUSBQ2RYZVOEgUNo19UVRIFDcjS5bUSBQ3dp95DEgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNlFT6zxIFDUA24LMhYKA3sCoBmLc=?alt=proto ...
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23609
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23610
+[Proxy Recording  (32d8:2650)] Trying to connect to http://192.168.129.196/home/cate/flow_type_check ...
+[Proxy Recording  (32d8:2650)] Trying to connect to http://192.168.129.196/home/cate/flow_type_check ...
+[Proxy Recording  (32d8:2650)] Received response of 340 header and 50 body bytes from http://192.168.129.196/home/cate/flow_type_check
+[Network Analyzer (32d8:2650)]   (Sid: 52) Client -> Server @ : 651 bytes (Service=HTTP)
+[Web Request      (32d8:2650)] "POST http://192.168.129.196/home/cate/flow_type_check"   
+[Network Analyzer (32d8:2650)]   (Sid: 52) Client -> Server @ : 14 bytes (Service=HTTP)
+[Network Analyzer (32d8:2650)]   (Sid: 52) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:2650)]   (Sid: 52) Server -> Client : 50 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:2650)] Sent 50 bytes to client @ 192.168.137.1:23610
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23611
+[Proxy Recording  (32d8:2650)] Trying to connect to http://192.168.129.196/home/cate/flow_type?page=1&limit=10 ...
+[Proxy Recording  (32d8:2650)] Trying to connect to http://192.168.129.196/home/cate/flow_type?page=1&limit=10 ...
+[Proxy Recording  (32d8:2650)] Received response of 340 header and 5920 body bytes from http://192.168.129.196/home/cate/flow_type?page=1&limit=10
+[Web Request      (32d8:2650)] "GET http://192.168.129.196/home/cate/flow_type?page=1&limit=10"   
+[Network Analyzer (32d8:2650)]   (Sid: 53) Client -> Server @ : 587 bytes (Service=HTTP)
+[Network Analyzer (32d8:2650)]   (Sid: 53) Server -> Client : 329 bytes  (Service=HTTP)
+[Network Analyzer (32d8:2650)]   (Sid: 53) Server -> Client : 5920 bytes  (Service=HTTP)
+[Proxy Recording  (32d8:2650)] Sent 5920 bytes to client @ 192.168.137.1:23611
+[Proxy Recording  (32d8:268c)] Client request from @ 192.168.137.1:23612

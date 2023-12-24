@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sat, 23 Dec 2023 13:40:21 GMT
+Server: Apache/2.4.39 (Win64) OpenSSL/1.1.1b mod_fcgid/2.3.9a mod_log_rotate/1.02
+X-Powered-By: PHP/7.3.4
+Set-Cookie: PHPSESSID=0529c7d13e46b598c5de1c2f5b451131; expires=Sun, 24-Dec-2023 13:40:21 GMT; Max-Age=86400; path=/
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+

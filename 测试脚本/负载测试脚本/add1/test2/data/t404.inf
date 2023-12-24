@@ -1,0 +1,11 @@
+[t404]
+FileName1=t404.json
+URL1=http://192.168.129.196/home/cate/flow_type_check
+Total=1
+RequestHeaderFile=t404_RequestHeader.txt
+RequestBodyFile=t404_RequestBody.txt
+ResponseHeaderFile=t404_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_404.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

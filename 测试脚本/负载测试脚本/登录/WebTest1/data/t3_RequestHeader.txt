@@ -1,0 +1,8 @@
+POST /EUPP/v1/service?action=signvalue&appid=Microsoft_IE_EUPP&clientkey=9sfPQY/JkmuR2FE7/B%2bskQ%3d%3d&mac=YroVncse9es%3d HTTP/1.1
+Content-Type: text/xml; charset=utf-8
+User-Agent: IE_EUPP
+Host: ieonline.microsoft.com
+Content-Length: 341
+Connection: Keep-Alive
+Cache-Control: no-cache
+

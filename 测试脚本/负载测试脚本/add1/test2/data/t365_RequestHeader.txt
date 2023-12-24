@@ -1,0 +1,6 @@
+GET http://config.pinyin.sogou.com/api/toolbox/geturl.php?h=CCC53520B843C480D6E5E83629CE8383&v=9.6.0.3568&r=0000_11_5c22aa18aacd73dbeb4ce82881547dd31 HTTP/1.1
+User-Agent: SOGOU_UPDATER
+Accept: */*
+Host: config.pinyin.sogou.com
+Connection: Keep-Alive
+

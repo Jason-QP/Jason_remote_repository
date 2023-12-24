@@ -1,0 +1,10 @@
+[t82]
+FileName1=t78.html
+URL1=http://ocsp.digicert.com/
+Total=1
+SnapshotXmlFile=snapshot_82.xml
+RequestHeaderFile=t82_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t82_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

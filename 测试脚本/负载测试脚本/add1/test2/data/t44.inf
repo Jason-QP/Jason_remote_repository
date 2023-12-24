@@ -1,0 +1,10 @@
+[t44]
+FileName1=t43.json
+URL1=http://192.168.129.196/home/index/index
+Total=1
+SnapshotXmlFile=snapshot_44.xml
+RequestHeaderFile=t44_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t44_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

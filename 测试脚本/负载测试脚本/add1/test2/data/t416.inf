@@ -1,0 +1,11 @@
+[t416]
+FileName1=t416_log_list.json
+URL1=http://192.168.129.196/home/api/log_list?page=1&limit=20
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_416.xml
+RequestHeaderFile=t416_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t416_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

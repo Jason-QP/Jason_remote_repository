@@ -1,0 +1,11 @@
+[t402]
+FileName1=t402_flow_type.json
+URL1=http://192.168.129.196/home/cate/flow_type?page=1&limit=10
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_402.xml
+RequestHeaderFile=t402_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t402_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

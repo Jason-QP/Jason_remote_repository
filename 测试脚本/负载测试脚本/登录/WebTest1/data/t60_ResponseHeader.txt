@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 20 Dec 2023 01:04:27 GMT
+Content-Type: image/gif
+Connection: close
+Server: nginx
+Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+Vary: Accept-Encoding
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+Content-Encoding: gzip
+

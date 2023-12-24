@@ -1,0 +1,13 @@
+[t216]
+FileName1=t216.htm
+URL1=http://192.168.133.196/home/login/index.html
+Total=2
+RequestHeaderFile=t216_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t216_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_216.xml
+FileName2=t216_captcha.png
+URL2=http://192.168.133.196/captcha.html
+[ProtocolInfo]
+ProtocolId=QTWeb

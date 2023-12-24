@@ -1,0 +1,11 @@
+[t203]
+FileName1=t203.htm
+URL1=http://192.168.133.196/home/cate/flow_type_add?type=1&title=test1&name=test&icon=icon-jichupeizhi&id=0
+Total=1
+RequestHeaderFile=t203_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t203_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_203.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

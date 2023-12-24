@@ -1,0 +1,11 @@
+[t396]
+FileName1=t396.json
+URL1=http://192.168.129.196/home/cate/flow_type_add
+Total=1
+RequestHeaderFile=t396_RequestHeader.txt
+RequestBodyFile=t396_RequestBody.txt
+ResponseHeaderFile=t396_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_396.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

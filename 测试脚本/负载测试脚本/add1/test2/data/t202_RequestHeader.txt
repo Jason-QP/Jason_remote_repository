@@ -1,0 +1,11 @@
+GET http://192.168.129.196/static/assets/layui/css/modules/layer/default/layer.css?v=3.5.1 HTTP/1.1
+Accept: text/css, */*
+Referer: http://192.168.129.196/home/login/index.html?username=lixiaobin&password=123456&captcha=21&=f0ce04b5b7cada09b6f38b921b09f6a9b9960dfd
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; LCTE; rv:11.0) like Gecko
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Cookie: PHPSESSID=e84a5d270b41f7c5f364b5d946cb2fa4
+Host: 192.168.129.196
+Connection: Close
+

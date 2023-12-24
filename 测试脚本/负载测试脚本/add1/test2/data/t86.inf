@@ -1,0 +1,11 @@
+[t86]
+FileName1=t86.json
+URL1=http://192.168.129.196/home/index/index
+Total=1
+RequestHeaderFile=t86_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t86_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_86.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

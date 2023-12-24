@@ -1,0 +1,11 @@
+[t429]
+FileName1=t429.json
+URL1=http://192.168.129.196/home/cate/flow_type_add
+Total=1
+RequestHeaderFile=t429_RequestHeader.txt
+RequestBodyFile=t429_RequestBody.txt
+ResponseHeaderFile=t429_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_429.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

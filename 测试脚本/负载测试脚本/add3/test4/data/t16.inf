@@ -1,0 +1,10 @@
+[t16]
+FileName1=t15.json
+URL1=http://192.168.129.196/home/login/login_submit
+Total=1
+SnapshotXmlFile=snapshot_16.xml
+RequestHeaderFile=t16_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t16_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

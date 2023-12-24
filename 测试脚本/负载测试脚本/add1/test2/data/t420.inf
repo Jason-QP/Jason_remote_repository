@@ -1,0 +1,11 @@
+[t420]
+FileName1=t420.json
+URL1=https://update.googleapis.com/service/update2/json?cup2key=13:p4M8zla1dQn0uXNjFESRzZEorgtGCyc3Ax7MqxMaqBY&cup2hreq=51c083df509b0fc7281010b305a4ffba95e029afbb9dad8e655d4f2af51457d3
+Total=1
+RequestHeaderFile=t420_RequestHeader.txt
+RequestBodyFile=t420_RequestBody.txt
+ResponseHeaderFile=t420_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_420.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

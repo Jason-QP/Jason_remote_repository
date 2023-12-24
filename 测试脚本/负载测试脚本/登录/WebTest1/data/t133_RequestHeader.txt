@@ -1,0 +1,10 @@
+GET http://localhost/static/assets/icon/iconfont.css HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost/static/assets/gougu/css/gougu.css?v=1.0.22
+Cookie: PHPSESSID=099716d61ca6c403c59147d773c3a1ac
+Host: localhost
+Connection: Close
+

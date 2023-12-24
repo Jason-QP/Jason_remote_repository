@@ -1,0 +1,11 @@
+[t362]
+FileName1=t362.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/telemetry/dcd2c5f0-58f8-4d79-80ec-a3727ff4c59f/main/Firefox/121.0/release/20231211174248?v=4
+Total=1
+RequestHeaderFile=t362_RequestHeader.txt
+RequestBodyFile=t362_RequestBody.txt
+ResponseHeaderFile=t362_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_362.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

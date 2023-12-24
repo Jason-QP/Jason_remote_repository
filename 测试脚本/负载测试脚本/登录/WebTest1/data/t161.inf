@@ -1,0 +1,11 @@
+[t161]
+FileName1=t161.html
+URL1=http://r3.o.lencr.org/
+Total=1
+RequestHeaderFile=t161_RequestHeader.txt
+RequestBodyFile=t161_RequestBody.txt
+ResponseHeaderFile=t161_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_161.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

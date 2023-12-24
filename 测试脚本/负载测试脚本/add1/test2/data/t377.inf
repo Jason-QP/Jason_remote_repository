@@ -1,0 +1,11 @@
+[t377]
+FileName1=t377_flow_type.json
+URL1=http://192.168.129.196/home/cate/flow_type?page=1&limit=10
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_377.xml
+RequestHeaderFile=t377_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t377_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

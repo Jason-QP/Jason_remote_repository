@@ -1,0 +1,10 @@
+[hosts]
+192.168.129.196=
+update.googleapis.com=
+clientservices.googleapis.com=
+detectportal.firefox.com=
+ocsp.digicert.com=
+iecvlist.microsoft.com=
+go.microsoft.com=
+incoming.telemetry.mozilla.org=
+config.pinyin.sogou.com=

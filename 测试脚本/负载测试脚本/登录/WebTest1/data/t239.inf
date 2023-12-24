@@ -1,0 +1,13 @@
+[t239]
+FileName1=t238.json
+URL1=http://update.googleapis.com/service/update2/json?cup2key=13:itPH3u8ZButxTKNihIkYeHWdcQGbexpEKTN1e1jZz-w&cup2hreq=4e0ad16b843d1a9a92967a9a015f42243f41f26e15d6b8a67adc6c6356ff6050
+Total=2
+SnapshotXmlFile=snapshot_239.xml
+RequestHeaderFile=t239_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t239_ResponseHeader.txt
+FileName2=t239_echarts.min.html
+URL2=http://192.168.129.196/static/assets/third_party/echart/echarts.min.js
+ContentType=application/javascript
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,10 @@
+GET http://localhost/static/home/images/bg.png HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost/home/login/index.html
+Cookie: PHPSESSID=099716d61ca6c403c59147d773c3a1ac
+Host: localhost
+Connection: Close
+

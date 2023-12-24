@@ -1,0 +1,11 @@
+[t421]
+FileName1=t421.htm
+URL1=http://192.168.129.196/home/cate/flow_type
+Total=1
+RequestHeaderFile=t421_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t421_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_421.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t361]
+FileName1=t361.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/telemetry/d7427481-9e9c-47f0-b570-825b4cd4126c/health/Firefox/121.0/release/20231211174248?v=4
+Total=1
+RequestHeaderFile=t361_RequestHeader.txt
+RequestBodyFile=t361_RequestBody.txt
+ResponseHeaderFile=t361_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_361.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

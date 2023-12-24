@@ -1,0 +1,10 @@
+[t232]
+FileName1=t229.htm
+URL1=http://192.168.129.196/
+Total=1
+SnapshotXmlFile=snapshot_232.xml
+RequestHeaderFile=t232_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t232_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t453]
+FileName1=t453.json
+URL1=http://192.168.129.196/home/cate/flow_type_add
+Total=1
+RequestHeaderFile=t453_RequestHeader.txt
+RequestBodyFile=t453_RequestBody.txt
+ResponseHeaderFile=t453_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_453.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

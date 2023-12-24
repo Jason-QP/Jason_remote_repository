@@ -1,0 +1,10 @@
+[t342]
+FileName1=t340.htm
+URL1=http://detectportal.firefox.com/canonical.html
+Total=1
+SnapshotXmlFile=snapshot_342.xml
+RequestHeaderFile=t342_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t342_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

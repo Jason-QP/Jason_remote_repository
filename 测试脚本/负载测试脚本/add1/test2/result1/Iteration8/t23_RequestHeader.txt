@@ -1,0 +1,28 @@
+POST /home/cate/flow_type_add HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://192.168.129.196/home/cate/flow_type_add
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+X-Chrome-UMA-Log-HMAC-SHA256: bEqhGxK2CCrycM/Sz3Jl3+HlMcq4a0/wQ6WX1KOSFTo=
+X-Chrome-UMA-Log-SHA1: B7008E592D4BFBAFC3A7F9C4DBF6D07BF46D4413
+X-Chrome-UMA-ReportingInfo: CAEQyAEYACAB
+Origin: http://192.168.129.196
+X-Requested-With: XMLHttpRequest
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+X-Chrome-UMA-Log-HMAC-SHA256: ykUI+4EpP49KPpxOauem4Bbvm1ZDN5O1Bms8yXJNkMU=
+X-Chrome-UMA-Log-SHA1: CF4CC0C2F8B5685DBC3FAB4ABA0A769A0BB9C4F5
+X-Chrome-UMA-ReportingInfo: CAEQyAEYACAB
+Origin: http://192.168.129.196
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Accept: */*
+Connection: Keep-Alive
+Host: 192.168.129.196
+Cookie: PHPSESSID=1cc80924ccfa386761566986283992a1; gougutab={"tab_id":"32","tab_array":[{"id":"32","url":"/home/cate/flow_type","title":"审批类型"}]}
+Content-Length: 71
+

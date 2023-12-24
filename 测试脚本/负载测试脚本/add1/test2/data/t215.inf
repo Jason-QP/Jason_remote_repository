@@ -1,0 +1,15 @@
+[t215]
+FileName1=t215.htm
+URL1=http://192.168.129.196/
+Total=2
+RequestHeaderFile=t215_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t215_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_215.xml
+FileName2=t215f0.htm
+URL2=http://192.168.129.196/home/index/main.html
+FrameIndex2=0.0
+UseFrameIndex=1
+[ProtocolInfo]
+ProtocolId=QTWeb

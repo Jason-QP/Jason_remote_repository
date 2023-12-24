@@ -1,0 +1,11 @@
+[t333]
+FileName1=t333.json
+URL1=http://192.168.129.196/home/index/index
+Total=1
+RequestHeaderFile=t333_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t333_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_333.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

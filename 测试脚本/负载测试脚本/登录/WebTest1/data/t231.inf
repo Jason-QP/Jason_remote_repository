@@ -1,0 +1,17 @@
+[t231]
+FileName1=t229.htm
+URL1=http://192.168.129.196/
+Total=4
+SnapshotXmlFile=snapshot_231.xml
+RequestHeaderFile=t231_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t231_ResponseHeader.txt
+FileName2=t231_syslogo_small.png
+URL2=http://192.168.129.196/static/home/images/syslogo_small.png
+ContentType=image/png
+FileName3=t231_layui.html
+URL3=http://192.168.129.196/static/assets/layui/layui.js
+FileName4=t231_gouguInit.html
+URL4=http://192.168.129.196/static/assets/gougu/gouguInit.js
+[ProtocolInfo]
+ProtocolId=QTWeb

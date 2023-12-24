@@ -1,0 +1,13 @@
+[t343]
+FileName1=t343.htm
+URL1=http://192.168.129.196/home/login/index.html
+Total=2
+RequestHeaderFile=t343_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t343_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_343.xml
+FileName2=t343_captcha.png
+URL2=http://192.168.129.196/captcha.html
+[ProtocolInfo]
+ProtocolId=QTWeb

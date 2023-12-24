@@ -1,0 +1,17 @@
+[t124]
+FileName1=t124.htm
+URL1=http://localhost/home/login/index.html
+Total=4
+RequestHeaderFile=t124_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t124_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_124.xml
+FileName2=t124_layui.css
+URL2=http://localhost/static/assets/layui/css/layui.css?v=1.0.22
+FileName3=t124_login_logo.png
+URL3=http://localhost/static/home/images/login_logo.png
+FileName4=t124_layui.html
+URL4=http://localhost/static/assets/layui/layui.js?v=1.0.22
+[ProtocolInfo]
+ProtocolId=QTWeb

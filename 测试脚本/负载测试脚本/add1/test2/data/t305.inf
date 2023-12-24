@@ -1,0 +1,11 @@
+[t305]
+FileName1=t305.json
+URL1=http://update.googleapis.com/service/update2/json?cup2key=13:jFT-oZdXRS1iVkCpfjsap4-Salep1gC6yDTmx8RpUrE&cup2hreq=f63856dd3fe452f9016776880017f04e03ff9aab7d21747d8fb7a8339524fcfd
+Total=1
+RequestHeaderFile=t305_RequestHeader.txt
+RequestBodyFile=t305_RequestBody.txt
+ResponseHeaderFile=t305_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_305.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

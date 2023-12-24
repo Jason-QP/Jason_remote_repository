@@ -1,0 +1,11 @@
+[t211]
+FileName1=t211.json
+URL1=http://192.168.129.196/home/login/login_submit
+Total=1
+RequestHeaderFile=t211_RequestHeader.txt
+RequestBodyFile=t211_RequestBody.txt
+ResponseHeaderFile=t211_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_211.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

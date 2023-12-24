@@ -1,0 +1,10 @@
+[t224]
+FileName1=t220.htm
+URL1=http://192.168.129.196/home/login/index.html
+Total=1
+SnapshotXmlFile=snapshot_224.xml
+RequestHeaderFile=t224_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t224_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,13 @@
+[t359]
+FileName1=t359.htm
+URL1=http://192.168.129.196/home/login/index.html
+Total=2
+RequestHeaderFile=t359_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t359_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_359.xml
+FileName2=t359_layui.css
+URL2=http://192.168.129.196/static/assets/layui/css/layui.css?v=1.0.22
+[ProtocolInfo]
+ProtocolId=QTWeb

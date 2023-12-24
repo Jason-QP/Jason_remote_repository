@@ -1,0 +1,10 @@
+[t304]
+FileName1=t302.json
+URL1=http://192.168.129.196/home/index/index
+Total=1
+SnapshotXmlFile=snapshot_304.xml
+RequestHeaderFile=t304_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t304_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

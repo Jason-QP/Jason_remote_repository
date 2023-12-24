@@ -1,0 +1,6 @@
+[t389]
+FileName1=t389_seed.html
+URL1=https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=120
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_389.xml

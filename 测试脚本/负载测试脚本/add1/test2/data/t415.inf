@@ -1,0 +1,11 @@
+[t415]
+FileName1=t415_get_view_log.json
+URL1=http://192.168.129.196/home/api/get_view_log
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_415.xml
+RequestHeaderFile=t415_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t415_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

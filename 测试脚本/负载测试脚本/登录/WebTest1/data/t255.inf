@@ -1,0 +1,11 @@
+[t255]
+FileName1=t255.json
+URL1=http://192.168.129.196/home/index/index
+Total=1
+RequestHeaderFile=t255_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t255_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_255.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

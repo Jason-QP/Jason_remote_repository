@@ -1,0 +1,10 @@
+[t125]
+FileName1=t124.json
+URL1=http://192.168.129.196/home/index/index
+Total=1
+SnapshotXmlFile=snapshot_125.xml
+RequestHeaderFile=t125_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t125_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

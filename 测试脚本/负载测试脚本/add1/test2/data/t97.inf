@@ -1,0 +1,11 @@
+[t97]
+FileName1=t97.htm
+URL1=http://detectportal.firefox.com/canonical.html
+Total=1
+RequestHeaderFile=t97_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t97_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_97.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

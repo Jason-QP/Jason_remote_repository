@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Mon, 11 Dec 2023 03:08:17 GMT
+Content-Type: image/gif
+Connection: close
+Set-Cookie: acw_tc=b65cfd3117022640979826130e078b836bd7888aefc4b68bd4e787fd687fb0;path=/;HttpOnly;Max-Age=1800
+Server: nginx
+Last-Modified: Mon, 28 Sep 1970 06:00:00 GMT
+Vary: Accept-Encoding
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+Content-Encoding: gzip
+

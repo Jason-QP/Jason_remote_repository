@@ -1,0 +1,11 @@
+[t163]
+FileName1=t163.json
+URL1=http://192.168.133.196/home/login/login_submit
+Total=1
+RequestHeaderFile=t163_RequestHeader.txt
+RequestBodyFile=t163_RequestBody.txt
+ResponseHeaderFile=t163_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_163.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

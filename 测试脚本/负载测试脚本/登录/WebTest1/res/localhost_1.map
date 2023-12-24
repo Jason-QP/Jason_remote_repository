@@ -1,0 +1,8 @@
+[DATA_POINT]
+1="mic_recv"
+2="HTTP_200"
+[END_TRANSACTION]
+1="vuser_init_Transaction"
+2="1_transaction_login"
+3="Action_Transaction"
+4="vuser_end_Transaction"

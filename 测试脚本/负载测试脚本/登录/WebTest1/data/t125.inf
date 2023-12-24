@@ -1,0 +1,10 @@
+[t125]
+FileName1=t124.htm
+URL1=http://localhost/home/login/index.html
+Total=1
+SnapshotXmlFile=snapshot_125.xml
+RequestHeaderFile=t125_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t125_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

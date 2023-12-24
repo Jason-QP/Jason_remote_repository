@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="renderer" content="webkit"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="mobile-prefetch" href=""/>
+
+
+	<title>勾股OA</title>		
+
+
+	<meta name="keywords" content="勾股OA"/>
+	<meta name="description" content="勾股办公是一款基于ThinkPHP6 + Layui + MySql打造的，简单实用的开源免费的企业办公系统框架。系统集成了系统设置、人事管理模块、消息管理模块、日常办公、财务管理等基础模块。系统简约，易于功能扩展，方便二次开发，让开发者更专注于业务深度需求的开发，帮助开发者简单高效降低二次开发成本，通过二次开发之后可以用来做CRM，ERP，业务管理等系统。 "/>
+
+
+	<link rel="stylesheet" href="/static/assets/gougu/css/gougu.css?v=1.0.22" media="all">
+
+
+<style type="text/css">
+    .panel-num table {width: 100%;}
+    .panel-num td {text-align: center; padding: 16px 0; border-left: 1px solid #f1f1f1; position: relative;}
+    .panel-num td:nth-child(1) { border-left: none}
+    .panel-num .num-title { padding-bottom: 16px; color: #999;}
+    .panel-num .blue {font-size: 20px; font-weight: 300;}
+    .panel-num td .badge {position: absolute;top: 0; right: 0;}
+    .panel-num td .badge span { padding: 2px 4px; font-size: 12px; border-radius: 0 0 0 4px;}
+    .dashboard-total td {border-top: 1px solid #f1f1f1}
+    .dashboard-logs .layui-timeline-item {padding-bottom: 1px;}
+    .info-td { width: 90px; text-align: right;background-color: #fafafa; color: #999; padding: 5px 3px;}
+    .info-td {width: 90px; text-align: right;background-color: #fafafa; color: #999; padding: 5px 3px;}
+	.layui-card-body .layui-timeline-title {padding-bottom: 0;font-size: 14px; margin-bottom:4px;}
+	.layui-card-body .layui-timeline-item {padding-bottom: 5px;}
+	.layui-short-menu li { text-align: center;}
+	.layui-short-menu li .iconfont {display: inline-block; font-weight:600; width: 100%; height: 58px; line-height: 58px; margin-bottom:5px; text-align: center;border-radius: 3px; font-size: 28px; background-color: #F8F8F8; color: #969696; transition: all .3s; -webkit-transition: all .3s;}
+	.layui-short-menu li cite {color: #646464;}
+	.layui-short-menu li:hover .iconfont{color: #187FDD; background-color:#F2F8FF;}
+	.layui-short-menu li:hover cite {color: #187FDD;}
+	.layui-matter-item li a{display: block; padding: 12px; background-color: #f8f8f8; color: #999; border-radius: 3px; transition: all .3s;-webkit-transition: all .3s;}
+	.layui-matter-item li a:hover{background-color:#F2F8FF;}
+	.layui-matter-item li cite {font-size: 24px;font-weight: 300;color: #187FDD;}
+	
+	.layui-right-bar a{display: inline-block; width: 100%; height: 64px; text-align: center;border-radius: 3px; background-color: #F8F8F8; color: #969696; transition: all .3s; -webkit-transition: all .3s;}
+	.layui-right-bar a .iconfont{display: inline-block; font-weight:600; width: 100%; height: 37px; line-height: 39px; text-align: center;font-size: 24px;}
+	.layui-right-bar a:hover{color: #187FDD; background-color:#F2F8FF;}
+</style>
+
+<script>
+	const login_user=4;
+</script>
+
+</head>
+<body class="main-body">
+	<!-- 主体 -->
+	
+<div class="p-3">
+<div class="layui-row layui-col-space12">
+	<div class="layui-col-md8">
+						<div class="layui-row layui-col-space12">
+	<div class="layui-col-md12">
+		<div class="layui-card panel-num">
+			<table>
+				<tr>
+								  <td>
+					<div class="num-title">员工</div>
+					<div class="blue">7</div>
+				  </td>
+								  <td>
+					<div class="num-title">公告</div>
+					<div class="blue">3</div>
+				  </td>
+								  <td>
+					<div class="num-title">审批</div>
+					<div class="blue">27</div>
+				  </td>
+								  <td>
+					<div class="num-title">报销</div>
+					<div class="blue">0</div>
+				  </td>
+								  <td>
+					<div class="num-title">发票</div>
+					<div class="blue">0</div>
+				  </td>
+								</tr>
+			</table>
+		</div>
+	</div>
+</div>	
+						
+						<div class="layui-row layui-col-space12">
+	<div class="layui-col-md6">
+		<div class="layui-card">
+			<div class="layui-card-header"><h3>快捷申请</h3><a href="javascript:;" data-href="/oa/approve/index" data-id="93" data-title="我发起的" class="tab-a pull-right blue">更多</a></div>
+			<div class="layui-card-body layui-short-menu p-3">
+				<ul class="layui-row layui-col-space12">
+					<li class="layui-col-xs3">
+						<a href="javascript:;" data-href="/oa/approve/add?type=1" class="side-a">
+							<i class="iconfont icon-kechengziyuanguanli"></i>
+							<cite>请假申请</cite>
+						</a>
+					</li>
+					<li class="layui-col-xs3">
+						<a href="javascript:;" data-href="/oa/approve/add?type=2" class="side-a">
+							<i class="iconfont icon-jiaoshiguanli"></i>
+							<cite>出差申请</cite>
+						</a>
+					</li>
+					<li class="layui-col-xs3">
+						<a href="javascript:;" data-href="/oa/approve/add?type=3" class="side-a">
+							<i class="iconfont icon-tuiguangguanli"></i>
+							<cite>外出申请</cite>
+						</a>
+					</li>
+					<li class="layui-col-xs3">
+						<a href="javascript:;" data-href="/oa/approve/add?type=4" class="side-a">
+							<i class="iconfont icon-xueshengchengji"></i>
+							<cite>加班申请</cite>
+						</a>
+					</li>
+					<li class="layui-col-xs3">
+						<a href="javascript:;" data-href="/oa/approve/add?type=14" class="side-a">
+							<i class="iconfont icon-shoufeiguanli"></i>
+							<cite>采购申请</cite>
+						</a>
+					</li>
+					<li class="layui-col-xs3">
+						<a href="javascript:;" data-href="/oa/approve/add?type=7" class="side-a">
+							<i class="iconfont icon-chuangjianxitong"></i>
+							<cite>物品维修</cite>
+						</a>
+					</li>
+					<li class="layui-col-xs3">
+						<a href="javascript:;" data-href="/oa/approve/add?type=8" class="side-a">
+							<i class="iconfont icon-shenpishezhi"></i>
+							<cite>用章申请</cite>
+						</a>
+					</li>
+					<li class="layui-col-xs3">
+						<a href="javascript:;" data-href="/oa/approve/add?type=9" class="side-a">
+							<i class="iconfont icon-dongtaiguanli"></i>
+							<cite>用车申请</cite>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="layui-col-md6">
+		<div class="layui-card">
+			<div class="layui-card-header"><h3>待办事项</h3></div>
+			<div class="layui-card-body layui-matter-item p-3">
+				<ul class="layui-row layui-col-space12">
+					<li class="layui-col-xs4">
+						<a href="javascript:;" data-href="/oa/approve/list" data-id="96" class="tab-a" data-title="我处理的审批">
+							<p>待审审批</p>
+							<p class="pt-3"><cite>16</cite></p>
+						</a>
+					</li>
+					<li class="layui-col-xs4">
+						<a href="javascript:;" data-href="/finance/expense/list" data-id="117" class="tab-a" data-title="我处理的报销">
+							<p>待审报销</p>
+							<p class="pt-3"><cite>0</cite></p>
+						</a>
+					</li>
+					<li class="layui-col-xs4">
+						<a href="javascript:;" data-href="/finance/invoice/list" data-id="125" class="tab-a" data-title="我处理的发票">
+							<p>待审发票</p>
+							<p class="pt-3"><cite>0</cite></p>
+						</a>
+					</li>
+					<li class="layui-col-xs4">
+						<a href="javascript:;" data-href="/finance/income/index" data-id="131" class="tab-a" data-title="到账管理">
+							<p>待回款</p>
+							<p class="pt-3"><cite>0</cite></p>
+						</a>
+					</li>
+					<li class="layui-col-xs4">
+						<a href="javascript:;" data-href="/contract/index/index" data-id="167" class="tab-a" data-title="合同列表">
+							<p>待审合同</p>
+							<p class="pt-3"><cite>0</cite></p>
+						</a>
+					</li>
+					<li class="layui-col-xs4">
+						<a href="javascript:;" data-href="/project/task/index" data-id="179" class="tab-a" data-title="任务列表">
+							<p>待完成任务</p>
+							<p class="pt-3"><cite>0</cite></p>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>					
+						
+						<div class="layui-row layui-col-space12">
+	<div class="layui-col-md12">
+		<div class="layui-card">
+			<div class="layui-card-title">公告列表</div>
+			<div style="padding: 12px;">
+				<table id="Note" lay-filter="Note" class="layui-hide" style="margin-top:0"></table>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+//公告
+function layoutNote(table){
+	table.render({
+		elem: '#Note'
+		, url: "/home/api/get_note_list" //数据接口
+		, page: false //开启分页
+		, cols: [[ //表头
+			{ field: 'cate_title', title: '公告分类', align: 'center','width': 90},
+			{ field: 'title', title: '公告标题',templet: '<div><a data-href="/note/index/view/id/{{d.id}}.html" class="side-a">{{d.title}}</a></div>'},
+			{ field: 'create_time', title: '发布时间', align: 'center','width': 150}
+		]]
+	});
+}
+</script>	
+						
+						<div class="layui-row layui-col-space12">
+	<div class="layui-col-md12">
+		<div class="layui-card">
+			<div class="layui-card-title">知识列表</div>
+			<div style="padding: 12px;">
+				<table id="Article" lay-filter="Article" class="layui-hide" style="margin-top:0"></table>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+//公告
+function layoutArticle(table){
+	//文章知识
+	table.render({
+		elem: '#Article'
+		, url: "/home/api/get_article_list" //数据接口
+		, page: false //开启分页
+		, cols: [[ //表头
+			{ field: 'cate_title', title: '知识分类', align: 'center','width': 90 },
+			{ field: 'title', title: '知识标题',templet: '<div><a data-href="/article/index/view/id/{{d.id}}.html" class="side-a">{{d.title}}</a></div>'},
+			{ field: 'create_time', title: '发布时间', align: 'center','width': 150}
+		]]
+	});
+}
+</script>	
+						
+					
+					
+						<div class="layui-row layui-col-space12">
+	<div class="layui-col-md12">
+		<div class="layui-card">
+			<div id="chartView" style="width: 100%;height:300px;"></div>
+		</div>
+	</div>
+</div>
+<script>
+var chartView;
+function layoutChartView() {
+	chartView = echarts.init(document.getElementById('chartView'));
+	$.ajax({
+		url: "/home/api/get_view_data",
+		type: 'get',
+		data: {},
+		success: function (e) {
+			if (e.code == 0) {
+				var data_first = e.data.data_first;
+				var data_second = e.data.data_second;
+				var myDate = new Date();
+				var nowHour = myDate.getHours(); //获取当前小时数(0-23)
+				var xData = [];
+				var yData1 = [];
+				var yData2 = [];
+				$.each(data_first, function (key, value) {
+					if (key <= nowHour) {
+						yData1.push(value);
+					}
+				});
+				$.each(data_second, function (key, value) {
+					xData.push(setHour(key));
+					yData2.push(value);
+				});
+				var ops = {
+					title: {
+						top: '12px',
+						text: '今日与昨日员工活跃度',
+						left: '6px',
+						textStyle: {
+							fontSize: '18',
+							color: '#333',
+						}
+					},
+					color: ["#1AAD19", "#1890FF"],
+					grid: {
+						left: '16px',
+						right: '30px',
+						bottom: '12px',
+						top: '60px',
+						containLabel: true
+					},
+					tooltip: {
+						trigger: 'axis',
+						axisPointer: {
+							type: 'cross',
+							crossStyle: {
+								color: '#999'
+							}
+						}
+					},
+					toolbox: {
+						show: true,
+					},
+					legend: {
+						data: ["今日", "昨日"],
+						top: '16px',
+					},
+					xAxis: [{
+						type: "category",
+						boundaryGap: !1,
+						data: xData,
+						axisLine: {
+							lineStyle: {
+								color: '#999999',
+								width: 1,
+							}
+						},
+					}],
+					yAxis: [{
+						type: "value",
+						axisLine: {
+							show: true,
+							lineStyle: {
+								color: '#999999',
+								width: 1,
+							}
+						},
+					}],
+					series: [{
+						name: "今日",
+						type: "line",
+						smooth: !0,
+						itemStyle: {
+							normal: {
+								areaStyle: {
+									type: "default",
+									opacity: 0.2
+								}
+							}
+						},
+						data: yData1
+					}, {
+						name: "昨日",
+						type: "line",
+						smooth: !0,
+						itemStyle: {
+							normal: {
+								areaStyle: {
+									type: "default",
+									opacity: 0.2
+								}
+							}
+						},
+						data: yData2
+					}]
+				}
+				chartView.setOption(ops);
+			}
+		}
+	})
+}
+</script>	
+						
+						<div class="layui-row layui-col-space12">
+	<div class="layui-col-md12">
+		<div class="layui-card">
+			<div id="chartYear" style="width: 100%;height:240px;"></div>
+		</div>
+	</div>
+</div>
+<script>
+var myChart;
+function layoutChartYear() {
+    myChart = echarts.init(document.getElementById('chartYear'));
+	$.ajax({
+		url: "/home/api/get_view_data",
+		type: 'get',
+		data: {},
+		success: function (e) {
+			if (e.code == 0) {			
+				var archiveCalendar = e.data.data_three;			
+				let option = {
+					title: {
+						top: '12px',
+						text: '近一年员工活跃度',
+						left: '8px',
+						textStyle: {
+							fontSize: '18',
+							color: '#333',
+						}
+					},
+					tooltip: {
+						padding: 6,
+						formatter: function (obj) {
+							var value = obj.value;
+							return '<div style="font-size: 12px;">' + value[0] + '员工活跃度：' + value[1] + '</div>';
+						}
+					},
+					visualMap: {
+						min: 0,
+						max: 300,
+						show: false,
+						inRange: {
+							color: ['#fafafa', '#1AAD19']
+						}
+					},
+					calendar: {
+						top: 75,
+						left: 52,
+						right: 20,
+						range: getRange(),
+						cellSize: ['auto', 21],
+						splitLine: {
+							lineStyle: {
+								color: '#aaa',
+								type: 'dashed'
+							}
+						},
+						itemStyle: {
+							borderWidth: 0.5
+						},
+						yearLabel: { show: false },
+						monthLabel: {
+							nameMap: 'cn',
+							fontSize: 12
+						},
+						dayLabel: {
+							show: true,
+							formatter: '{start}  1st',
+							fontWeight: 'lighter',
+							nameMap: ['周日', '周一', '周二', '周三', '周四', '周五', '周六'],
+							fontSize: 12
+						}
+					},
+					series: [{
+						type: 'heatmap',
+						coordinateSystem: 'calendar',
+						calendarIndex: 0,
+						data: getDay(archiveCalendar)
+					}]
+				};
+				myChart.setOption(option);
+			}
+		}
+	})
+}
+</script>	
+						
+					
+					
+					
+			</div>
+	<div class="layui-col-md4">
+																						<div class="layui-card layui-right-bar">
+	<div class="layui-row pt-3 px-3 py-2">
+		<ul class="layui-col-space12">
+			<li class="layui-col-xs3">
+				<a href="javascript:;" data-href="/home/index/mail_list" data-id="0001" class="tab-a" data-title="通讯录">
+					<i class="iconfont icon-huamingce"></i>
+					<cite>通讯录</cite>
+				</a>
+			</li>
+			<li class="layui-col-xs3">
+				<a href="javascript:;" data-href="/oa/plan/calendar" data-id="98" class="tab-a" data-title="日程安排">
+					<i class="iconfont icon-kaoshijihua"></i>
+					<cite>日程安排</cite>
+				</a>
+			</li>
+			<li class="layui-col-xs3">
+				<a href="javascript:;" class="report-add">
+					<i class="iconfont icon-fuwuliebiao"></i>
+					<cite>+工作汇报</cite>
+				</a>
+			</li>
+			<li class="layui-col-xs3">
+				<a href="javascript:;" class="work-add">
+					<i class="iconfont icon-paikeshezhi"></i>
+					<cite>+工作记录</cite>
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<script>
+function layoutFastentry(tool,work,table){
+	$('.work-add').on('click',function(){
+		work.add(0,{'id':0});
+	})
+	$('.report-add').on('click',function(){
+		var type=[{'id':1,'title':'日报'},{'id':2,'title':'周报'},{'id':3,'title':'月报'}];
+		var tablereport;
+		layer.open({
+			title:'选择汇报类型',
+			type:1,
+			area:['360px','300px'],
+			content:'<div style="width:325px; padding:15px 15px 0"><div id="selectType"></div></div>',
+			success:function(){
+				tablereport=table.render({
+					elem: '#selectType',
+					cols: [[ //标题栏
+						{type:'radio',title: '选择'},
+						{field: 'title', title: '汇报类型'}
+					]],
+					data: type
+				  });			
+			},
+			btn:['确定'],
+			yes: function(idx){
+				var checkStatus = table.checkStatus(tablereport.config.id);
+				var data = checkStatus.data;
+				if(data.length>0){
+					tool.side('/oa/work/add?type='+data[0].id);
+					layer.close(idx);
+				}
+				else{
+					layer.msg('请选择汇报类型');
+					return false;
+				}
+			}
+		})
+	});
+}
+</script>	
+									<div class="layui-card">
+	<div class="layui-card-header"><h3>最活跃员工<span style="color:#999; font-size:14px; font-weight:400; margin-left:5px">最近30天前十的活跃度</span></h3></div>
+	<div class="layui-card-body">
+		<div id="logChart" style="width: 100%; height:268px;"></div>
+	</div>
+</div>
+<script>
+//动态
+var logChart;
+function layoutRaking() {
+	logChart = echarts.init(document.getElementById('logChart'));
+	$.ajax({
+		url: "/home/api/get_view_log",
+		type: 'get',
+		data: {},
+		success: function (e) {
+			if (e.code == 0) {
+				var data_logs = e.data.data_logs;
+				var logItem = [];
+				$.each(data_logs, function (key, value) {
+					let item = {
+						value: value.count,
+						name: value.name
+					};
+					logItem.push(item);
+				});
+				let optC = {
+					tooltip: {
+						trigger: 'item',
+						formatter: '{a} <br/>{b} :{d}%'
+					},
+					legend: {
+						top: '1%',
+						left: 'center'
+					},
+					series: [
+						{
+							name: '活跃度',
+							type: 'pie',
+							radius: '50%',
+							center: ['50%', '60%'],
+							data: logItem,
+							emphasis: {
+								itemStyle: {
+									shadowBlur: 10,
+									shadowOffsetX: 0,
+									shadowColor: 'rgba(0, 0, 0, 0.5)'
+								}
+							}
+						}
+					]
+				};
+				logChart.setOption(optC);
+			}
+		}
+	})
+}
+</script>	
+									<div class="layui-card">
+	<div class="layui-card-header"><h3>员工动态</h3><a data-title="员工动态" data-href="/home/api/log_list" class="pull-right tab-a">更多</a></div>
+	<div class="layui-card-body">
+		<ul class="layui-timeline" id="logs"></ul>
+	</div>
+</div>
+<script>
+//动态
+function layoutAction() {
+	$.ajax({
+		url: "/home/api/log_list",
+		type: 'get',
+		data: {
+			page: 1,
+			limit: 20
+		},
+		success: function (e) {
+			if (e.code == 0) {
+				var html = '';
+				$.each(e.data, function (key, value) {
+					html += '<li class="layui-timeline-item">\
+									<i class="layui-icon layui-timeline-axis"></i>\
+									<div class="layui-timeline-content layui-text">\
+									  <div class="layui-timeline-title"><span title="'+ value.id + '">' + value.times + '</span>，' + value.content + '</div>\
+									</div>\
+								  </li>';
+				});
+				$('#logs').html(html);
+			}
+		}
+	})
+}
+</script>	
+						</div>
+</div>
+</div>
+
+	<!-- /主体 -->
+
+	<!-- 底部 -->
+	
+	<!-- /底部 -->
+	
+	<!-- 脚本 -->
+	
+<script src="/static/assets/third_party/echart/echarts.min.js"></script>
+<script>
+	function getRange() {
+		let today = new Date();
+		let tYear = today.getFullYear();
+		let tMonth = today.getMonth() + 1;
+		let tDate = today.getDate();
+		let dateFirst = tYear + "-" + tMonth + "-" + tDate;
+		let datelast = (tYear - 1) + "-" + tMonth + "-" + tDate;
+		let dataRange = [];
+		dataRange.push(dateFirst);
+		dataRange.push(datelast);
+		return dataRange;
+	}
+
+	function getDay(archiveCalendar) {
+		var today = new Date();
+		var dayArray = [];
+		for (var i = 0; i < 366; i++) {
+			var targetday_milliseconds = today.getTime() - 1000 * 60 * 60 * 24 * i;
+			var date = new Date(targetday_milliseconds);
+			dayArray.push(retunDay(date,archiveCalendar));
+		}
+		return dayArray;
+	}
+
+	function retunDay(day,archiveCalendar) {
+		var tYear = day.getFullYear();
+		var tMonth = day.getMonth();
+		var tDate = day.getDate();
+		tMonth = tMonth + 1;
+		if (tMonth.toString().length == 1) {
+			tMonth = "0" + tMonth;
+		}
+		if (tDate.toString().length == 1) {
+			tDate = "0" + tDate;
+		}
+		var dateStr = tYear + "-" + tMonth + "-" + tDate;
+		var dateArray = [];
+		dateArray.push(dateStr);
+		if (archiveCalendar[dateStr]) {
+			dateArray.push(archiveCalendar[dateStr]);
+		}
+		else {
+			dateArray.push(0);
+		}
+		return dateArray;
+	}
+	
+	function setHour(num) {
+		var str = num + ':00';
+		if (num < 10) {
+			str = '0' + num + ':00';
+		}
+		return str;
+	}
+
+	const moduleInit = ['tool','oaSchedule'];
+	function gouguInit() {
+		var tool = layui.tool,table = layui.table,work = layui.oaSchedule;
+		
+		if(typeof layoutNote ==='function'){
+			layoutNote(table);
+		}
+		
+		if(typeof layoutArticle ==='function'){
+			layoutArticle(table);
+		}
+		
+		if(typeof layoutArticle ==='function'){
+			layoutArticle(table);
+		}
+		
+		if(typeof layoutProject ==='function'){
+			layoutProject(table);
+		}
+		
+		if(typeof layoutTask ==='function'){
+			layoutTask(table);
+		}
+		
+		if(typeof layoutChartView ==='function'){
+			layoutChartView();
+		}
+		
+		if(typeof layoutChartYear ==='function'){
+			layoutChartYear();
+		}
+		
+		if(typeof layoutFastentry ==='function'){
+			layoutFastentry(tool,work,table)
+		}
+		
+		if(typeof layoutSystem ==='function'){
+			layoutSystem()
+		}
+		
+		if(typeof layoutRaking ==='function'){
+			layoutRaking()
+		}
+		
+		if(typeof layoutAction ==='function'){
+			layoutAction()
+		}	
+	}
+	
+setTimeout(function () {
+	window.onresize = function () {
+		if(logChart){
+			chartView.resize();
+		}
+		if(myChart){
+			myChart.resize();
+		}
+		if(logChart){
+			logChart.resize();
+		}
+	}
+})
+</script>
+
+	<!-- /脚本 -->
+	<script src="/static/assets/layui/layui.js"></script>
+	<script src="/static/assets/gougu/gouguInit.js"></script>
+	<!-- 统计代码 -->
+	
+	<!-- /统计代码 -->
+</body>
+</html>

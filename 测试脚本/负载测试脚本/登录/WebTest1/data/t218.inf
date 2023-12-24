@@ -1,0 +1,11 @@
+[t218]
+FileName1=t218.json
+URL1=http://192.168.133.196/home/login/login_submit
+Total=1
+RequestHeaderFile=t218_RequestHeader.txt
+RequestBodyFile=t218_RequestBody.txt
+ResponseHeaderFile=t218_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_218.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

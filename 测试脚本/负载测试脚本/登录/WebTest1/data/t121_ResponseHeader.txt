@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Date: Wed, 20 Dec 2023 11:49:37 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&LI&address2&123&username&t1&hash&49&lastName&Bin%0A&address1&123&creditCard&&expDate&%0A; path=/
+Connection: close
+Content-Type: text/html; charset=ISO-8859-1
+

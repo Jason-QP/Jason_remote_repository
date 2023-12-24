@@ -1,0 +1,10 @@
+[t171]
+FileName1=t167.htm
+URL1=http://192.168.133.196/home/conf/index
+Total=1
+SnapshotXmlFile=snapshot_171.xml
+RequestHeaderFile=t171_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t171_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t438]
+FileName1=t438.txt
+URL1=https://clientservices.googleapis.com/uma/v2
+Total=1
+RequestHeaderFile=t438_RequestHeader.txt
+RequestBodyFile=t438_RequestBody.txt
+ResponseHeaderFile=t438_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_438.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

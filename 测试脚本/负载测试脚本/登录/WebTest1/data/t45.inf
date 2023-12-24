@@ -1,0 +1,10 @@
+[t45]
+FileName1=t43.html
+URL1=http://ocsp.digicert.com/
+Total=1
+SnapshotXmlFile=snapshot_45.xml
+RequestHeaderFile=t45_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t45_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

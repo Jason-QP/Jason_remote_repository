@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Wed, 20 Dec 2023 11:58:38 GMT
+Server: Apache/2.2.21 (Win32)
+Set-Cookie: MSO=MSO_JSFormSubmit1&on&SID&&MSO_JSWPages&on&MSO_ServerLoadProb&50&MSO_ServerErrorsProb&50; path=/
+Connection: close
+Content-Type: text/html; charset=ISO-8859-1
+

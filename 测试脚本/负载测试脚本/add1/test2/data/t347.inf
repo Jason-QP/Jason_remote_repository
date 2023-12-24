@@ -1,0 +1,10 @@
+[t347]
+FileName1=t343.htm
+URL1=http://192.168.129.196/home/login/index.html
+Total=1
+SnapshotXmlFile=snapshot_347.xml
+RequestHeaderFile=t347_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t347_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,10 @@
+[t171]
+FileName1=t170.json
+URL1=http://192.168.129.196/home/index/index
+Total=1
+SnapshotXmlFile=snapshot_171.xml
+RequestHeaderFile=t171_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t171_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

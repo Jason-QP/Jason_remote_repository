@@ -1,0 +1,4 @@
+"<?xml version=\"1.0\" encoding=\"utf-8\"?><request><product>Internet Explorer®</product><trad"
+"emark>Microsoft®</trademark><euppid>I9rCKyTdKmkKyd5IPv+S703tHy0YxHCdKRwsCiQVAx0=</euppid><typ"
+"e>dsp</type><rid>{8BF8D18C-7CB8-47D1-AF47-556E3A76E18B}</rid><hashvalue>zw32Hq/1nb0KEqnBhXbz17"
+"bMHcziIVF6wRw4Ujx2Mvs=</hashvalue><source>CE</source></request>"

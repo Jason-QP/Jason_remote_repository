@@ -1,0 +1,11 @@
+[t300]
+FileName1=t300.json
+URL1=http://192.168.129.196/home/index/index
+Total=1
+RequestHeaderFile=t300_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t300_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_300.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

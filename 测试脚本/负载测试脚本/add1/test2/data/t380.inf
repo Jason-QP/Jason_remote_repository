@@ -1,0 +1,15 @@
+[t380]
+FileName1=t380.htm
+URL1=http://192.168.129.196/
+Total=2
+RequestHeaderFile=t380_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t380_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_380.xml
+FileName2=t380f0.htm
+URL2=http://192.168.129.196/home/index/main.html
+FrameIndex2=0.0
+UseFrameIndex=1
+[ProtocolInfo]
+ProtocolId=QTWeb

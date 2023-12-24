@@ -1,0 +1,9 @@
+POST /submit/telemetry/0d2567c3-1938-4721-b605-a82f16688cf3/event/Firefox/121.0/release/20231211174248?v=4 HTTP/1.1
+Date: Sat, 23 Dec 2023 13:43:54 GMT
+X-PingSender-Version: 1.0
+Content-Encoding: gzip
+User-Agent: pingsender/1.0
+Host: incoming.telemetry.mozilla.org
+Content-Length: 3341
+Cache-Control: no-cache
+

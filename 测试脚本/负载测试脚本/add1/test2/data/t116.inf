@@ -1,0 +1,14 @@
+[t116]
+FileName1=t111.htm
+URL1=http://192.168.129.196/
+Total=2
+FileName2=t111f0.htm
+URL2=http://192.168.129.196/home/index/main.html
+FrameIndex2=0.0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_116.xml
+RequestHeaderFile=t116_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t116_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,15 @@
+[t205]
+FileName1=t205.htm
+URL1=http://192.168.129.196/home/login/index.html?username=lixiaobin&password=123456&captcha=23
+Total=3
+RequestHeaderFile=t205_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t205_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_205.xml
+FileName2=t205_layui.html
+URL2=http://192.168.129.196/static/assets/layui/layui.js?v=1.0.22
+FileName3=t205_captcha.png
+URL3=http://192.168.129.196/captcha.html
+[ProtocolInfo]
+ProtocolId=QTWeb

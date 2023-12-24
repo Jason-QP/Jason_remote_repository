@@ -1,0 +1,11 @@
+[t326]
+FileName1=t326.txt
+URL1=http://clientservices.googleapis.com/uma/v2
+Total=1
+RequestHeaderFile=t326_RequestHeader.txt
+RequestBodyFile=t326_RequestBody.txt
+ResponseHeaderFile=t326_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_326.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

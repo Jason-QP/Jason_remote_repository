@@ -1,0 +1,14 @@
+POST /home/login/login_submit HTTP/1.1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+X-Requested-With: XMLHttpRequest
+Referer: http://192.168.129.196/home/login/index.html
+Accept-Language: zh-CN
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; LCTE; rv:11.0) like Gecko
+Host: 192.168.129.196
+Content-Length: 45
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: PHPSESSID=e84a5d270b41f7c5f364b5d946cb2fa4
+

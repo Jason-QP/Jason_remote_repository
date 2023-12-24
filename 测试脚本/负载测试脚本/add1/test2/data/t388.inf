@@ -1,0 +1,11 @@
+[t388]
+FileName1=t388.json
+URL1=https://update.googleapis.com/service/update2/json?cup2key=13:Lfd_izrinfKv66mRauAu6G4ujYfb5NMaj3_By0jWxEk&cup2hreq=b076ae28f223867eeee680008ed599a99faf087aff6428fff265ce47148f891a
+Total=1
+RequestHeaderFile=t388_RequestHeader.txt
+RequestBodyFile=t388_RequestBody.txt
+ResponseHeaderFile=t388_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_388.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

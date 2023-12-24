@@ -1,0 +1,17 @@
+[t138]
+FileName1=t131.htm
+URL1=http://localhost/
+Total=3
+SnapshotXmlFile=snapshot_138.xml
+RequestHeaderFile=t138_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t138_ResponseHeader.txt
+FileName2=t138f0.htm
+URL2=http://localhost/home/index/main.html
+ContentType=text/html
+FrameIndex2=0.0
+UseFrameIndex=1
+FileName3=t138_echarts.min.html
+URL3=http://localhost/static/assets/third_party/echart/echarts.min.js
+[ProtocolInfo]
+ProtocolId=QTWeb

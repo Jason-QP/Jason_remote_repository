@@ -1,0 +1,11 @@
+[t47]
+FileName1=t47.txt
+URL1=https://clientservices.googleapis.com/uma/v2
+Total=1
+RequestHeaderFile=t47_RequestHeader.txt
+RequestBodyFile=t47_RequestBody.txt
+ResponseHeaderFile=t47_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_47.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

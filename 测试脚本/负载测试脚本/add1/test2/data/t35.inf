@@ -1,0 +1,11 @@
+[t35]
+FileName1=t35.json
+URL1=http://192.168.129.196/home/index/index
+Total=1
+RequestHeaderFile=t35_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t35_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_35.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,16 @@
+[t4]
+SnapshotXmlFile=snapshot_4.xml
+ContentType=application/json
+StepName=Custom Request: json_2
+Total=2
+FileName1=t4.json
+FileName2=t3_1_group.png
+RequestHeaderFile=t4_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t4_ResponseHeader.txt
+RawStepEndTime=1703345281401
+RawStepName=json_2
+RequestBodyFile=t4_RequestBody.txt
+RawStepStartTime=1703345281168
+URL1=https://update.googleapis.com/service/update2/json?cup2key=13:zJ7pqy4GJlrJrg5-XoOMjQ0SqKnE715u_-g79SsSWrM&cup2hreq=bd6327e31e294b327ec54e54cb3c63b30955df7ae13bf295079e814416e5e71b
+URL2=https://pub.idqqimg.com/wpa/images/group.png

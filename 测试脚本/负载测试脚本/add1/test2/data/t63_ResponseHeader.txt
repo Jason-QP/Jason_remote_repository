@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Type: text/plain; charset=UTF-8
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Date: Sat, 23 Dec 2023 08:59:20 GMT
+Server: uma-collector
+Cache-Control: private
+Content-Length: 22
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Connection: close
+

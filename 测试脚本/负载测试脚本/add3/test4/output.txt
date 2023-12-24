@@ -1,0 +1,78 @@
+Warning: Failed to post to 'http://127.0.0.1:8182/shunra/api/emulation/packetCaptureOnly', retcode=7.
+Warning: Failed to start NV emulation. Perhaps the NV server is not working, and therefore a NV report will not be generated.
+Virtual User Script started at: 2023-12-23 23:27:59
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2023.0.0 for Windows 10; build 506 (3月 08 2023 13:11:40)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "E:\SoftWareTesting\test4\\default.cfg"  	[MsgId: MMSG-27141]
+Warning: Failed to get NV emulation handle.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Warning: Failed to get NV emulation handle.
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): web_add_header("A-IM") started  	[MsgId: MMSG-26355]
+Action.c(6): web_add_header("A-IM") was successful  	[MsgId: MMSG-26392]
+Action.c(9): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(9): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(12): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(12): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(15): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(15): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(18): web_url("seed") started  	[MsgId: MMSG-26355]
+Action.c(18): HTML parsing not performed for Content-Type "application/x-gzip" ("ParseHtmlContentType" Runtime Setting is "TEXT"). URL="https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=120"  	[MsgId: MMSG-26547]
+Action.c(18): web_url("seed") was successful, 47739 body bytes, 381 header bytes  	[MsgId: MMSG-26386]
+Action.c(26): web_add_header("X-Goog-Update-AppId") started  	[MsgId: MMSG-26355]
+Action.c(26): web_add_header("X-Goog-Update-AppId") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_header("X-Goog-Update-Interactivity") started  	[MsgId: MMSG-26355]
+Action.c(29): web_add_header("X-Goog-Update-Interactivity") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_header("X-Goog-Update-Updater") started  	[MsgId: MMSG-26355]
+Action.c(32): web_add_header("X-Goog-Update-Updater") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_custom_request("json") started  	[MsgId: MMSG-26355]
+Action.c(35): web_custom_request("json") was successful, 264 body bytes, 1152 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): web_url("group.png") started  	[MsgId: MMSG-26355]
+Action.c(52): web_url("group.png") was successful, 1827 body bytes, 438 header bytes  	[MsgId: MMSG-26386]
+Action.c(60): web_add_header("X-Chrome-UMA-Log-HMAC-SHA256") started  	[MsgId: MMSG-26355]
+Action.c(60): web_add_header("X-Chrome-UMA-Log-HMAC-SHA256") was successful  	[MsgId: MMSG-26392]
+Action.c(63): web_add_header("X-Chrome-UMA-Log-SHA1") started  	[MsgId: MMSG-26355]
+Action.c(63): web_add_header("X-Chrome-UMA-Log-SHA1") was successful  	[MsgId: MMSG-26392]
+Action.c(66): web_add_header("X-Chrome-UMA-ReportingInfo") started  	[MsgId: MMSG-26355]
+Action.c(66): web_add_header("X-Chrome-UMA-ReportingInfo") was successful  	[MsgId: MMSG-26392]
+Action.c(71): web_add_header("X-Goog-Update-AppId") started  	[MsgId: MMSG-26355]
+Action.c(71): web_add_header("X-Goog-Update-AppId") was successful  	[MsgId: MMSG-26392]
+Action.c(75): web_add_header("X-Goog-Update-Interactivity") started  	[MsgId: MMSG-26355]
+Action.c(75): web_add_header("X-Goog-Update-Interactivity") was successful  	[MsgId: MMSG-26392]
+Action.c(78): web_add_header("X-Goog-Update-Updater") started  	[MsgId: MMSG-26355]
+Action.c(78): web_add_header("X-Goog-Update-Updater") was successful  	[MsgId: MMSG-26392]
+Action.c(81): web_custom_request("json_2") started  	[MsgId: MMSG-26355]
+Action.c(81): web_custom_request("json_2") was successful, 2348 body bytes, 1153 header bytes  	[MsgId: MMSG-26386]
+Action.c(112): web_add_header("X-Chrome-UMA-Log-SHA1") started  	[MsgId: MMSG-26355]
+Action.c(112): web_add_header("X-Chrome-UMA-Log-SHA1") was successful  	[MsgId: MMSG-26392]
+Action.c(115): web_add_header("X-Chrome-UMA-Log-HMAC-SHA256") started  	[MsgId: MMSG-26355]
+Action.c(115): web_add_header("X-Chrome-UMA-Log-HMAC-SHA256") was successful  	[MsgId: MMSG-26392]
+Action.c(118): web_add_auto_header("X-Chrome-UMA-ReportingInfo") started  	[MsgId: MMSG-26355]
+Action.c(118): web_add_auto_header("X-Chrome-UMA-ReportingInfo") was successful  	[MsgId: MMSG-26392]
+Action.c(122): web_add_header("X-Chrome-UMA-Log-SHA1") started  	[MsgId: MMSG-26355]
+Action.c(122): Warning -26591: A header of the same name has been added already. This header is added anyway.  	[MsgId: MWAR-26591]
+Action.c(122): web_add_header("X-Chrome-UMA-Log-SHA1") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(125): web_add_header("X-Chrome-UMA-Log-HMAC-SHA256") started  	[MsgId: MMSG-26355]
+Action.c(125): Warning -26591: A header of the same name has been added already. This header is added anyway.  	[MsgId: MWAR-26591]
+Action.c(125): web_add_header("X-Chrome-UMA-Log-HMAC-SHA256") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(131): web_add_header("X-Chrome-UMA-Log-HMAC-SHA256") started  	[MsgId: MMSG-26355]
+Action.c(131): Warning -26591: A header of the same name has been added already. This header is added anyway.  	[MsgId: MWAR-26591]
+Action.c(131): web_add_header("X-Chrome-UMA-Log-HMAC-SHA256") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(134): web_add_header("X-Chrome-UMA-Log-SHA1") started  	[MsgId: MMSG-26355]
+Action.c(134): Warning -26591: A header of the same name has been added already. This header is added anyway.  	[MsgId: MWAR-26591]
+Action.c(134): web_add_header("X-Chrome-UMA-Log-SHA1") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Ending action Action.
+Warning -26671: Pending "web_add_header" detected and reset at the end of iteration number 1  	[MsgId: MWAR-26671]
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Warning: Failed to get NV emulation handle.
+Ending action vuser_end.
+Vuser Terminated.

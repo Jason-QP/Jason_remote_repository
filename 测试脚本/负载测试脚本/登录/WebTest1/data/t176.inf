@@ -1,0 +1,15 @@
+[t176]
+FileName1=t176.htm
+URL1=http://192.168.133.196/
+Total=2
+RequestHeaderFile=t176_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t176_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_176.xml
+FileName2=t176f0.htm
+URL2=http://192.168.133.196/home/index/main.html
+FrameIndex2=0.0
+UseFrameIndex=1
+[ProtocolInfo]
+ProtocolId=QTWeb
